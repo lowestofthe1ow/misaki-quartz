@@ -53,15 +53,11 @@ C stores arrays in **row-major order**—which means it stores row 0 first, foll
 
 We can create an initializer for a two-dimensional array by nesting one dimensional initializers:
 ```c
-int m[2][3] = {{1, 2, 3},
-			   {4, 5, 6}};
+int m[2][3] = {{1, 2, 3}, {4, 5, 6}};
 ```
 Likewise, we can create an initializer for a **three**-dimensional array by nesting **two**-dimensional initializers:
 ```c
-int m[2][2][3] = {{{1, 2, 3},
-			       {4, 5, 6}},
-			      {{7, 8, 9},
-			       {10, 11, 12}}};
+int m[2][2][3] = {{{1, 2, 3}, {4, 5, 6}}, {{7, 8, 9}, {10, 11, 12}}};
 ```
 >[!warning] Omitting the initializer inner braces
 >It is possible to omit the inner braces in the initializer for a multidimensional array; once the compiler has seen enough values to fill one row, it begins filling the next. However, this may be risky, as an extra or missing element will affect the rest of the initializer.
