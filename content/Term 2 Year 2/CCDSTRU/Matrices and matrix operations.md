@@ -18,6 +18,8 @@ a_{m1} & a_{m2} & \dots & a_{mn}
 $$
 The $(i,j)$th element or **entry** of $\mathbf{A}$ is the element $a_{ij}$, i.e., the number in the $i$th row and $j$th column of $\mathbf{A}$. A convenient shorthand notation for expressing the matrix $\mathbf{A}$ is to write $\mathbf{A} = [a_{ij}]$, which indicates that $\mathbf{A}$ is the matrix whose $(i,j)$th element is equal to $a_{ij}$.
 >[!warning] Unlike most [[Arrays#Multidimensional array|array types]] in many programming languages, the counting for rows and for columns **start at 1**.
+<!--ID: 1712722536462-->
+
 
 ### Square
 
@@ -29,6 +31,8 @@ $$
 7 & 8 & 9
 \end{bmatrix}
 $$
+<!--ID: 1712722536465-->
+
 
 ### Equal matrices
 
@@ -39,6 +43,8 @@ $$
 4 & 5 & 6
 \end{bmatrix} = \mathbf{B}
 $$
+<!--ID: 1712722536469-->
+
 
 ## Matrix arithmetic
 
@@ -60,6 +66,8 @@ $$
 2 & 5 & 2
 \end{bmatrix}
 $$
+<!--ID: 1712722536472-->
+
 
 ### Matrix multiplication
 
@@ -73,3 +81,4 @@ $$
 \mathbf{AB} \neq \mathbf{BA}
 $$
 >[!error] The product of two matrices is defined **only if the number of columns in the first matrix equals the number of rows in the second matrix.** In other words, each row of the first matrix and each column of the second matrix **must have the same length**.
+<!--ID: 1712722536475-->

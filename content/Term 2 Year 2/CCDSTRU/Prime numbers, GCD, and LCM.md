@@ -6,6 +6,8 @@ tags: CCDSTRU
 ## Prime number
 
 A number $p \in \mathbb{Z}^+$ where $p > 1$ is **prime** if the only factors of $p$ are $1$ and $p$. A number $p \in \mathbb{Z}^+$ where $p > 1$ that is **not** prime is referred to as **composite**.
+<!--ID: 1712722536433-->
+
 
 ### Fundamental theorem of arithmetic
 
@@ -14,6 +16,8 @@ $$
 100=2\times2\times5\times5
 $$
 >[!info] If $n$ is a **composite** integer, then $n$ has a **prime** [[Division and modular arithmetic#Division|divisor]] less than or equal to $\sqrt{n}$.
+<!--ID: 1712722536439-->
+
 
 ## Greatest common divisor
 
@@ -25,6 +29,8 @@ $\text{gcd}(a,b)$ **exists** because $0 < |\{d|(d \mid a) \land (d \mid b)\}| < 
 >[!info] **Relatively prime** and **pairwise relatively prime**
 >- $a$ and $b$ are **relatively prime** if $\text{gcd}(a,b)=1$.
 >- The set of integers $\{a_1, a_2, \dots, a_n\}$ are **pairwise relatively prime** if $\forall i \forall j (\text{gcd}(a_i, a_j) = 1)$ where $1 \leq i < j \leq n$. In other words, **every possible pair of integers in the list is relatively prime.**
+<!--ID: 1712722536443-->
+
 
 ## Least common multiple
 
@@ -33,11 +39,15 @@ $$
 \text{lcm}(a,b)
 $$
 $\text{lcm}(a,b)$ **exists** because $|\{m|(a \mid m) \land (b \mid m)\}| > 0$ and every nonempty set of positive integers has a **least element**.
+<!--ID: 1712722536445-->
+
 
 ## Relationship between $\text{gcd}(a,b)$ and $\text{lcm}(a,b)$
 $$
 ab=\text{gcd}(a,b)\times\text{lcm}(a,b)
 $$
+<!--ID: 1712722536450-->
+
 
 ## Identifying $\text{gcd}(a,b)$ and $\text{lcm}(a,b)$ with prime representations
 
@@ -57,6 +67,8 @@ The least common multiple of $a$ and $b$ can be found in a similar manner, excep
 $$
 \text{lcm}(a,b)=p_1^{\text{max}(a_1,b_1)}, p_1^{\text{max}(a_2,b_2)}, \dots, p_1^{\text{max}(a_n,b_n)}
 $$
+<!--ID: 1712722536454-->
+
 
 ## Euclidean algorithm
 
@@ -72,3 +84,4 @@ $$
 \text{gcd}(r_n,0)=r_n
 $$
 >[!info] The Euclidean algorithm is **recursive**, with the **base case** being that $r=0$.
+<!--ID: 1712722536458-->
