@@ -3,7 +3,7 @@ title: Welcome.
 ---
 
 <center>
-<img src="src/Misaki.gif" />
+<img src="src/header.gif" />
 </center>
 
 If something breaks, refresh the page. It worked on my machine.
