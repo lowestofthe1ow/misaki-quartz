@@ -29,28 +29,38 @@ Approximately **70,000 years ago**, human culture first emerged, marking the sta
 Under **family** and **genus**. Species are a classification of organisms that tend to mate with each other and produce fertile offspring. Species have their own **niche** (gene pool and not much reproductive barrier) as too much genetic variability reduces success of adaptation.
 <!--ID: 1715778354631-->
 
-## Humans in East Africa
+## Interbreeding theory 
 
-### North and East Africa
+The **interbreeding theory** proposes that when Sapiens spread into Neanderthal lands, Sapiens bred with Neanderthals until the two populations merged. If this is the case, then today’s Eurasians are not pure Sapiens. They are a mixture of Sapiens and Neanderthals. Similarly, when Sapiens reached East Asia, they interbred with the local Erectus, so the Chinese and Koreans are a mixture of Sapiens and Erectus.
 
-#### Homo Rudolfensis
+## Replacement theory
 
-Man from **Lake Rudolf**, Kenya
-<!--ID: 1715778354635-->
+According to the **replacement theory**, Sapiens replaced all the previous human populations without merging with them. If that is the case, the lineages of all contemporary humans can be traced back, exclusively, to East Africa, 70,000 years ago. We are all ‘pure Sapiens’.
 
-#### Homo Ergaster
+## Human evolution
 
-**Working man**
-<!--ID: 1715778354639-->
+Modern Sapiens sport a brain averaging 1,200-1,400 cubic centimeters, with Neanderthal brains being even bigger. Sapiens were initially in the **middle** of the food chain until **400,000 years ago** when they began regularly hunting large game.
+**100,000** years ago, Sapiens would eventually reach the top of the food chain. As a consequence of this rapid ascent, however, there was not much time for natural adjustment.
 
-#### Homo Sapiens
+### Domestication of fire
 
-**Wise man**
-<!--ID: 1715778354642-->
+Around **800,000** years ago, there was occasional use of **fire**. It was not until **300,000** years ago that Erectus and Neanderthals would begin using it in regular bases.
 
-### Europe
+#### Cooking
 
-#### Homo Neanderthalensis
+Fire allowed for **cooking**, which enabled the digestion of food. This changed not only the food **chemistry** but also its **biology**:
+- Killed germs and parasites
+- Easier time eating, shorter time munching
+- More types of food
+- Smaller teeth and shorter intestines
 
-Man from the **Neander Valley**, known as **Neanderthals**, adapted to a colder climate.
-<!--ID: 1715778354647-->
+### Cognitive revolution
+
+An accidental genetic mutation around 30,000 years ago, referred to as the **tree of knowledge** mutation, enabled the Sapiens' use of **language** to conquer the world. Note that this was **not** the "first language" as other animals could also communicate.
+>[!faq] Why Sapiens and not Neanderthals?
+> Pure chance.
+
+#### Language
+
+Human language is "amazingly supple." Unique language evolved as a means of sharing information; **gossiping** was important for survival as it could "bind" a group of up to around 150 people.
+Unique abilities of Sapien language include its ability to transmit information that do not exist at all (myths) and its ability to allow them to do things collectively.

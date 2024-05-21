@@ -13,6 +13,22 @@ $$
 >[!info] In other words, matrix addition is performed **component-wise**.
 <!--ID: 1715778362699-->
 
+### Properties of matrix addition
+
+Matrix addition is **commutative** and **associative**. Furthermore, there exists a matrix $\mathbf{O}$ such that $\mathbf{A} + \mathbf{O} = \mathbf{a}$; $\mathbf{O}$ is a **zero matrix** and is called the **additive identity** for matrix addition:
+$$
+\mathbf{O} = \begin{bmatrix}
+0 & 0 & \dots & 0 \\
+0 & 0 & & \vdots \\
+\vdots & & \ddots & \vdots \\
+0 & \dots & \dots & 0
+\end{bmatrix}
+$$
+There also exists a matrix $-\mathbf{A}$ such that $\mathbf{A} + (-\mathbf{A}) = \mathbf{O}$, called the **additive inverse** or **negative** of $\mathbf{A}$:
+$$
+\mathbf{A} = [a_{ij}] \to -\mathbf{A} = [-a_{ij}]
+$$
+
 ## Matrix multiplication
 
 *See also*: [[Matrices_and_matrix_operations#Matrix multiplication|Matrix multiplication]]
@@ -38,6 +54,20 @@ b_{n}
 $$
 <!--ID: 1715778362708-->
 
+### Properties of matrix multiplication
+
+Matrix multiplication is **not commutative** (i.e., it is not necessarily the case that $\mathbf{AB} = \mathbf{BA}$). It is, however, **associative**:
+$$
+(\mathbf{AB})\mathbf{C} = \mathbf{A}(\mathbf{BC})
+$$
+—and **distributive**:
+$$
+\begin{align*}
+\mathbf{A}(\mathbf{B} + \mathbf{C}) &= \mathbf{AB} + \mathbf{AC} \\
+(\mathbf{A} + \mathbf{B})\mathbf{C} &= \mathbf{AC} + \mathbf{BC}
+\end{align*}
+$$
+
 ## Scalar multiplication
 
 Given the $m \times n$ matrix $\mathbf{A}$ and the real number $r$, the **scalar multiple** of $\mathbf{A}$ by $r$ is the $m \times n$ matrix $\mathbf{B}$ such that:
@@ -47,7 +77,37 @@ $$
 >[!info] In other words, like addition, scalar multiplication is performed **component-wise**.
 <!--ID: 1715778362712-->
 
+### Properties of scalar multiplication
+
+As it is done component-wise, scalar multiplication is **commutative** and **associative**. It is also **distributive**:
+$$
+\begin{align*}
+(r+s)\mathbf{A} &= r\mathbf{A} + s\mathbf{A} \\
+r(\mathbf{A} + \mathbf{B}) &= r\mathbf{A} + r\mathbf{B}
+\end{align*}
+$$
+
 ## Transposition
 
-The transpose of a matrix $\mathbf{A}$ is obtained by interchanging the rows and columns of $\mathbf{A}$.
+The transpose of a matrix $\mathbf{A}$ is obtained by interchanging the rows and columns of $\mathbf{A}$. The following properties hold:
+$$
+\begin{align*}
+(\mathbf{AB})^T &= \mathbf{B}^T\mathbf{A}^T \\
+(\mathbf{A}^T)^T &= \mathbf{A} \\
+(\mathbf{A} + \mathbf{B})^T &= \mathbf{A}^T + \mathbf{B}^T \\
+(r\mathbf{A})^T &= r(\mathbf{A}^T)
+\end{align*}
+$$
 <!--ID: 1715778362717-->
+
+### Symmetric matrix
+
+A matrix $\mathbf{A}$ is **symmetric** if and only if $\mathbf{A}^T = \mathbf{A}$:
+$$
+\mathbf{A} = [a_ij = a_ji]
+$$
+>[!info] A symmetric matrix can be said to be "symmetric along the main diagonal."
+
+#### Skew symmetric
+
+A matrix $\mathbf{A}$ is **skew symmetric** if and only if $\mathbf{A}^T = -\mathbf{A}$.
