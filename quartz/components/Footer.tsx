@@ -19,7 +19,7 @@ export default ((opts?: Options) => {
           {i18n(cfg.locale).components.footer.createdWith}{" "}
           <a href="https://quartz.jzhao.xyz/">Quartz v{version}</a> © {year}
           <br /><br />
-          <span style="font-style: italic">Even if you personally are so dissatisfied with life that you want the world to end, surely the cruel reality is that it will continue on, unchanging. All the better for someone perfectly content, like me.</span>
+          <span style="font-style: italic">Yeah, 'cause fear's a powerful emotion. You can use it to make your other emotions stronger too. lf you're afraid, you'll put in more effort and work harder. If you fly while afraid, you're going to fight to get used to it faster.</span>
           <br /><br />
         </p>
         <ul>
