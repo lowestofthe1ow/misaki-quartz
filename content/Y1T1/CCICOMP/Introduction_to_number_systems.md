@@ -29,6 +29,7 @@ Computers process data into information and work exclusively with numbers. All d
 |8|Octal|20|Vigesimal|
 |9|Nonary|24|Tetravigesimal|
 |10|Decimal|25|Pentavigesimal|
+
 <!--ID: 1694777708886-->
 
 ### Decimal number system
@@ -77,6 +78,7 @@ Computers process data into information and work exclusively with numbers. All d
 |Binary|Hexadecimal|Group by 4 digits from the right, convert to corresponding hex digit|
 |Octal|Binary|Convert each octal digit to corresponding 3-digit binary value|
 |Hexadecimal|Binary|Convert each hex digit to corresponding 4-digit binary value|
+
 <!--ID: 1694777708901-->
 
 ### Binary-decimal, octal-decimal, hexadecimal-decimal
@@ -84,29 +86,35 @@ Computers process data into information and work exclusively with numbers. All d
 |$1$|$0$|$1$|
 |---|---|---|
 |$1\times2^2$|$1\times2^1$|$1\times2^0$|
-|$4$|$0$|$1$</table>|
-$$
-$$
+|$4$|$0$|$1$|
+
 Each digit appearing to the left of the binary point represents a value times an increasing power of the relevant base or radix. In this case, $4+0+1=5$, i.e.:
+
 $$
 101_b = 5_d
 $$
+
 <!--ID: 1694777708904-->
 
 #### Continuous division
 
 ![[Base_conversion_-_Continuous_division.png]]
+
 <!--ID: 1694777708908-->
 
 #### Continuous multiplication
 
 ![[Base_conversion_-_Continuous_multiplication.png]]
+
 <!--ID: 1696942815366-->
 
 ### Binary-octal and binary-hexadecimal
 
 One ***octal*** digit is equal to three ***binary*** digits.
+
 One ***hexadecimal*** digit is equal to four ***binary*** digits.
+
 ![[Base_conversion_-_Binary-octal-hexadecimal.png]]
+
 <!--ID: 1694777708912-->
 

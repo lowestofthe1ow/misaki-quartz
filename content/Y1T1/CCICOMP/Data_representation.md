@@ -8,9 +8,12 @@ Computer systems represent data electrically and process it with electrical swit
 
 ## Factors for representation
 
+<!--ID: 1716721003496-->
+
 ### Data size and Range
 
 Data size describes the number of bits ([[Introduction_to_number_systems#Binary number system|from "binary digit"]]) used to represent a numeric value which directly affects the range of values that can be represented. **Smaller size indicates a smaller range**. 
+
 <!--ID: 1695735170747-->
 
 ### Accuracy
@@ -21,6 +24,7 @@ Data size describes the number of bits ([[Introduction_to_number_systems#Binary 
 ## Data types
 
 A data type specifies:
+
 - the kind of values that can be assumed by a variable of that type
 - the [[Tokens_and_token_classification#Data type ranges|range]] of values that can be assumed by a variable of that type
 - the amount of memory (in bytes) needed by a variable to store a value of that type
@@ -38,10 +42,12 @@ Includes **integers**, **floating-point numbers**, **characters**, **strings**
 
 - Positive integers only
 - Fixed number of bits $n$; values range from 0 to $2^n - 1$
+
 ```
 ___ ___ ___ ___ ___ ___ ___ ___   .
 128  64  32  16   8   4   2   1 radix
 ```
+
 <!--ID: 1695813839293-->
 
 #### Signed integers

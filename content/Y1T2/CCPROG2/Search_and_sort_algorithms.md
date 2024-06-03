@@ -11,6 +11,7 @@ title: Search and sort algorithms
 3. Start a nested `for` loop that counts `j` from `i + 1` and stops at `len`
 4. If element pointed to by `arr[j]` is greater than `min`, set `min` to `j`
 5. If `min` changed (optional), swap `arr[i]` and `arr[min]`
+
 ```c
 void selectionSort(int * arr, int len) {
 		int i, j, min, temp;
@@ -30,6 +31,7 @@ void selectionSort(int * arr, int len) {
         }
 }
 ```
+
 <!--ID: 1708438973781-->
 
 ## Binary search
@@ -41,6 +43,7 @@ void selectionSort(int * arr, int len) {
 	2. If it is greater than `target`, set `high` to less than `guess`
 	3. Otherwise, set `low` to higher than `guess`
 4. Repeat until `low` is greater than `high`
+
 ```c
 int binarySearch(int * arr, int target, int len) {
         int low = 0, high = len - 1, guess;
@@ -56,4 +59,5 @@ int binarySearch(int * arr, int target, int len) {
         return -1;
 }
 ```
+
 <!--ID: 1708438973787-->

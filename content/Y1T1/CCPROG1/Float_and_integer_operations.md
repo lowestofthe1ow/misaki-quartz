@@ -14,6 +14,7 @@ title: Float and integer operations
 |int + float = float|5 + 2.0 = 7.0|
 |float+ int = float|5.0 + 2 = 7.0|
 |float+ float = float|5.0 + 2.0 = 7.0|
+
 <!--ID: 1694694364128-->
 
 ## Operator: - (subtraction)
@@ -24,6 +25,7 @@ title: Float and integer operations
 |int - float = float|5 - 2.0 = 3.0|
 |float - int = float|5.0 - 2 = 3.0|
 |float - float = float|5.0 - 2.0 = 3.0|
+
 <!--ID: 1694694364132-->
 
 ## Operator: * (multiplication)
@@ -34,6 +36,7 @@ title: Float and integer operations
 |int * float = float|5 * 2.0 = 10.0|
 |float * int = float|5.0 * 2 = 10.0|
 |float * float = float|5.0 * 2.0 = 10.0|
+
 <!--ID: 1694694364135-->
 
 ## Operator: / (division)
@@ -44,4 +47,5 @@ title: Float and integer operations
 |int / float = float|5 / 2.0 = 2.5|
 |float / int = float|5.0 / 2 = 2.5|
 |float / float = float|5.0 / 2.0 = 2.5|
+
 <!--ID: 1694694364138-->

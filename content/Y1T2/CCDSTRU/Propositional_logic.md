@@ -7,7 +7,9 @@ title: Propositional logic
 ## Proposition
 
 A proposition is a declarative sentence that is either **true** or **false**, but not both.
+
 All the following declarative sentences are propositions; propositions 1 and 3 are true, whereas 2 and 4 are false. 
+
 1. Washington, D.C., is the capital of the United States of America.E
 2. Toronto is the capital of Canada.
 3. 1 + 1 = 2.
@@ -17,27 +19,33 @@ All the following declarative sentences are propositions; propositions 1 and 3 a
 ### Propositional variables
 
 We use letters to denote propositional variables (or sentential variables), that is, variables that represent propositions, just as letters are used to denote numerical variables.
+
 >[!warning] When declaring propositional variables, use simple (atomic) propositions. Avoid operators in declarations.
+
 <!--ID: 1706459585178-->
 
 ### Truth value
 
 The truth value of a proposition is true, denoted by T, if it is a **true proposition**, and false, denoted by F, if it is a **false proposition**.
+
 <!--ID: 1706459585182-->
 
 ### Compound propositions
 
 Formed from existing propositions using logical operators
+
 <!--ID: 1706459585185-->
 
 ## Logical operators
 
 Operators that take existing propositions to form compound propositions
+
 <!--ID: 1706459585189-->
 
 ### Truth table
 
 A table consisting of $n$ input columns, an output column, and $x^n$ rows, where $x$ is the number of possible values (**true** or **false** means 2 values) and $n$ is the number of variables
+
 <!--ID: 1706459585193-->
 
 ### Negation (NOT)
@@ -56,6 +64,7 @@ A table consisting of $n$ input columns, an output column, and $x^n$ rows, where
 |---|---|
 |T|F|
 |F|T|
+
 <!--ID: 1706459585202-->
 
 ### Conjunction (AND)
@@ -77,6 +86,7 @@ A table consisting of $n$ input columns, an output column, and $x^n$ rows, where
 |T|F|F|
 |F|T|F|
 |F|F|F|
+
 <!--ID: 1706459585209-->
 
 ### Disjunction (Inclusive OR)
@@ -98,6 +108,7 @@ A table consisting of $n$ input columns, an output column, and $x^n$ rows, where
 |T|F|T|
 |F|T|T|
 |F|F|F|
+
 <!--ID: 1706459585216-->
 
 ### Exclusive or (XOR)
@@ -109,7 +120,9 @@ A table consisting of $n$ input columns, an output column, and $x^n$ rows, where
 	- $p$: "The steak comes with soup"
 	- $q$: "The steak comes with dessert"
 	- $p \oplus q$: "The steak comes with soup or dessert, but not both"
+
 >[!warning] Assume inclusive or unless stated otherwise.
+
 <!--ID: 1706459585220-->
 
 #### Exclusive or truth table
@@ -120,6 +133,7 @@ A table consisting of $n$ input columns, an output column, and $x^n$ rows, where
 |T|F|T|
 |F|T|T|
 |F|F|F|
+
 <!--ID: 1706459585224-->
 
 ### Implication (conditional)
@@ -141,6 +155,7 @@ A table consisting of $n$ input columns, an output column, and $x^n$ rows, where
 |T|F|F|
 |F|T|T|
 |F|F|T|
+
 <!--ID: 1706459585231-->
 
 #### Converse
@@ -175,5 +190,6 @@ A table consisting of $n$ input columns, an output column, and $x^n$ rows, where
 |T|F|F|
 |F|T|F|
 |F|F|T|
+
 <!--ID: 1706459633917-->
 

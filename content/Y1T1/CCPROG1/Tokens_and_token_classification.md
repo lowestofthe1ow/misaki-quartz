@@ -11,11 +11,15 @@ A programming language is a formal language that is used to give instructions to
 ## Tokens
 
 ![[Token_classification_in_C.png]]
+
 C programs are composed of a sequence of characters that are grouped by a compiler into identifiable **tokens**. These groups of characters cannot be split up without changing their meaning. Tokens can generally be classified into [[Tokens_and_token_classification#Literals|literals]] (numeric, character, and string), [[Tokens_and_token_classification#Identifiers|identifiers]], [[Tokens_and_token_classification#Operators|operators]], [[Tokens_and_token_classification#Keywords|keywords]], and [[Tokens_and_token_classification#Separators or punctuation|separators]] (punctuation). For example, consider the statement:
+
 ```c
 printf("Height: %d\n", height);
 ```
+
 This statement consists of seven tokens:
+
 ```c
 printf         // Identifier
 (              // Seperator / punctuation
@@ -25,17 +29,21 @@ height         // Identifier
 )              // Separator / punctuation
 ;              // Separator / punctuation
 ```
+
 Note that **any** amount of space—blanks, tabs, and newline characters—can be placed between tokens.
+
 <!--ID: 1694694364077-->
 
 ### Literals
 
 Literals are used to represent **fixed values** and can generally be classified as numeric or non-numeric. They have a value and a [[Data_representation#Data types|data type]], but are **nonaddressable**; i.e., they are stored in memory but there are no means of accessing that address. Examples include `1`, `2.5`, `'a'`, or `"Hello, world!"`.
+
 <!--ID: 1698042811625-->
 
 #### Numeric literals or numeric constants
 
 Numeric literals can be further subdivided into [[Data_representation#Integers|integers]] and [[Data_representation#Floating-point numbers|floating-point numbers]]. `int` values do not contain any fractional part (as "whole numbers"). `float` values, on the other hand, do contain fractional parts and can be expressed in scientific notation. In defining numeric constants, the following rules should be followed:
+
 1. No comma.
 2. No space between the unary sign (`+` or `-`) and the digits.
 3. Must begin and end with a digit.
@@ -59,17 +67,20 @@ Numeric literals can be further subdivided into [[Data_representation#Integers|i
 |`\"`|**Double quote**|
 |`\?`|Question mark|
 |`\0`|**Null character**|
-|`%%`|**Percent symbol**</table>|
-$$
-$$
+|`%%`|**Percent symbol**|
+
 A character literal is a single [[Data_representation#Characters|character]] enclosed in single quotes(`'`). Examples include `'a'`, `'I'`, `'+'`, `'2'` Note that there are some special characters that require using a backslash (`\`; as used in escape sequences seen in the table above) or a percentage symbol (`%`; as used in **placeholders** such as in formatted input/output).
+
 > Common escape sequences covered within CCPROG1 are highlighted in bold.
+
 <!--ID: 1694694364083-->
 
 #### String literals
 
 A series of characters is called a [[Data_representation#String|string]]. A string literal should be enclosed in double-quotes (`""`). Note that certain special characters also need the escape character backslash (`\`) inside the double-quotes, e.g., `\"` for including a double-quote character within the string.
+
 *Examples:*
+
 - `"De La Salle University"`
 - `"a string with double quotes \" within"`
 - `"a single backslash \\ is in this string"`
@@ -93,27 +104,32 @@ There are some rules and guidelines for defining identifiers. They are as follo
 |`long`|`l`|
 |`float`|`f`|
 |`double`|`d`|
-|`char`|`c`</table>|
-$$
-$$
+|`char`|`c`|
+
 As a convention, we add prefixes in our variables to easily identify their [[Data_representation#Data types|data type]]. This is referred to as **Hungarian notation**.
+
 <!--ID: 1694694364098-->
 
 #### Constants
 
 Constants are entities that can store a value but cannot be changed. Usually, constant identifiers are written using all capital letters with underscores between each word. It is suggested that we use all capital letters when naming constants to distinguish them from variables.
+
 _Examples_:
+
 - `MAX`
 - `NUM_STUDENTS`
 Constants are usually defined at the beginning of a program:
+
 ```
  #define <constant identifier> <literal>
 ```
+
 <!--ID: 1694704373066-->
 
 ### Operators
 
 An operator is a symbol in C that is used to perform certain operations on values or variables. For example, the arithmetic operators: `*`, `/`, `%`, `+`, and `-` correspond to the operations: multiplication, division, modulo, addition, and subtraction, respectively. Furthermore, evaluating operators [[Operator_types,_precedence,_and_associativity#Operator precedence and associativity|follows a hierarchy of priorities]]. Note that the [[Data_representation#Data types|data type]] (whether it is an integer or floating-point number) of the operands [[Float_and_integer_operations|affects]] the result of the operation. The three basic types of operators are:
+
 - [[Operator_types,_precedence,_and_associativity#Arithmetic operators|Arithmetic operators]]
 - [[Operator_types,_precedence,_and_associativity#Relational operators|Relational operators]] (`i` is **greater than** `0`)
 - [[Operator_types,_precedence,_and_associativity#Logical operators|Logical operators]] (`i` is greater than `0` **and** less than `10`)
@@ -154,30 +170,39 @@ An operator is a symbol in C that is used to perform certain operations on value
 | `unsigned`| Data type modifier for integers, representing only positive values.|
 | `void` | Represents an empty data type or return type of a function that doesn't return anything.|
 | `volatile`| Suggests that a variable's value can change unexpectedly.|
-| `while` | Looping construct that repeatedly executes a block of code.</table>|
-$$
-$$
+| `while` | Looping construct that repeatedly executes a block of code.|
+
 **Keywords** are words that have a special meaning in C. [[(Q&A)_Tokens_and_token_classification#Can I use any name for the variables?|Reserved words are words that cannot be used as identifiers.]] Most of the keywords in C are also reserved words, therefore cannot be used to name entities in your program such as variables.
 <!--ID: 1694694364119-->
 
 ### Separators or punctuation
 
 There are some symbols in C that are used to separate tokens; these are called **separators**. Spaces, tabs, and newlines (also called **whitespaces**) are also used to separate tokens but are **not** tokens themselves.
+
 *Examples*:
+
 `, ; : { }`
+
 <!--ID: 1694694364122-->
 
 ### Comments
 
 Comments are not processed as tokens and are usually ignored by the compiler, replacing them with a **single space charaacter**; i.e., a statement such as:
+
 ```c
 a/**/b = 0;
 ```
+
 —will be interpreted as:
+
 ```c
 a b = 0;
 ```
+
 Comments are processed before preprocessing directives are executed. The main use of comments is to make the code more readable and understandable by [[Problem_analysis,_logic_formulation_and_flowcharting#Documentation / Maintenance|explaining part of the code in natural language]]. Usually, introductory comments are added to the beginning of a code that contains the name of the author, the date it was written, and any assumptions made by the programmer. This is not required but it is recommended for good programming practice.
+
 The symbols `/*` signify the start of the comment, while `*/` signify the end of the comment. A comment enclosed in `/* */` can encompass more than one line. Comments may also appear within the main program or in functions to explain code.
+
 > Single-line comments denoted by `//` are only possible in version C99 and later. Comments enclosed in `/* */` cannot be nested inside each other, but comments denoted by `//` can be nested inside `/* */`.
+
 <!--ID: 1694694364125-->
