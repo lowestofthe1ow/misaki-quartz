@@ -41,10 +41,10 @@ An **augmented matrix** $[\mathbf{A}|\mathbf{B}]$ is given by:
 
 $$
 \mathbf{A}|\mathbf{B} = \begin{bmatrix}
-a_{11} & a_{12} & \dots & a_{1n} & \bigm{|} & b_1 \\
-a_{21} & a_{22} & \dots & a_{2n} & \bigm{|} & b_2 \\
-\vdots & \vdots & \ddots & \vdots & \bigm{|} & \vdots \\
-a_{m1} & a_{m2} & \dots & a_{mn} & \bigm{|} & b_m
+a_{11} & a_{12} & \dots & a_{1n} & | & b_1 \\
+a_{21} & a_{22} & \dots & a_{2n} & | & b_2 \\
+\vdots & \vdots & \ddots & \vdots & | & \vdots \\
+a_{m1} & a_{m2} & \dots & a_{mn} & | & b_m
 \end{bmatrix}
 $$
 

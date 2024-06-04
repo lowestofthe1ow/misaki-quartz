@@ -14,7 +14,7 @@ If the reduced augmented matrix includes a row of zeroes followed by a final tra
 
 $$
 \begin{bmatrix}
-0 & 0 & 0 & 0 & \bigm{|} & 1
+0 & 0 & 0 & 0 & | & 1
 \end{bmatrix}
 $$
 
@@ -22,7 +22,7 @@ If it instead contains a row of all zeroes, then there are **infinitely many sol
 
 $$
 \begin{bmatrix}
-0 & 0 & 0 & 0 & \bigm{|} & 0
+0 & 0 & 0 & 0 & | & 0
 \end{bmatrix}
 $$
 
@@ -41,10 +41,10 @@ Consider the following matrix in REF, with the variables $x$, $y$, $z$, and $w$ 
 
 $$
 \begin{bmatrix}
-1 & 1 & 2 & -5 & \bigm{|} & 3 \\
-0 & 1 & 5 & -13 & \bigm{|} & 17 \\
-0 & 0 & 1 & -2 & \bigm{|} & 3 \\
-0 & 0 & 0 & 0 & \bigm{|} & 0
+1 & 1 & 2 & -5 & | & 3 \\
+0 & 1 & 5 & -13 & | & 17 \\
+0 & 0 & 1 & -2 & | & 3 \\
+0 & 0 & 0 & 0 & | & 0
 \end{bmatrix}
 $$
 

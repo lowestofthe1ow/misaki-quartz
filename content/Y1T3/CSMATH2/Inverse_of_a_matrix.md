@@ -14,7 +14,7 @@ $$
 
 The inverse of a matrix is **unique** and is written as $\mathbf{A}^{-1}$.
 
->[!info] A square matrix $\mathbf{A}$ is nonsingular if and only if the linear system $\mathbf{AX} = \mathbf{O}$ has a unique solution for every $\mathbf{B}$.
+>[!info] A square matrix $\mathbf{A}$ is nonsingular if and only if the linear system $\mathbf{AX} = \mathbf{B}$ has a unique solution for every $\mathbf{B}$.
 
 <!--ID: 1717416499656-->
 
