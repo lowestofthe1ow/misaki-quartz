@@ -78,13 +78,13 @@ $$
 $$
 
 >[!info] If elements of a row (or column) are multiplied with cofactors of any other row (or column), then their sum is zero.
->
-> $$
-> \begin{align*}
-> \sum_{i=1}^n a_{ij}A_{kj} &= 0 & i \neq k \\
-> \sum_{i=1}^n a_{ij}A_{ik} &= 0 & j \neq k \\
-> \end{align*}
-> $$
+
+$$
+\begin{align*}
+\sum_{i=1}^n a_{ij}A_{kj} &= 0 & i \neq k \\
+\sum_{i=1}^n a_{ij}A_{ik} &= 0 & j \neq k \\
+\end{align*}
+$$
 
 <!--ID: 1717416538921-->
 
