@@ -40,8 +40,11 @@ $$
 ## Matrix multiplication
 
 *See also*: [[Matrices_and_matrix_operations#Matrix multiplication|Matrix multiplication]]
+
 Given the $m \times n$ matrices $\mathbf{A}$ and $\mathbf{B}$, each element $c_{ij}$ in the resulting matrix $\mathbf{C}$ is given by the **dot product** of the $i$th row of $\mathbf{A}$ and the $j$th column of $\mathbf{B}$.
+
 ![[matrix_multiplication.png]]
+
 <!--ID: 1715778362704-->
 
 ### Dot product

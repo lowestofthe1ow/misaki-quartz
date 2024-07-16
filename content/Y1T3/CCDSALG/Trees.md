@@ -2,10 +2,7 @@
 target-deck: 
 tags: 
 title:
+draft: true
 ---
 
-## Tree
-
 A **free tree** or **tree** is a **connected**, **acyclic**, and **undirected** graph.
-
-<!--ID: 1719854516563-->

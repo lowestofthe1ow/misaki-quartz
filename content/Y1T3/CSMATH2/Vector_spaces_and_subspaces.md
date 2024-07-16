@@ -10,7 +10,6 @@ A **real vector space** is some set of elements $\boldsymbol{V}$ with two operat
 
 1. **Closure** under $\bigoplus$
 2. Closure under $\bigodot$
-
 <!--ID: 1719926133362-->
 
 ### Closure under $\bigoplus$
@@ -47,7 +46,7 @@ A vector space is **closed** under $\bigodot$, i.e., given $X \in \boldsymbol{V}
 
 ## Subspace
 
-Let $V$ be a [[Vector_spaces#Vector space|vector space]] and let $W$ be a non-empty [[Set_theory#Subset|subset]] of $V$. If $W$ is a vector space with respect to the operations ([[Vector_spaces#Closure under $ bigoplus$|vector addition]] and [[Vector_spaces#Closure under $ bigodot$|scalar multiplication]]) in $V$, then $W$ is called a **subspace** of $V$. In other words, $V$ must be:
+Let $V$ be a [[Vector_spaces_and_subspaces#Vector space|vector space]] and let $W$ be a non-empty [[Set_theory#Subset|subset]] of $V$. If $W$ is a vector space with respect to the operations ([[Vector_spaces_and_subspaces#Closure under $ bigoplus$|vector addition]] and [[Vector_spaces_and_subspaces#Closure under $ bigodot$|scalar multiplication]]) in $V$, then $W$ is called a **subspace** of $V$. In other words, $V$ must be:
 
 - Closed under the operation of vector addition, i.e., for any $X, Y \in W$, it must be true that $X \bigoplus Y \in W$.
 - Closed under the operation of scalar multiplication, i.e., for any $c \in \mathbb{R}$ and $X \in W$, it must be true that $c \bigodot X \in W$.
