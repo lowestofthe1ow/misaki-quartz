@@ -12,6 +12,8 @@ title: Abstract classes and interfaces
 
 ### Abstract classes
 
+![[abstract_classes.png]]
+
 **Abstract classes** provide common functionality across a set of related classes, while allowing default method implementations. They **cannot** be [[Encapsulation,_classes,_and_objects#Objects|instantiated]] and can only act as a superclass to a non-abstract classes.
 
 Abstract classes may have abstract and concrete methods, unlike non-abstract classes that can only have concrete methods. Non-abstract classes that extend an abstract class **must** implement all of the abstract methods; abstract classes thus help "force" classes to have certain methods and conform to a design.
@@ -37,6 +39,8 @@ public abstract class Animal {
 
 ### Interfaces
 
+![[interfaces.png]]
+
 **Interfaces** are very similar to abstract classes, but only contain **method declarations with no implementation** (total abstraction). The sole purpose of an interface is to ensure that an implementing class has specific methods (like an abstract class with **only** abstract methods) and ensure **common behavior**.
 
 ```java
@@ -54,5 +58,7 @@ public class Monster implements Killable {
 
 >[!info] Classes can implement multiple interfaces:
 >`public class Monster implements Killable, Healable { ... }`
+
+>[!tip] In UML diagrams, classes implementing an interface are represented by the same hollow arrow as extending a class, but with a **broken line**.
 
 <!--ID: 1723000334403-->
