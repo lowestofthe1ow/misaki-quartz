@@ -89,7 +89,7 @@ boolean bStop = false;
 
 #### Primitive types
 
-A **primitive type** directly stores a value. Examples include `boolean`, `char`, `int`, `long`, `float`, `double`.
+A **primitive type** directly stores a value. Examples include `boolean`, `byte`, `char`, `int`, `long`, `float`, `double`.
 
 <!--ID: 1718708857265-->
 

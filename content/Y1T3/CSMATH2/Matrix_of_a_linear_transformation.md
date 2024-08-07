@@ -53,7 +53,7 @@ Let $V$ be an $n$-dimensional vector space with basis $S = \{X_1, \dots, X_n\}$.
 
 ### Matrix with respect to two bases
 
-The matrix $A$ of a linear transformation $L: V \to W, \ L(X) = AX$ where $S$ and $T$ are bases for $V$ and $W$, respectively, is the matrix whose $j$th column is the coordinate vector of $L(X_j$ with respect to $T$. $A$ is known as the **matrix** of $L$ with respect to $S$ and $T$.
+The matrix $A$ of a linear transformation $L: V \to W, \ L(X) = AX$ where $S$ and $T$ are bases for $V$ and $W$, respectively, is the matrix whose $j$th column is the coordinate vector of $L(X_j)$ with respect to $T$. $A$ is known as the **matrix** of $L$ with respect to $S$ and $T$.
 
 Note that $[L(X)]_T = A[X]_S$. This is known as the **representation** of $L$ with respect to $S$ and $T$. 
 
