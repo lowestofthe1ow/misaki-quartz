@@ -14,12 +14,12 @@ export default ((opts?: Options) => {
     return (
       <footer class={`${displayClass ?? ""}`}>
         <hr />
-        <img src="/misaki-quartz/src/footer.png" style="height: 100px" />
+        <img src="/misaki-quartz/src/misaki.gif" style="height: 100px" />
         <p>
           {i18n(cfg.locale).components.footer.createdWith}{" "}
           <a href="https://quartz.jzhao.xyz/">Quartz v{version}</a> © {year}
           <br /><br />
-          <span style="font-style: italic">Yeah, 'cause fear's a powerful emotion. You can use it to make your other emotions stronger too. lf you're afraid, you'll put in more effort and work harder. If you fly while afraid, you're going to fight to get used to it faster.</span>
+          彼方の向こうに、何かが見える
           <br /><br />
         </p>
         <ul>
