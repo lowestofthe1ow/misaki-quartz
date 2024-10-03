@@ -1,6 +1,6 @@
 ---
-target-deck: CCDSALG
-tags: CCDSALG::Tree traversals and walks
+target-deck: CCDSALG::Tree traversals and walks
+tags: CCDSALG
 title: Tree traversals and walks
 ---
 
