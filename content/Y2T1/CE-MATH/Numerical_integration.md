@@ -13,7 +13,7 @@ We can approximate the area under a curve by joining the values of $f(x)$ at reg
 This approximate area is given by:
 
 $$
-\int_a^b{y \ dx} = (\text{width of each interval})[\frac{1}{2}(\text{first} + \text{last values of } f(x))] + (\text{sum of remaining ordinates})
+\int_a^b{y \ dx} = (\text{width of each interval})[\frac{1}{2}(\text{first} + \text{last values of } f(x)) + (\text{sum of remaining ordinates})]
 $$
 
 <!--ID: 1727924325597-->
@@ -36,7 +36,7 @@ Approximating the integral using the trapezoidal rule:
 
 $$
 \begin{align*}
-\int_a^b{y \ dx} &\approx (0.5)[\frac{1}{2}(2.0000 + 1.1547)] + (1.6330 + 1.4142 + 1.2649) \\
+\int_a^b{y \ dx} &\approx (0.5)[\frac{1}{2}(2.0000 + 1.1547) + (1.6330 + 1.4142 + 1.2649)] \\
 &\approx 2.945
 \end{align*}
 $$
