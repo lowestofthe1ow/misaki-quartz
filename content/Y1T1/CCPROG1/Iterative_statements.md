@@ -8,7 +8,7 @@ title: Iterative statements
 
 **Loops** are statements  whose job is to repeatedly execute some other statement (the loop body). In C, every loop has a **controlling expression**. Each time the loop body is executed (an **iteration** of the loop), the controlling expression is evaluated; if the expression is true—has a value that’s not zero— the loop continues to execute.
 
-> C provides 3 iterative statements: [[Iterative_statements#The while statement|while]], [[Iterative_statements#The do statement|do]], and [[Iterative_statements#The for statement|for]].
+> C provides 3 iterative statements: [[Y1T1/CCPROG1/Iterative_statements#The while statement|while]], [[Y1T1/CCPROG1/Iterative_statements#The do statement|do]], and [[Y1T1/CCPROG1/Iterative_statements#The for statement|for]].
 
 <!--ID: 1701570318029-->
 
@@ -59,7 +59,7 @@ A `while` statement of this form will execute forever unless its body contains a
 
 ![[Do-while.png]]
 
-The `do` statement is essentially a [[Iterative_statements#The while statement|while statement]] whose controlling expression is tested **after** each execution of the loop body. It has the form:
+The `do` statement is essentially a [[Y1T1/CCPROG1/Iterative_statements#The while statement|while statement]] whose controlling expression is tested **after** each execution of the loop body. It has the form:
 
 ```c
 do statement while (expression);

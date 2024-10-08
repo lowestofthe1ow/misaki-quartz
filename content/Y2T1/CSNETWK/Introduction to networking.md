@@ -9,13 +9,15 @@ draft: true
 
 The [[Internetworking#The Internet|Internet]] (note the capitalization) consists of billions of connected computing **devices**. It is referred to as a "network of networks."
 
+![[internet.png]]
+
 The Internet can be seen as an **infrastructure** that provides services to applications, providing programming interfaces to distributed applications.
 
 <!--ID: 1726155954247-->
 
 ### Hosts
 
-**Hosts** are **end systems** within the network that run **network apps** at the Internet's **edge**.
+**Hosts** or **end systems** are devices connected to the network that run network applications. This includes desktop computers, Linux workstations, and more nontraditional devices such as TVs and gaming consoles.
 <!--ID: 1726155954254-->
 
 ### Packet switches

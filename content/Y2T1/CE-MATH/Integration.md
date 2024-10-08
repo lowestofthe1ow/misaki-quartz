@@ -6,7 +6,7 @@ title: Integration
 
 ## Integration
 
-Integration **reverses** the process of [[Derivatives#The derivative of a function|differentiation]], i.e., it is the process of "returning" from $f'(x)$ to $f(x)$. For instance, the integral of $4x$ is $2x^2$. 
+Integration **reverses** the process of [[Derivatives#The derivative of a function|differentiation]]. It is the process of "returning" from $f'(x)$ to $f(x)$. For instance, the integral of $4x$ is $2x^2$. 
 
 The following notation:
 
