@@ -63,6 +63,7 @@ There is no explicit loop variable and no loop parameters (All of the expression
 
 ####
 
+
 - What are the type and scope of the loop variable?
 - Should it be legal for the loop variable or loop parameters to be changed in the loop, and if so, does the change affect loop control?
 - Should the loop parameters be evaluated only once, or once for every iteration?

@@ -25,8 +25,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Y2T1/CE-MATH/Definite_and_indefinite_integrals.md",
-                "mode": "source",
+                "file": "Y2T1/CCINFOM/SQL_Joins.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -44,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -172,14 +172,16 @@
       "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
     }
   },
-  "active": "e7d52c4a9ca30e43",
+  "active": "38d27598b537d2f5",
   "lastOpenFiles": [
+    "Y2T1/CCINFOM/SQL_SELECT_statements.md",
+    "Y2T1/CCINFOM/SQL_Joins.md",
+    "Y2T1/CCINFOM/Fundamentals_of_data_and_information.md",
+    "Y2T1/CSNETWK/Layered_network_design.md",
+    "Y2T1/CE-MATH/Definite_and_indefinite_integrals.md",
     "index.md",
     "templates/Frontmatter.md",
-    "Y2T1/CE-MATH/Definite_and_indefinite_integrals.md",
-    "Y2T1/CCINFOM/SQL_Joins.md",
     "templates",
-    "Y2T1/CCINFOM/SQL_SELECT_statements.md",
     "Y1T2/GEMATMW/Geometric_transformations.md",
     "Y1T2/GEMATMW/Fibonacci_sequence_and_the_golden_ratio.md",
     "Y1T2/GEMATMW/Basic_business_mathematics.md",
@@ -199,9 +201,7 @@
     "Y1T1/CCPROG1/(Q&A)_Tokens_and_token_classification.md",
     "Y1T1/CCPROG1/Variables_and_assignment.md",
     "Y1T1/CCPROG1/(Q&A)_Functions_and_programs.md",
-    "Y1T1/CCPROG1/Iterative_statements.md",
     "Y2T1/CCINFOM/src/information_knowledge.png",
-    "Y2T1/CCINFOM/Fundamentals_of_data_and_information.md",
     "Y2T1/CSNETWK/src/internet.png",
     "Y2T1/CSADPRG/src/Pasted image 20240918080325.png",
     "Y2T1/CSADPRG/src/language_evaluation_criteria.png",
