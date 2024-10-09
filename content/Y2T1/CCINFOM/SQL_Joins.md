@@ -16,4 +16,6 @@ An **inner join**, specified by the `INNER JOIN` or the equivalent `JOIN` keywor
 
 #### Left join
 
+A **left join** preserves all data in the first table.
+
 #### Right join
