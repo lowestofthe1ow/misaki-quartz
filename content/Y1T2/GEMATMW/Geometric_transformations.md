@@ -45,7 +45,7 @@ It is a transformation that is formed by first applying reflection across an axi
 
 ## Rotation
 
-It is a transformation that turns a figure about a fixed point called the center of rotation. A rotation is sometimes called a **turn**. 
+It is a transformation that turns a figure about a fixed point called the center of rotation. A rotation is sometimes called a **turn**.
 
 <!--ID: 1707552691724-->
 
@@ -75,7 +75,7 @@ $(x,y)$ is rotated into $(x \cos \theta - y \sin \theta, x \sin \theta + y \cos 
 
 ### Rotational symmetry
 
-If a geometric figure has a rotational symmetry, the order of its rotational symmetry is defined as the number of times it matches with itself as it is rotated around a full circle. 
+If a geometric figure has a rotational symmetry, the order of its rotational symmetry is defined as the number of times it matches with itself as it is rotated around a full circle.
 
 <!--ID: 1707552691745-->
 

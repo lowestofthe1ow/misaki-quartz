@@ -24,7 +24,7 @@ The Command Layer serves as the user interface to the OS, enabling users to run 
 
 ### Services layer
 
-The Services Layer consists of reusable components that offer fundamental operations (e.g., file and folder manipulation, I/O access, starting and stopping programs) accessible through service calls. 
+The Services Layer consists of reusable components that offer fundamental operations (e.g., file and folder manipulation, I/O access, starting and stopping programs) accessible through service calls.
 
 <!--ID: 1701708440271-->
 

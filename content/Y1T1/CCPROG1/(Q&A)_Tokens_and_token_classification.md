@@ -4,7 +4,7 @@ tags: CCPROG1
 title: (Q&A) Tokens and token classification
 ---
 
-*See also*: [[Tokens_and_token_classification]]
+*See also*: [[Tokens_and_token_classification|Tokens and token classification]]
 
 ## What is a variable?
 

@@ -32,7 +32,7 @@ We can compare pointers using the [[Operator_types,_precedence,_and_associativit
 
 ### Array names as pointers
 
-The [[Tokens_and_token_classification#Identifiers|name]] of an array can be used as a **pointer to the first element** in the array. In general, `a + i` is the same as `&a[i]` (both represent a **pointer** to element `i` of `a`) and `(a+i)` is equivalent to `a[i]` (both represent element `i` **itself**). 
+The [[Tokens_and_token_classification#Identifiers|name]] of an array can be used as a **pointer to the first element** in the array. In general, `a + i` is the same as `&a[i]` (both represent a **pointer** to element `i` of `a`) and `(a+i)` is equivalent to `a[i]` (both represent element `i` **itself**).
 
 >[!warning] Note that it is not possible to assign array names a new value.
 
@@ -50,4 +50,3 @@ When passed to a function, an array name is **always treated as a pointer** (i.e
 > `int a[10]` causes the compiler to set aside space for 10 integers, while `int *a` only allocates space for a single pointer variable. The latter is **not** an array.
 
 <!--ID: 1708357755057-->
-

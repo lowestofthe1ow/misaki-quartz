@@ -7,11 +7,11 @@ draft: true
 
 ## Why study programming languages?
 
-- Increased capacity to express ideas  
-- Improved background for choosing appropriate languages  
-- Increased ability to learn new languages  
-- Better understanding of the significance of implementation  
-- Better use of languages that are already known  
+- Increased capacity to express ideas
+- Improved background for choosing appropriate languages
+- Increased ability to learn new languages
+- Better understanding of the significance of implementation
+- Better use of languages that are already known
 - Overall advancement of computing
 <!--ID: 1727924287833-->
 

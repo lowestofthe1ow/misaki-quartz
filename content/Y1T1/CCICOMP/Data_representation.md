@@ -12,7 +12,7 @@ Computer systems represent data electrically and process it with electrical swit
 
 ### Data size and Range
 
-Data size describes the number of bits ([[Introduction_to_number_systems#Binary number system|from "binary digit"]]) used to represent a numeric value which directly affects the range of values that can be represented. **Smaller size indicates a smaller range**. 
+Data size describes the number of bits ([[Introduction_to_number_systems#Binary number system|from "binary digit"]]) used to represent a numeric value which directly affects the range of values that can be represented. **Smaller size indicates a smaller range**.
 
 <!--ID: 1695735170747-->
 

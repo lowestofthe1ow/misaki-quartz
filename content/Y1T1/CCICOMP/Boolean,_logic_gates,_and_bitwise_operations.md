@@ -4,7 +4,7 @@ tags: CCICOMP
 title: Boolean, logic gates, and bitwise operations
 ---
 
-*See also*: [[Data_representation]]
+*See also*: [[Data_representation|Data representation]]
 
 ## Logic operations
 
@@ -73,7 +73,7 @@ Written as $Y=A+B$.
 |1|0|1|
 |1|1|0|
 
-The **XOR** operation is also known as **exclusive-OR**. It outputs a true condition if the input variables have an odd number of binary 1’s (**odd function**). 
+The **XOR** operation is also known as **exclusive-OR**. It outputs a true condition if the input variables have an odd number of binary 1’s (**odd function**).
 
 Written as $Y=A \oplus B$, or [[Boolean,_logic_gates,_and_bitwise_operations#Boolean functions|represented]] in terms of [[Boolean,_logic_gates,_and_bitwise_operations#AND operation|AND]], [[Boolean,_logic_gates,_and_bitwise_operations#OR operation|OR]], and [[Boolean,_logic_gates,_and_bitwise_operations#NOT operation|NOT]] as $Y=A'B + AB'$.
 

@@ -41,7 +41,7 @@ r &= a \text{ \bf{mod} } d \\
 \end{align*}
 $$
 
-Both $a \text{ \bf{div} } d$ and $a \text{ \bf{mod} } d$ for a fixed $d$ are functions on the set of integers. 
+Both $a \text{ \bf{div} } d$ and $a \text{ \bf{mod} } d$ for a fixed $d$ are functions on the set of integers.
 
 $$
 \begin{align*}

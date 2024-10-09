@@ -100,6 +100,7 @@ for (i = 10; i > 0; i--)
 
 The variable `i` is first **initialized** to 10; it is then tested against the **condition** `i > 0`. If the condition is true, the loop body is executed, then the **update** of decrementing `i` is performed.
 
+<!--ID: 1728399222475-->
 <!--The following trace shows what happens when the `for` statement is executed:
  `i = 10` — `i` is initialized to 10
  Is `i > 0`? — Yes; continue

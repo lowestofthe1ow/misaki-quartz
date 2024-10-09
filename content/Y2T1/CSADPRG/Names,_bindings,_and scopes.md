@@ -130,7 +130,7 @@ The time wherein a variable is bound to a particular memory cell
 
 <!--ID: 1727924287924-->
 
-## Static variables 
+## Static variables
 
 Static variables are bound to memory before execution
 

@@ -80,4 +80,3 @@ if (strcmp(s1, s2) > 0) {...} // Is str1 > str2?
 - The first non-matching character has a lower value in `s1` than in `s2`
 - All characters of `s1` match `s2`, but `s1` is shorter than `s2` (Comparison is made up to the first null character).
 <!--ID: 1708431865702-->
-

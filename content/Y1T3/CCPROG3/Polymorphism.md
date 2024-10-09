@@ -61,7 +61,7 @@ System.out.println(p instanceof Dog); // false
 System.out.println(p instanceof Pet); // true
 ```
 
->[!warning] Usage of `instanceof` may be a violation of object-oriented design as it increases dependency between classes. 
+>[!warning] Usage of `instanceof` may be a violation of object-oriented design as it increases dependency between classes.
 >It is, however, useful when sorting out subclasses from a collection of their common superclass (e.g. finding `Dog`s from an `ArrayList` of `Pet`s).
 
 <!--ID: 1723000361308-->

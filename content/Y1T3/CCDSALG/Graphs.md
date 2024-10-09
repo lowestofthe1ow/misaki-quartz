@@ -84,6 +84,8 @@ The edge $<u,v>$ is **incident from** (leaves) vertex $u$ and **incident to** (e
 
 If $<u,v>$ is an edge, then the vertex $v$ is **adjacent** to $u$ **but not conversely**.
 
+<!--ID: 1728399222445-->
+
 #### Out- and in-degree of a vertex
 
 The **out-degree** of a vertex is the number of edges **leaving** it. The **in-degree** of a vertex is the number of edges **entering** it. The **degree** of a vertex is the sum of its out-degree and its in-degree.
@@ -97,6 +99,8 @@ A **complete graph** is a graph in which every pair of vertices is adjacent. A c
 $$
 \max|E| = |V|(|V| - 1)
 $$
+
+<!--ID: 1728399222451-->
 
 ### Weighted graphs
 

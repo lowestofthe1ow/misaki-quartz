@@ -39,7 +39,7 @@ The basic structure of a simple C program is as follows:
 
 ### Preprocessor directives
 
-Preprocessor directives are commands that are done before compiling the program. They usually involve changing the source file before handing it over to the compiler. Common preprocessor directives are `#include` that is used to include header files and use libraries. Defining constants using `#define` is also one example of preprocessor directives. 
+Preprocessor directives are commands that are done before compiling the program. They usually involve changing the source file before handing it over to the compiler. Common preprocessor directives are `#include` that is used to include header files and use libraries. Defining constants using `#define` is also one example of preprocessor directives.
 
 <!--ID: 1695813993897-->
 
@@ -71,4 +71,3 @@ int main()
 ```
 
 <!--ID: 1695034069363-->
-

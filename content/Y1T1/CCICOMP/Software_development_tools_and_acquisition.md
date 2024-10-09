@@ -79,7 +79,7 @@ Most software executables require installation before they can run on a computer
 
 When installing software, a user is often given the option for the following:
 
-- **Full installation** (a.k.a. typical installation), which copies all commonly used files and programs from the distribution package to your computer and uses the default settings of the software. 
+- **Full installation** (a.k.a. typical installation), which copies all commonly used files and programs from the distribution package to your computer and uses the default settings of the software.
 - **Custom installation**, which allows a user to select only which components to install and to customize software settings.
 <!--ID: 1701708456091-->
 
@@ -94,7 +94,7 @@ Web-based applications are those that are hosted online by the vendor and are co
 **Software piracy** refers to unauthorized copying, distribution, and use of software. What constitutes piracy includes **distributing** copies of proprietary software to others, '**cracking**' software that would have otherwise been protected from illegal use, and using more copies of legitimately acquired software than what its End User License Agreement (**EULA**) permits.
 <!--ID: 1701708456101-->
 
-### Consequences of software piracy 
+### Consequences of software piracy
 
 Exposure to viruses, corrupt disk, or defective software, inadequate or no product documentation, no warranties, lack of technical support, and ineligibility for software upgrades offered for licensed users are potential risks associated with software piracy.
 

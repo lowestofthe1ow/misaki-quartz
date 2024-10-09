@@ -48,7 +48,7 @@ The power supply unit, or laptop AC adapter, converts electricity from the outle
 
 ### Expansion slots
 
-Most motherboards have built-in **video**, **sound**, and **network** capabilities. However, in certain cases, the user might want to improve the performance and capabilities of a computer. In such cases, motherboards have **expansion slots** that allows users to add various types of expansion cards or adapter cards. 
+Most motherboards have built-in **video**, **sound**, and **network** capabilities. However, in certain cases, the user might want to improve the performance and capabilities of a computer. In such cases, motherboards have **expansion slots** that allows users to add various types of expansion cards or adapter cards.
 
 <!--ID: 1701506387523-->
 

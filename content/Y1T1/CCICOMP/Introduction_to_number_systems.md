@@ -117,4 +117,3 @@ One ***hexadecimal*** digit is equal to four ***binary*** digits.
 ![[Base_conversion_-_Binary-octal-hexadecimal.png]]
 
 <!--ID: 1694777708912-->
-

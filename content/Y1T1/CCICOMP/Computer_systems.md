@@ -85,4 +85,3 @@ The system clock is crucial for the processor, relying on a small quartz crystal
 The pace of the system clock, known as the clock speed, is measured by the number of ticks per second. Current processors can reach clock speeds in the gigahertz (billions of cycles per second) range. The faster the clock speed, the more instructions the processor can execute per second.
 
 <!--ID: 1697898015810-->
-

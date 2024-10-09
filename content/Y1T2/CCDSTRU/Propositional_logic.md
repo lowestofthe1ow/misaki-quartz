@@ -8,7 +8,7 @@ title: Propositional logic
 
 A proposition is a declarative sentence that is either **true** or **false**, but not both.
 
-All the following declarative sentences are propositions; propositions 1 and 3 are true, whereas 2 and 4 are false. 
+All the following declarative sentences are propositions; propositions 1 and 3 are true, whereas 2 and 4 are false.
 
 1. Washington, D.C., is the capital of the United States of America.E
 2. Toronto is the capital of Canada.
@@ -192,4 +192,3 @@ A table consisting of $n$ input columns, an output column, and $x^n$ rows, where
 |F|F|T|
 
 <!--ID: 1706459633917-->
-

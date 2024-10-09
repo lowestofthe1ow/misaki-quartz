@@ -20,7 +20,7 @@ $$
 \frac{f(x)}{(x+a)(x+b) \dots (x+z)} = \frac{A}{x+a} + \frac{B}{x+b} + \dots + \frac{Z}{x+z}
 $$
 
-for some constants $A, B, \dots Z \in \mathbb{R}$. 
+for some constants $A, B, \dots Z \in \mathbb{R}$.
 
 <!--ID: 1727924325630-->
 
@@ -55,7 +55,7 @@ $$
 \frac{A}{x+a} + \frac{B}{(x+a)^2} + \dots + \frac{Z}{(x+a)^n}
 $$
 
-for some constants $n, A, B, \dots Z \in \mathbb{R}$. 
+for some constants $n, A, B, \dots Z \in \mathbb{R}$.
 
 <!--ID: 1727924325637-->
 

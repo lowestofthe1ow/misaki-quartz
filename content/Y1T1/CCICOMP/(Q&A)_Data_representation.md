@@ -4,7 +4,7 @@ tags: CCICOMP
 title: (Q&A) Data representation
 ---
 
-*See also*: [[Data_representation]]
+*See also*: [[Data_representation|Data representation]]
 
 ## Represent $+24$ in 6-bit sign-and-magnitude
 

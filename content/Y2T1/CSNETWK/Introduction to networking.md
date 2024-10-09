@@ -88,4 +88,3 @@ Provided by mobile, cellular network operator
 
 **Network cores** are interconnected routers, so-called "networks of networks."
 <!--ID: 1726155954303-->
-

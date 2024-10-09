@@ -4,7 +4,7 @@ tags: CCICOMP
 title: Floating-point representation
 ---
 
-*See also*: [[Data_representation]]
+*See also*: [[Data_representation|Data representation]]
 
 ## IEEE Single Precision
 

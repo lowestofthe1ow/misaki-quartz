@@ -62,4 +62,3 @@ To find the **absolute extreme values** of a function $f$ that is continuous on 
 4. From Extreme Value Theorem, find a closed interval on which the function $Q(x)$ is continuous.
 5. Find the absolute extrema on the closed interval.
 <!--ID: 1710954159185-->
-

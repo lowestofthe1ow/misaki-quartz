@@ -14,8 +14,8 @@ A function $f$ defined on an interval is **increasing** on that interval if and 
 
 ### Derivatives and monotonic functions (6)
 
-1. If $f'(x) > 0$ for all $x \in (a,b)$, then $f$ is **increasing** on $[a,b]$. 
-2. If $f'(x) < 0$ for all $x \in (a,b)$, then $f$ is **decreasing** on $[a,b]$. 
+1. If $f'(x) > 0$ for all $x \in (a,b)$, then $f$ is **increasing** on $[a,b]$.
+2. If $f'(x) < 0$ for all $x \in (a,b)$, then $f$ is **decreasing** on $[a,b]$.
 <!--ID: 1710954136355-->
 
 #### Determine the intervals on which the function $f(x) = x^2-4$ is increasing or decreasing

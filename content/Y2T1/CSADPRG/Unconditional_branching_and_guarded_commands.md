@@ -22,7 +22,7 @@ if i = 0 -> sum := sum + i
 fi
 ```
 
-If i = 0 and j > i, this statement chooses **nondeterministically** (as it shouldn't matter which is chosen) between the first and third assignment statements. 
+If i = 0 and j > i, this statement chooses **nondeterministically** (as it shouldn't matter which is chosen) between the first and third assignment statements.
 
 <!--ID: 1728275348117-->
 

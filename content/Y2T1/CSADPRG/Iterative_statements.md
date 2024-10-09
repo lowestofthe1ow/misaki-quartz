@@ -14,7 +14,7 @@ The primary categories are defined by how designers answered two basicdesign que
 - How is the iteration controlled?
 - Where should the control mechanism appear in the loop statement?
 
-The primary possibilities for iteration control are **logical**, **counting**, or a combination of the two. The main choices for the location of the control mechanism are the top of the loop or the bottom of the loop. 
+The primary possibilities for iteration control are **logical**, **counting**, or a combination of the two. The main choices for the location of the control mechanism are the top of the loop or the bottom of the loop.
 
 <!--ID: 1728275348069-->
 
@@ -53,7 +53,7 @@ for (int i = 0; i < 5; i++) {
 
 The  **initial value** is `0`, the **terminal value** is `5`, and the **step size** is `1` (increment). These are referred to as the loop parameters.
 
->[!tip] Counter-controlled loops are sometimes supported by machine instruc- tions designed for that purpose. Unfortunately, machine architecture can out- live the prevailing approaches to programming at the time of the architecture design.  
+>[!tip] Counter-controlled loops are sometimes supported by machine instruc- tions designed for that purpose. Unfortunately, machine architecture can out- live the prevailing approaches to programming at the time of the architecture design.
 
 Only the initial value is evaluated exactly once
 
@@ -61,7 +61,7 @@ There is no explicit loop variable and no loop parameters (All of the expression
 
 <!--ID: 1728275348088-->
 
-#### 
+####
 
 - What are the type and scope of the loop variable?
 - Should it be legal for the loop variable or loop parameters to be changed in the loop, and if so, does the change affect loop control?

@@ -21,7 +21,7 @@ Low-level programming language that is the **closest** to machine language.
 
 This term was used to describe **Short Code** and **Speedcoding**, different from how the word is used today. Machine code had poor readability and modifiability (due to using absolute addressing) and was generally tedious to use, which led to the development of these somewhat higher-level languages.
 
-<!--ID: 1726482340425--> 
+<!--ID: 1726482340425-->
 
 #### Shortcode
 

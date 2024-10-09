@@ -152,7 +152,7 @@ r\begin{bmatrix}
 \end{bmatrix}
 $$
 
-Therefore, the set: 
+Therefore, the set:
 
 $$
 \{\begin{bmatrix}

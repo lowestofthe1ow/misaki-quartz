@@ -83,4 +83,3 @@ $$
 A function $f$ is **bijective** if and only if it is both **injective** and **surjective**.
 
 <!--ID: 1710849797711-->
-

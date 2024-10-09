@@ -82,6 +82,6 @@ char str[] = "Hello World!"
 In this case, the length is computed by the compiler.
 
 >[!warning] Ensure that enough space is allocated for both the **string itself** and the **null character** that terminates it.
->If, for example, an array of length 5 attempts to store the string `"Hello"`, the **null character is dropped by the compiler**, rendering the array unusable as a string. However, attempting to store a string such as `"Hello!"` (which has 6 characters) to the same array is explicitly illegal. 
+>If, for example, an array of length 5 attempts to store the string `"Hello"`, the **null character is dropped by the compiler**, rendering the array unusable as a string. However, attempting to store a string such as `"Hello!"` (which has 6 characters) to the same array is explicitly illegal.
 
 <!--ID: 1708431888834-->

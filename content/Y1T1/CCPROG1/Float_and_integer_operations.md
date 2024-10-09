@@ -4,7 +4,7 @@ tags: CCPROG1
 title: Float and integer operations
 ---
 
-*See also*: [[Tokens_and_token_classification]]
+*See also*: [[Tokens_and_token_classification|Tokens and token classification]]
 
 ## Operator: + (addition)
 

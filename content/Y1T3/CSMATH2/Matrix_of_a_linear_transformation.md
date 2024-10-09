@@ -41,7 +41,7 @@ y
 \end{align*}
 $$
 
-Thus $L(X) = AX, A = \begin{bmatrix}1 & 1 \\1 & -1 \\2 & 3 \\\end{bmatrix}$. $A$ is referred to as the **matrix of the linear transformation**. 
+Thus $L(X) = AX, A = \begin{bmatrix}1 & 1 \\1 & -1 \\2 & 3 \\\end{bmatrix}$. $A$ is referred to as the **matrix of the linear transformation**.
 
 <!--ID: 1722692623182-->
 
@@ -55,6 +55,6 @@ Let $V$ be an $n$-dimensional vector space with basis $S = \{X_1, \dots, X_n\}$.
 
 The matrix $A$ of a linear transformation $L: V \to W, \ L(X) = AX$ where $S$ and $T$ are bases for $V$ and $W$, respectively, is the matrix whose $j$th column is the coordinate vector of $L(X_j)$ with respect to $T$. $A$ is known as the **matrix** of $L$ with respect to $S$ and $T$.
 
-Note that $[L(X)]_T = A[X]_S$. This is known as the **representation** of $L$ with respect to $S$ and $T$. 
+Note that $[L(X)]_T = A[X]_S$. This is known as the **representation** of $L$ with respect to $S$ and $T$.
 
 <!--ID: 1722692623189-->

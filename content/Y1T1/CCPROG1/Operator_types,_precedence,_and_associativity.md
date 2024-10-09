@@ -4,7 +4,7 @@ tags: CCPROG1
 title: Operator types, precedence, and associativity
 ---
 
-*See also*: [[Tokens_and_token_classification]]
+*See also*: [[Tokens_and_token_classification|Tokens and token classification]]
 
 ## Arithmetic operators
 
@@ -132,7 +132,7 @@ i += 2;
 
 ### Increment and decrement
 
-The statements: 
+The statements:
 
 ```c
 i = i + 1;

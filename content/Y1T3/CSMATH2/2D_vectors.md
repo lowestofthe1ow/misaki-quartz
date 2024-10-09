@@ -15,7 +15,7 @@ b
 \end{bmatrix}
 $$
 
-$\mathbf{X}$ is referred to as a **two-dimensional vector**, where the real numbers $x$ and $y$ are referred to as its **components**. Vectors may be represented with a directed line segment from an initial point $P(x_1,y_1)$ to the terminal point $Q(x_2,y_2)$, denoted by $\vec{PQ}$; $P$ is known as the **tail** while $Q$ is known  as the **head**. 
+$\mathbf{X}$ is referred to as a **two-dimensional vector**, where the real numbers $x$ and $y$ are referred to as its **components**. Vectors may be represented with a directed line segment from an initial point $P(x_1,y_1)$ to the terminal point $Q(x_2,y_2)$, denoted by $\vec{PQ}$; $P$ is known as the **tail** while $Q$ is known  as the **head**.
 
 ![[headtail.png]]
 
@@ -25,7 +25,7 @@ The tail is usually the origin $(0,0)$, with the head being at $(a,b)$.
 
 <!--ID: 1719854516507-->
 
-### Vector magnitude 
+### Vector magnitude
 
 The **magnitude** of a vector, denoted by $||\vec{A}||$ is the **length** of any of its representations. Let $\vec{A} = \begin{bmatrix} a_1 \\ a_2 \end{bmatrix}$. Then the magnitude is the distance from $(0,0)$ (the tail) to $(a_1,a_2)$ (the head):
 

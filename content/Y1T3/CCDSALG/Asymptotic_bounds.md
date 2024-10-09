@@ -17,7 +17,7 @@ $$
 f(n) = 6n^3 + 2n^2 + 3n + 8
 $$
 
-$f(n)$ can be said to be $O(n^3)$—its **leading term** but without the coefficient—as it grows no faster than $n^3$. The function is also $O(n^4)$, $O(n^5)$, and so on, as it also grows no faster than $n^4$ and $n^5$, respectively. In other words, the function is $O(n^c), c \geq 3$. 
+$f(n)$ can be said to be $O(n^3)$—its **leading term** but without the coefficient—as it grows no faster than $n^3$. The function is also $O(n^4)$, $O(n^5)$, and so on, as it also grows no faster than $n^4$ and $n^5$, respectively. In other words, the function is $O(n^c), c \geq 3$.
 
 >[!info] $O(n^3)$ here is referred to as the **asymptotically tight upper bound**.
 

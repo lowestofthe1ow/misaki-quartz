@@ -37,7 +37,7 @@ Under **family** and **genus**. Species are a classification of organisms that t
 
 <!--ID: 1715778354631-->
 
-## Interbreeding theory 
+## Interbreeding theory
 
 The **interbreeding theory** proposes that when Sapiens spread into Neanderthal lands, Sapiens bred with Neanderthals until the two populations merged. If this is the case, then today’s Eurasians are not pure Sapiens. They are a mixture of Sapiens and Neanderthals. Similarly, when Sapiens reached East Asia, they interbred with the local Erectus, so the Chinese and Koreans are a mixture of Sapiens and Erectus.
 

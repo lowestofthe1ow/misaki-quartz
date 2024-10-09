@@ -64,7 +64,7 @@ There are three levels of cache:
 
 #### Dynamic RAM (DRAM)
 
-Dynamic RAM stores each bit as a charge on a capacitor. Unlike [[Memory_components#Static RAM (SRAM)|SRAM]], a DRAM memory cell is very sensitive to any disturbance. When the capacitor voltage is disturbed, it will never recover. Exposure to light rays will cause the capacitor voltages to change. In fact, the sensors in digital cameras and camcorders are essentially arrays of DRAM cells. 
+Dynamic RAM stores each bit as a charge on a capacitor. Unlike [[Memory_components#Static RAM (SRAM)|SRAM]], a DRAM memory cell is very sensitive to any disturbance. When the capacitor voltage is disturbed, it will never recover. Exposure to light rays will cause the capacitor voltages to change. In fact, the sensors in digital cameras and camcorders are essentially arrays of DRAM cells.
 
 > DRAM cell to lose its charge within a time period of around **10 to 100 milliseconds**. Fortunately, for computers operating with clock cycle times measured in nanoseconds, this retention time is quite long. **The memory system must periodically refresh** every bit of memory by reading it out and then rewriting it.
 
@@ -226,4 +226,3 @@ A memory card is a removable flash memory storage device that is inserted into a
 Cloud storage is an Internet service that provides storage to computers and mobile device users. It is available for home and business users, with various degrees of storage services available. Cloud storage fee arrangements vary, depending on the user's storage requirements.
 
 <!--ID: 1701426990299-->
-

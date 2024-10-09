@@ -30,7 +30,7 @@ Also known as **bandwidth**, data transfer rate represents the maximum speed of 
 
 ### Throughput
 
-Throughput refers to the actual speed achieved and is often **less** than the bandwidth. 
+Throughput refers to the actual speed achieved and is often **less** than the bandwidth.
 
 <!--ID: 1701506466319-->
 
@@ -114,7 +114,7 @@ Every computer connected to a network is an end device or **host**; i.e., it is 
 
 #### Servers
 
-Servers provide services and information to end devices on the network. Examples include email servers, web servers, or file servers. 
+Servers provide services and information to end devices on the network. Examples include email servers, web servers, or file servers.
 
 <!--ID: 1701506466378-->
 
@@ -136,7 +136,7 @@ An NIC or **network port** enables an end device to connect to a network.
 
 <!--ID: 1701506466395-->
 
-#### Clients 
+#### Clients
 
 Clients send requests to the servers to retrieve information such as a web page from a web server or to ask for a task to be performed such as sending an email.
 
@@ -233,7 +233,7 @@ Common network types include Local Area Networks (LANs), Wireless LANs (WLANs), 
 
 ### Local area networks
 
-These networks span small geographic areas, providing high-speed bandwidth within homes, schools, or offices. They are usually owned or managed by a single organization or individual and provide high speed bandwidth to end devices and infrastructure devices within the network. 
+These networks span small geographic areas, providing high-speed bandwidth within homes, schools, or offices. They are usually owned or managed by a single organization or individual and provide high speed bandwidth to end devices and infrastructure devices within the network.
 
 <!--ID: 1701506466460-->
 

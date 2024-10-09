@@ -103,7 +103,7 @@ In a **full binary tree**, each node is either a **leaf** or has a **degree 2**.
 
 ##### Complete $k$-ary tree
 
-In a complete $k$-ary tree, all leaves have the same depth and all internal nodes have degree $k$. 
+In a complete $k$-ary tree, all leaves have the same depth and all internal nodes have degree $k$.
 
 <!--ID: 1723125334988-->
 

@@ -4,7 +4,7 @@ tags: CCPROG1
 title: (Q&A) Functions and programs
 ---
 
-*See also*: [[Functions_and_programs]]
+*See also*: [[Functions_and_programs|Functions and programs]]
 
 ## What is a statement?
 

@@ -4,7 +4,7 @@ tags: CCICOMP
 title: Integer representation
 ---
 
-*See also*: [[Data_representation]]
+*See also*: [[Data_representation|Data representation]]
 
 ## Sign and magnitude
 
