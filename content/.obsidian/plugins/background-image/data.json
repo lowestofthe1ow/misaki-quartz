@@ -1,6 +1,6 @@
 {
   "imageUrl": "https://i.imgur.com/n130gZu.jpeg",
-  "opacity": 0.13,
-  "bluriness": "low",
+  "opacity": 0.1,
+  "bluriness": "0px",
   "inputContrast": false
 }

@@ -1,7 +1,7 @@
 ---
-target-deck: CSADPRG::Domains
+target-deck: CSADPRG::Programming domains and evaluation criteria
 tags: CSADPRG
-title: Domains
+title: Programming domains and evaluation criteria
 draft: true
 ---
 
@@ -62,6 +62,10 @@ A large number of constructs is **difficult to learn**.
 
 <!--ID: 1726155954332-->
 
+#### Overall simplicity
+
+<!--ID: 1729181159878-->
+
 #### Orthogonality
 
 Small sets of primitive constructs can be combined in a relatively small number of ways
@@ -111,10 +115,10 @@ The program can perform to its specifications under all conditions
 
 ## Language design tradeoffs
 
-<!--ID: 1726155954358-->
+<!--ID: 1729181320369-->
 
 ### Reliability vs cost of execution
 
 ![[language_categories.png]]
 
-<!--ID: 1726155954362-->
+<!--ID: 1729181320374-->

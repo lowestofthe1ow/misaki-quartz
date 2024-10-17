@@ -4,47 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "af22b47914f066c7",
+        "id": "de1f18a3f39f563e",
         "type": "tabs",
         "children": [
           {
-            "id": "9c688f43a8202234",
+            "id": "b84be88e796f2dea",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Y2T1/CCINFOM/SQL_SELECT_statements.md",
+                "file": "Y2T1/CSADPRG/Scope.md",
                 "mode": "source",
                 "source": true
-              }
-            }
-          },
-          {
-            "id": "38d27598b537d2f5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Y2T1/CCINFOM/SQL_Joins.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "e7d52c4a9ca30e43",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Y2T1/CCINFOM/SQL_Joins.md",
-                "mode": "source",
-                "source": true
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Scope"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -64,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -73,13 +52,15 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"[[",
+                "query": "keywords",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -87,7 +68,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -110,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Y2T1/CCINFOM/SQL_Joins.md",
+                "file": "Y2T1/CSADPRG/Scope.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +101,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Scope"
             }
           },
           {
@@ -127,10 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Y2T1/CCINFOM/SQL_Joins.md",
+                "file": "Y2T1/CSADPRG/Scope.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Scope"
             }
           },
           {
@@ -141,7 +128,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -150,8 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Y2T1/CCINFOM/SQL_Joins.md"
-              }
+                "file": "Y2T1/CSADPRG/Scope.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Scope"
             }
           }
         ],
@@ -172,53 +163,52 @@
       "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
     }
   },
-  "active": "38d27598b537d2f5",
+  "active": "b84be88e796f2dea",
   "lastOpenFiles": [
+    "MGS/image.png",
+    "index.md",
+    "MGS/Pasted image 20241011132224.png",
+    "Pasted image 20241011144822.png",
+    "Pasted image 20241011144845.png",
+    "Untitled 4.md",
+    "Untitled 3.md",
+    "Untitled 2.md",
+    "Untitled.md",
+    "MGS/MTH101A - Points, lines, and functions.md",
+    "MGS/CSADPRG - Scope and type-checking 1.md",
+    "Y2T1/CSADPRG/Scope.md",
+    "Y2T1/CSADPRG/drafts/Unconditional_branching_and_guarded_commands.md",
+    "Y2T1/CSADPRG/Programming_domains_and_evaluation_criteria.md",
+    "Y2T1/CSADPRG/Names,_bindings,_and scopes.md",
+    "Y2T1/CSADPRG/drafts/Overview_of_programming.md",
+    "Y2T1/CSADPRG/drafts/Iterative_statements.md",
+    "Y2T1/CSADPRG/History_of_programming_languages.md",
+    "Y2T1/CSADPRG/Data_types.md",
+    "Y2T1/CSADPRG/Binding_times.md",
+    "Y2T1/CCINFOM/drafts/SQL Subqueries.md",
+    "Y2T1/CSADPRG/drafts",
+    "Y2T1/CSNETWK/drafts",
+    "Y2T1/CSNETWK/drafts/Introduction to networking.md",
+    "Y2T1/CSNETWK/drafts/Data delivery.md",
+    "Y2T1/CCINFOM/drafts/Data_processing.md",
+    "Y2T1/CCINFOM/drafts",
+    "Y2T1/CCINFOM/drafts/File-based_and_database_systems.md",
+    "Y2T1/CCINFOM/drafts/Fundamentals_of_data_and_information.md",
     "Y2T1/CCINFOM/SQL_SELECT_statements.md",
     "Y2T1/CCINFOM/SQL_Joins.md",
-    "Y2T1/CCINFOM/Fundamentals_of_data_and_information.md",
-    "Y2T1/CSNETWK/Layered_network_design.md",
-    "Y2T1/CE-MATH/Definite_and_indefinite_integrals.md",
-    "index.md",
-    "templates/Frontmatter.md",
+    "MGS/SQL_Exercises.md",
+    "MGS",
     "templates",
-    "Y1T2/GEMATMW/Geometric_transformations.md",
-    "Y1T2/GEMATMW/Fibonacci_sequence_and_the_golden_ratio.md",
-    "Y1T2/GEMATMW/Basic_business_mathematics.md",
-    "Y1T2/GEMATMW/Annuities.md",
-    "Y1T2/CSMATH1/Extrema_over_a_closed_interval.md",
-    "Y1T2/CSMATH1/Derivatives.md",
-    "Y1T2/CSMATH1/Concavity_and_the_second_derivative_test.md",
-    "Y1T2/CCPROG2/Search_and_sort_algorithms.md",
-    "Y1T2/CCPROG2/C_string_library_functions.md",
-    "Y1T2/CCPROG2/Arrays.md",
-    "Y1T2/CCDSTRU/Division_and_modular_arithmetic.md",
-    "Y1T2/CCDSTRU/Prime_numbers,_GCD,_and_LCM.md",
-    "Y1T2/CCDSTRU/Relations.md",
-    "Y1T1/CCICOMP/Data_representation.md",
-    "Y1T1/CCICOMP/Internetworking.md",
-    "Y1T1/CCICOMP/Boolean,_logic_gates,_and_bitwise_operations.md",
-    "Y1T1/CCPROG1/(Q&A)_Tokens_and_token_classification.md",
-    "Y1T1/CCPROG1/Variables_and_assignment.md",
-    "Y1T1/CCPROG1/(Q&A)_Functions_and_programs.md",
     "Y2T1/CCINFOM/src/information_knowledge.png",
     "Y2T1/CSNETWK/src/internet.png",
     "Y2T1/CSADPRG/src/Pasted image 20240918080325.png",
     "Y2T1/CSADPRG/src/language_evaluation_criteria.png",
     "Y2T1/CSADPRG/src/language_categories.png",
     "Y2T1/CCINFOM/src/quality_information.png",
-    "Y2T1/CCINFOM/src/data_life_cycle.png",
-    "Y2T1/CCINFOM/src/data_information.png",
-    "Y2T1/CCINFOM/src/database_system.png",
-    "Y2T1/CCINFOM/src/3-tier_architecture.png",
     "Y2T1/CSNETWK/src",
     "Y2T1/CSADPRG/src",
     "Y2T1/CCINFOM/src",
     "Y2T1/CE-MATH/src",
-    "Y2T1/CSNETWK",
-    "Y2T1/CSADPRG",
-    "Y2T1/CCINFOM",
-    "Y2T1/CE-MATH",
-    "Y2T1"
+    "Y2T1/CSNETWK"
   ]
 }
