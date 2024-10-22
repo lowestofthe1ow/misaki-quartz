@@ -15,7 +15,7 @@ Properties bound at **language design time** refers to properties that were defi
 
 > [!info] This includes:
 >
-> - Binding operator symbols to operations
+> - Binding operator symbols to operations (assuming there are **no** overloaded operations for it; in such cases it occurs during compile time instead)
 > - Reserved words
 > - Defining the size of certain data types in bytes in specific programming languages (e.g. Java)
 
@@ -39,10 +39,12 @@ Properties bound at **compile time** refers to properties defined during compila
 
 ### Link time
 
+**Link time** occurs when the linker determines the addresses of external functions (i.e., when linking imported libraries).
 <!--ID: 1729181159870-->
 
 ### Load time
 
+**Load time** occurs when the **loader** loads the program into memory, binding variables to regions of memory (absolute addresses).
 <!--ID: 1729181159873-->
 
 ### Run time
