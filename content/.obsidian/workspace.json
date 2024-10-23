@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Y1T3/CCPROG3/The_object-oriented_paradigm.md",
+                "file": "Y2T1/CSNETWK/Application_layer.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "The_object-oriented_paradigm"
+              "title": "Application_layer"
             }
           },
           {
@@ -153,10 +153,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Y1T3/CCPROG3/The_object-oriented_paradigm.md"
+                "file": "Y2T1/CSNETWK/Application_layer.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of The_object-oriented_paradigm"
+              "title": "Outline of Application_layer"
             }
           }
         ],
@@ -179,20 +179,25 @@
   },
   "active": "72beb3d09f50081a",
   "lastOpenFiles": [
-    "Y2T1/CSNETWK/Application_layer.md",
-    "Untitled.md",
+    "Y2T1/CSNETWK/Data_delivery.md",
+    "Y2T1/CSNETWK/Layered_network_design.md",
     "Y2T1/CSNETWK/Introduction to networking.md",
-    "Y2T1/CSNETWK/drafts/Data delivery.md",
+    "Y2T1/CSNETWK/Application_layer.md",
+    "Y2T1/CSNETWK/src/udp_segment.png",
+    "Y2T1/CSNETWK/src/three_way_handshake.png",
+    "Pasted image 20241023114030.png",
+    "Y2T1/CSNETWK/src/tcp_segment.png",
+    "Y2T1/CSNETWK/src/tcp_stream.png",
+    "Y1T3/CCPROG3/Polymorphism.md",
+    "Y1T3/CCPROG3/The_object-oriented_paradigm.md",
+    "Untitled.md",
     "Y2T1/CSNETWK/src/recursive.png",
     "Y2T1/CSNETWK/src/iterated.png",
-    "Y2T1/CSNETWK/Layered_network_design.md",
     "Y1T3/CCDSALG/Recurrences.md",
     "Y1T3/CCDSALG/Frequency_counting.md",
     "Y2T1/CSNETWK/src/dns.png",
     "Pasted image 20241022222131.png",
     "Y2T1/CSNETWK/src/tdm.png",
-    "Y2T1/CSNETWK/src/fdm.png",
-    "Y2T1/CSNETWK/src/internet.png",
     "Y1T2/CCDSTRU/Sums_and_sequences.md",
     "Y2T1/CE-MATH/Integration.md",
     "MGS/MTH101A - Points, lines, and functions.md",
@@ -202,7 +207,6 @@
     "Y2T1/CSADPRG/Scope.md",
     "Y2T1/CSADPRG/Names,_bindings,_and scopes.md",
     "Y2T1/CSADPRG/Programming_domains_and_evaluation_criteria.md",
-    "Y1T3/CCPROG3/The_object-oriented_paradigm.md",
     "Y2T1/CSADPRG/History_of_programming_languages.md",
     "MGS/CSADPRG - Scope and type-checking 1.md",
     "Y1T1/CCPROG1/Operator_types,_precedence,_and_associativity.md",
@@ -210,10 +214,6 @@
     "Y1T2/CCPROG2/Pointer_arithmetic_and_arrays.md",
     "Y1T2/CSMATH1/Extrema_over_a_closed_interval.md",
     "Y1T2/CSMATH1/Concavity_and_the_second_derivative_test.md",
-    "Y1T3/CCDSALG/Hashing.md",
-    "MGS/image.png",
-    "MGS/Pasted image 20241011132224.png",
-    "Pasted image 20241011144822.png",
     "Y2T1/CSADPRG/drafts",
     "Y2T1/CSNETWK/drafts",
     "Y2T1/CCINFOM/drafts",

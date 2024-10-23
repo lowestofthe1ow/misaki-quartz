@@ -214,7 +214,11 @@
     "tdm.png",
     "dns.png",
     "iterated.png",
-    "recursive.png"
+    "recursive.png",
+    "tcp_stream.png",
+    "tcp_segment.png",
+    "three_way_handshake.png",
+    "udp_segment.png"
   ],
   "File Hashes": {
     "Y2T1/CSADPRG/Scope.md": "49b681e36feff719173d887928e75ad6",
@@ -242,7 +246,7 @@
     "Y2T1/CSNETWK/drafts/Data delivery.md": "68ad8c0bbe43a0ed11f4fb3d4386ac24",
     "Y1T3/GESTSOC/Sapiens_A_Brief_History_of_Humankind.md": "7f154ae0fec1932e8ccb8856b519f949",
     "Y1T3/GESTSOC/Science_is_political,_technology_is_social.md": "2a6c9d9d98d4c0b5c8a7e74ca9c38918",
-    "Y1T3/CCPROG3/The_object-oriented_paradigm.md": "637b158e579d4ef81d17f2ece78798cf",
+    "Y1T3/CCPROG3/The_object-oriented_paradigm.md": "fe5d0a83d39bca5397a43fbfcfcddd0b",
     "Y1T3/CCPROG3/UML.md": "c50e4c09fb676b2fbd4097e639acfe76",
     "Y1T3/CCPROG3/Polymorphism.md": "ad0d771357fcef04b195e03d53578753",
     "Y1T3/CCPROG3/Java_overview.md": "ffa368b343c77ad50c937bea2234c57c",
@@ -350,7 +354,8 @@
     "Untitled.md": "f2f3a2708afb2eee650c15bc8f264bd9",
     "Y2T1/CSNETWK/Layered_network_design.md": "100c8391a0ce944ec7358393000e1eac",
     "Y2T1/CSNETWK/Introduction to networking.md": "ef263c0fcafa5f09ef3c48c0c15ae39e",
-    "Y2T1/CSNETWK/Application_layer.md": "d1042e67cf165c912de429dba94d78a0"
+    "Y2T1/CSNETWK/Application_layer.md": "1f470637931a62bb7e9b69a897d4e910",
+    "Y2T1/CSNETWK/Data_delivery.md": "48b1412f25c8344ffec86b7fbcef7112"
   },
   "fields_dict": {
     "Basic": [
