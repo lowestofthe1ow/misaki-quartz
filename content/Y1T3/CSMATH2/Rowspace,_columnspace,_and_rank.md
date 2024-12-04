@@ -1,6 +1,6 @@
 ---
 target-deck: CSMATH2::Rowspace, columnspace, and rank
-tags: CSMATH2
+tags: [CSMATH2]
 title: Rowspace, columnspace, and rank
 ---
 
@@ -9,7 +9,7 @@ title: Rowspace, columnspace, and rank
 Given an $m \times n$ matrix $\mathbf{A}$:
 
 - The **rows** of $\mathbf{A}$ [[Linear_combinations,_linear_independence,_and_span#Spanning set|span]] a [[Vector_spaces_and_subspaces#Subspace|subspace]] of $\mathbb{R}^n$, called its **rowspace**.
-- The **columns** of $\mathbf{A}$  likewise span a subspace of of $\mathbb{R}^m$ (note that it has $m$ columns), called its **columnspace**.
+- The **columns** of $\mathbf{A}$ likewise span a subspace of of $\mathbb{R}^m$ (note that it has $m$ columns), called its **columnspace**.
 
 Given $V = \text{span } S$, if $\mathbf{A}$ is the matrix with the vectors in $S$ as its rows, then the **nonzero rows** of $\mathbf{A}$ written in [[REF_RREF_and_row_equivalence#Reduced row echelon form|RREF]] will form a **basis** for $V$. $V$ is the rowspace of $\mathbf{A}$.
 
@@ -21,9 +21,9 @@ The basis found this way has the property such that all vectors $X = \begin{bmat
 
 ## Rank
 
-The **row rank** of a matrix $\mathbf{A}$ is the [[Basis_and_dimension#Dimension of a vector space|dimension]] of its rowspace. It is equivalent to the number of **nonzero rows** in the [[REF_RREF_and_row_equivalence#Reduced row echelon form|RREF]] of  $\mathbf{A}$ (as these rows form a basis for the rowspace). On the other hand, the **column rank** is the dimension of its columnspace. This is equivalent to the row rank of the [[Matrix_operations_(CSMATH2)#Transposition|transpose]] of  $\mathbf{A}$.
+The **row rank** of a matrix $\mathbf{A}$ is the [[Basis_and_dimension#Dimension of a vector space|dimension]] of its rowspace. It is equivalent to the number of **nonzero rows** in the [[REF_RREF_and_row_equivalence#Reduced row echelon form|RREF]] of $\mathbf{A}$ (as these rows form a basis for the rowspace). On the other hand, the **column rank** is the dimension of its columnspace. This is equivalent to the row rank of the [[Matrix_operations_(CSMATH2)#Transposition|transpose]] of $\mathbf{A}$.
 
-Note that the row rank and column rank are **always equal**; they are thus simply referred to as the **rank** of  $\mathbf{A}$, denoted as  $\text{rank } \mathbf{A}$.
+Note that the row rank and column rank are **always equal**; they are thus simply referred to as the **rank** of $\mathbf{A}$, denoted as $\text{rank } \mathbf{A}$.
 
 >[!warning] Although the row rank and column rank are always equal, the rowspace and columnspace are not.
 

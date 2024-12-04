@@ -1,6 +1,6 @@
 ---
 target-deck: GEMATMW::Basic business mathematics
-tags: GEMATMW
+tags: [GEMATMW]
 draft: true
 title: Basic business mathematics
 ---
@@ -30,7 +30,6 @@ The sum of the principal and the interest:
 $$
 F = P + I
 $$
-
 <!--ID: 1709742106977-->
 
 ## Simple interest
@@ -50,7 +49,6 @@ where $I$ is the interest, $P$ is the principal, $r$ is the simple interest rate
 $$
 F = P + Prt \equiv F = P(1 + rt)
 $$
-
 <!--ID: 1709742106987-->
 
 ## Compound interest
@@ -60,5 +58,4 @@ Interest is added to the original principal and the sum becomes the new principa
 $$
 F = P(1 + i)^n
 $$
-
 <!--ID: 1709742106993-->

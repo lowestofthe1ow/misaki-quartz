@@ -1,6 +1,6 @@
 ---
 target-deck: CCICOMP::Computer systems::Computer hardware components::Memory components
-tags: CCICOMP
+tags: [CCICOMP]
 title: Memory components
 ---
 

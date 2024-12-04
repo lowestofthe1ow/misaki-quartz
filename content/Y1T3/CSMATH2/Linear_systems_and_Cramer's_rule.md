@@ -1,6 +1,6 @@
 ---
 target-deck: CSMATH2::Linear systems and Cramer's rule
-tags: CSMATH2
+tags: [CSMATH2]
 title: Linear systems and Cramer's rule
 ---
 
@@ -15,7 +15,6 @@ The above is a **linear equation** in **two** variables. $x = x_1, y = y_1$ is a
 $$
 b = a_1x_1 + a_2x_2 + \dots + a_nx_n \text{ where } b,a_1,a_2,\dots,a_n \in \mathbb{R}
 $$
-
 <!--ID: 1716721003531-->
 
 ### System of linear equations
@@ -47,7 +46,6 @@ a_{21} & a_{22} & \dots & a_{2n} & | & b_2 \\
 a_{m1} & a_{m2} & \dots & a_{mn} & | & b_m
 \end{bmatrix}
 $$
-
 <!--ID: 1716954963595-->
 
 #### Linear systems as matrices
@@ -103,7 +101,6 @@ x + w &= 0 \\
 x + 2y + z &= 0 \\
 \end{align*}
 $$
-
 <!--ID: 1717429724846-->
 
 #### Trivial solution
@@ -151,5 +148,4 @@ b_2 & a_{22} & \dots & a_{2n} \\
 b_n & a_{n2} & \dots & a_{nn} \\
 \end{bmatrix}
 $$
-
 <!--ID: 1717429724860-->

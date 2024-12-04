@@ -1,6 +1,6 @@
 ---
 target-deck: CCICOMP::Data representation::Boolean, logic gates, and bitwise operations
-tags: CCICOMP
+tags: [CCICOMP]
 title: Boolean, logic gates, and bitwise operations
 ---
 
@@ -129,6 +129,6 @@ Complex binary operations can be expressed as Boolean functions which can later 
 |1|0|1|0|
 |1|1|0|1|
 
-Given that single-bit binary addition works as shown above, the **sum** may be represented as $A'B+AB'$ ("'NOT **A**' AND '**B**'" OR "'**A**' AND 'NOT **B**'"), while the **carry** may be represented as  $AB$ (**A** AND **B**).
+Given that single-bit binary addition works as shown above, the **sum** may be represented as $A'B+AB'$ ("'NOT **A**' AND '**B**'" OR "'**A**' AND 'NOT **B**'"), while the **carry** may be represented as $AB$ (**A** AND **B**).
 
 <!--ID: 1697027598902-->

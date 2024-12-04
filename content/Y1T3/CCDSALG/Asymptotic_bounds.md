@@ -1,6 +1,6 @@
 ---
 target-deck: CCDSALG::Asymptotic bounds
-tags: CCDSALG
+tags: [CCDSALG]
 title: Asymptotic bounds
 ---
 
@@ -68,7 +68,6 @@ Equivalently:
 $$
 o(g(n)) = O(g(n)) - \Theta(g(n))
 $$
-
 <!--ID: 1718172269138-->
 
 ### $\Omega$-notation
@@ -90,7 +89,6 @@ Equivalently:
 $$
 \omega(g(n)) = \Omega(g(n)) - \Theta(g(n))
 $$
-
 <!--ID: 1718172269141-->
 
 #### $\omega$-notation
@@ -100,7 +98,6 @@ Similarly to $o$-notation, $\omega$-notation characterizes a lower bound that is
 $$
 O(g(n)) = \{f(n)\text{ | }\exists c > 0, n_0 > 0 \text{ such that } 0 \leq \boxed{cg(n) < f(n)}, \forall n \geq n_0\}
 $$
-
 <!--ID: 1718172269143-->
 
 ### $\Theta$-notation
@@ -118,7 +115,6 @@ It is thus the [[Set_operations#Intersection|intersection]] of $O(g(n))$ and $\O
 $$
 \Theta(g(n)) = O(g(n)) \cap \Omega(g(n))
 $$
-
 <!--ID: 1718172269146-->
 
 ## Growth rate functions

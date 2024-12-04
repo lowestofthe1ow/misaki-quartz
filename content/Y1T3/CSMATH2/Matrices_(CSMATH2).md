@@ -1,6 +1,6 @@
 ---
 target-deck: CSMATH2::Matrices
-tags: CSMATH2
+tags: [CSMATH2]
 title: Matrices (CSMATH2)
 ---
 
@@ -19,7 +19,6 @@ a_{i1} & \dots & a_{ij} & \dots & a_{in} \\
 a_{m1} & \dots & a_{mj} & \dots & a_{mn}
 \end{bmatrix}
 $$
-
 <!--ID: 1715778336801-->
 
 ### Square matrix
@@ -42,7 +41,6 @@ $$
 a_{11} & a_{22} & \dots & a_{mn}
 \end{bmatrix}
 $$
-
 <!--ID: 1715778336812-->
 
 #### Triangular matrix
@@ -57,7 +55,6 @@ a_{11} & a_{12} & \dots & a_{1n} \\
 0 & 0 & \dots & a_{mn}
 \end{bmatrix}
 $$
-
 <!--ID: 1715778336816-->
 
 ##### Diagonal matrix
@@ -72,7 +69,6 @@ a_{11} & 0 & \dots & 0 \\
 0 & 0 & \dots & a_{mn}
 \end{bmatrix}
 $$
-
 <!--ID: 1715778336820-->
 
 ###### Scalar matrix

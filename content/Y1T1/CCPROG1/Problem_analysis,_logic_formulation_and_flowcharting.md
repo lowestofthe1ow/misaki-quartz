@@ -1,6 +1,6 @@
 ---
 target-deck: CCPROG1::Problem analysis, logic formulation and flowcharting
-tags: CCPROG1
+tags: [CCPROG1]
 title: Problem analysis, logic formulation and flowcharting
 ---
 

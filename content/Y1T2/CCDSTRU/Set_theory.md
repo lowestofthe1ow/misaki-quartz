@@ -1,6 +1,6 @@
 ---
 target-deck: CCDSTRU::Set theory
-tags: CCDSTRU
+tags: [CCDSTRU]
 title: Set theory
 ---
 
@@ -28,7 +28,6 @@ $$
 & B = \{2, 4, 6, \ldots, 20\}
 \end{align*}
 $$
-
 <!--ID: 1707668710668-->
 
 ### Set builder
@@ -109,7 +108,6 @@ Set $A$ is a **subset** of set $B$ if and only if every element of $A$ is also i
 $$
 A \subseteq B \leftrightarrow \forall x(x \in A \to x \in B)
 $$
-
 <!--ID: 1707668710702-->
 
 #### Proper subset
@@ -119,7 +117,6 @@ Set $A$ is a **proper subset** of set $B$ if and only if every element of $A$ is
 $$
 A \subset B \leftrightarrow \forall x(x \in A \to x \in B) \land \exists x(x \in B \land x \notin A)
 $$
-
 <!--ID: 1707668710706-->
 
 ### Power set

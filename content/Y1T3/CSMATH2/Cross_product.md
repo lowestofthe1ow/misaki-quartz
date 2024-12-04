@@ -1,6 +1,6 @@
 ---
 target-deck: CSMATH2::Cross product
-tags: CSMATH2
+tags: [CSMATH2]
 title: Cross product
 ---
 
@@ -26,7 +26,6 @@ b_1 & b_2 & b_3
 \end{vmatrix}
 = (a_2b_3 - a_3b_2)\boldsymbol{i} + (a_3b_1 - a_1b_3)\boldsymbol{j} + (a_1b_2 - a_2b_1)\boldsymbol{k}
 $$
-
 <!--ID: 1719854516325-->
 
 ### Properties of the cross product
@@ -71,7 +70,6 @@ a_2 & b_2 & c_2 \\
 a_3 & b_3 & c_3
 \end{vmatrix}
 $$
-
 <!--ID: 1719854516353-->
 
 #### Vector triple product
@@ -81,7 +79,6 @@ The **vector triple product** is the cross product of one vector with the cross 
 $$
 \vec{A} \times (\vec{B} \times \vec{C}) = (\vec{A} \cdot \vec{C})\vec{B} - (\vec{A} \cdot \vec{B})\vec{C}
 $$
-
 <!--ID: 1719854516361-->
 
 ### Geometric interpretation of the cross product

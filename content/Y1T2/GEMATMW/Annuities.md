@@ -1,6 +1,6 @@
 ---
 target-deck: GEMATMW::Annuities
-tags: GEMATMW
+tags: [GEMATMW]
 draft: true
 title: Annuities
 ---
@@ -34,7 +34,6 @@ It is the equal payment made at regular intervals.
 $$
 S = R\frac{(1 + i)^n - 1}{i}
 $$
-
 <!--ID: 1709742091752-->
 
 ### Present value of an ordinary annuity
@@ -48,5 +47,4 @@ or, alternatively:
 $$
 A = \frac{S}{(1+i)^n}
 $$
-
 <!--ID: 1709742091758-->

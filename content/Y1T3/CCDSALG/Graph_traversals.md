@@ -1,6 +1,6 @@
 ---
 target-deck: CCDSALG::Graph traversals
-tags: CCDSALG
+tags: [CCDSALG]
 title: Graph traversals
 ---
 

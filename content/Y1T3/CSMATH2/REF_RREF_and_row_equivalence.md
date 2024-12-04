@@ -1,6 +1,6 @@
 ---
 target-deck: CSMATH2::Reduced row echelon form
-tags: CSMATH2
+tags: [CSMATH2]
 title: REF, RREF, and row equivalence
 ---
 
@@ -69,5 +69,4 @@ $$
  0 & \mathbf{0} & 0 & 1 & 1
 \end{bmatrix}
 $$
-
 <!--ID: 1716954963582-->

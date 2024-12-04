@@ -1,6 +1,6 @@
 ---
 target-deck: CCPROG2::Search and sort algorithms
-tags: CCPROG2
+tags: [CCPROG2]
 title: Search and sort algorithms
 ---
 

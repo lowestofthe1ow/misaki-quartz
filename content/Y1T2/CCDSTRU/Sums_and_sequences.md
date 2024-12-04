@@ -1,6 +1,6 @@
 ---
 target-deck: CCDSTRU::Sums and sequences
-tags: CCDSTRU
+tags: [CCDSTRU]
 title: Sums and sequences
 ---
 
@@ -51,7 +51,6 @@ The sum of the terms $a_m, a_{m+1}, a_{m+2}, ..., a_n$ may be written as:
 $$
 \sum_{j=m}^n a_j
 $$
-
 <!--ID: 1712722469513-->
 
 #### $\sum_{j=m}^n 1$
@@ -59,7 +58,6 @@ $$
 $$
 \sum_{j=m}^n 1 = n - m + 1
 $$
-
 <!--ID: 1712722469518-->
 
 #### $\sum_{j=0}^n r^j$
@@ -67,7 +65,6 @@ $$
 $$
 \sum_{j=0}^n r^j = \frac{r^{n+1}-1}{r-1}
 $$
-
 <!--ID: 1712722469522-->
 
 #### $\sum_{j=0}^n j$
@@ -75,7 +72,6 @@ $$
 $$
 \sum_{j=0}^n j = \frac{n(n+1)}{2}
 $$
-
 <!--ID: 1712722469525-->
 
 #### $\sum_{j=0}^n j^2$
@@ -83,7 +79,6 @@ $$
 $$
 \sum_{j=0}^n j^2 = \frac{n(n+1)(2n+1)}{6}
 $$
-
 <!--ID: 1712722469529-->
 
 #### $\sum_{j=0}^n j^3$
@@ -91,5 +86,4 @@ $$
 $$
 \sum_{j=0}^n j^3 = \frac{n^2(n+1)^2}{4}
 $$
-
 <!--ID: 1712722469532-->

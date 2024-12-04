@@ -1,6 +1,6 @@
 ---
 target-deck: CSNETWK::Data delivery
-tags: CSNETWK
+tags: [CSNETWK]
 title: Data delivery
 ---
 
@@ -74,7 +74,6 @@ The **Transmission Control Protocol (TCP)** is a transport-layer protocol that:
 - features cumulative acknowledgments
 - is connection-oriented
 - is flow-controlled
-
 <!--ID: 1729656340725-->
 
 ### Sequence number
@@ -162,7 +161,6 @@ The **ACK segment** is the third segment, sent by the client, involved in a thre
 ### Connection termination
 
 **Connection termination** involves sending segments containing the FIN flag (both client and host must send a segment containing it).
-
 <!--ID: 1729656340860-->
 
 ### Flow control

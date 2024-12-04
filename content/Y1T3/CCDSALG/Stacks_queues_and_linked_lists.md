@@ -1,6 +1,6 @@
 ---
 target-deck: CCDSALG::Stacks, queues, and linked lists
-tags: CCDSALG
+tags: [CCDSALG]
 title: Stacks, queues, and linked lists
 ---
 

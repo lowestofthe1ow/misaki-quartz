@@ -1,6 +1,6 @@
 ---
 target-deck: CSADPRG::Overview of programming
-tags: CSADPRG
+tags: [CSADPRG]
 title: Overview of programming
 draft: true
 ---

@@ -1,6 +1,6 @@
 ---
 target-deck: CCPROG1::Tokens and token classification
-tags: CCPROG1
+tags: [CCPROG1]
 title: Tokens and token classification
 ---
 

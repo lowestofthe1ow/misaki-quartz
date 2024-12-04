@@ -1,7 +1,6 @@
 ---
 target-deck: CCDSTRU::Predicate logic
-tags:
-  - CCDSTRU
+tags: [CCDSTRU]
 title: Predicate logic
 ---
 

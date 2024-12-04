@@ -1,6 +1,6 @@
 ---
 target-deck: CCDSTRU::Set theory::Set identities
-tags: CCDSTRU
+tags: [CCDSTRU]
 title: Set identities
 ---
 

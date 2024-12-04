@@ -1,6 +1,6 @@
 ---
 target-deck: CCINFOM::SQL SELECT statements
-tags: CCINFOM
+tags: [CCINFOM]
 title: SQL SELECT statements
 ---
 

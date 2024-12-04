@@ -1,6 +1,6 @@
 ---
 target-deck: CE-MATH::Definite and indefinite integrals
-tags: CE-MATH
+tags: [CE-MATH]
 title: Definite and indefinite integrals
 ---
 
@@ -34,7 +34,7 @@ $$
 
 *See also*: [Riemann integral](https://en.wikipedia.org/wiki/Riemann_integral)
 
-![[area_curve.png]]
+![[area_curve.png|500]]
 
 The total area of the shaded region in the above image is given by:
 

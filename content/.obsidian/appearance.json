@@ -1,6 +1,8 @@
 {
-  "cssTheme": "Border",
-  "accentColor": "#e58ac4",
+  "cssTheme": "AnuPpuccin",
+  "accentColor": "#99bce1",
   "interfaceFontFamily": "IBM Plex Sans",
-  "textFontFamily": "IBM Plex Sans"
+  "textFontFamily": "NewComputerModern10,IBM Plex Sans",
+  "theme": "obsidian",
+  "showViewHeader": true
 }

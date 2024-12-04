@@ -1,6 +1,6 @@
 ---
 target-deck: CSMATH2::Dot product and projection
-tags: CSMATH2
+tags: [CSMATH2]
 title: Dot product and projection
 ---
 
@@ -89,7 +89,7 @@ This is consistent with the geometric interpretation of the [[Dot_product_and_pr
 
 ### Vector projection
 
-The vector projection of $\vec{B}$ onto $\vec{A}$ is the vector whose magnitude is the scalar projection of $\vec{B}$ onto $\vec{A}$  and whose direction is the same as $\vec{A}$.
+The vector projection of $\vec{B}$ onto $\vec{A}$ is the vector whose magnitude is the scalar projection of $\vec{B}$ onto $\vec{A}$ and whose direction is the same as $\vec{A}$.
 
 Observe how the unit vector whose direction is the same as $\vec{A}$ is given by:
 
@@ -102,5 +102,4 @@ The vector projection of $\vec{B}$ onto $\vec{A}$ can thus be obtained by scalin
 $$
 \frac{\vec{A} \cdot \vec{B}}{||\vec{A}||}(\frac{\vec{A}}{||\vec{A}||}) = (\frac{\vec{A} \cdot \vec{B}}{||\vec{A}||^2})\vec{A}
 $$
-
 <!--ID: 1719854516473-->

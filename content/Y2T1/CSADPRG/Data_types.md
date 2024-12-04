@@ -1,6 +1,6 @@
 ---
 target-deck: CSADPRG::Data types
-tags: CSADPRG
+tags: [CSADPRG]
 title: Data types
 ---
 

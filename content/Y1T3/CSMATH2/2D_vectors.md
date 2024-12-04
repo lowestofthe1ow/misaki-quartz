@@ -1,6 +1,6 @@
 ---
 target-deck: CSMATH2::2D vectors
-tags: CSMATH2
+tags: [CSMATH2]
 title: 2D vectors
 ---
 
@@ -15,7 +15,7 @@ b
 \end{bmatrix}
 $$
 
-$\mathbf{X}$ is referred to as a **two-dimensional vector**, where the real numbers $x$ and $y$ are referred to as its **components**. Vectors may be represented with a directed line segment from an initial point $P(x_1,y_1)$ to the terminal point $Q(x_2,y_2)$, denoted by $\vec{PQ}$; $P$ is known as the **tail** while $Q$ is known  as the **head**.
+$\mathbf{X}$ is referred to as a **two-dimensional vector**, where the real numbers $x$ and $y$ are referred to as its **components**. Vectors may be represented with a directed line segment from an initial point $P(x_1,y_1)$ to the terminal point $Q(x_2,y_2)$, denoted by $\vec{PQ}$; $P$ is known as the **tail** while $Q$ is known as the **head**.
 
 ![[headtail.png]]
 
@@ -32,7 +32,6 @@ The **magnitude** of a vector, denoted by $||\vec{A}||$ is the **length** of any
 $$
 ||\vec{A}|| = \sqrt{a_1^2 + a_2^2}
 $$
-
 <!--ID: 1719854516515-->
 
 ### Vector direction
@@ -49,7 +48,6 @@ a_1 &= ||\vec{A}||\cos{\theta} \\
 a_2 &= ||\vec{A}||\sin{\theta}
 \end{align*}
 $$
-
 <!--ID: 1719854516525-->
 
 ### Vector addition
@@ -68,7 +66,6 @@ u_1 + v_1 \\
 u_2 + v_2
 \end{bmatrix}
 $$
-
 <!--ID: 1719854516533-->
 
 ### Negative of a vector and vector subtraction
@@ -81,7 +78,6 @@ $$
 -a_2
 \end{bmatrix}
 $$
-
 <!--ID: 1719854516540-->
 
 ### Scalar multiplication
@@ -97,7 +93,6 @@ ca_1 \\
 ca_2
 \end{bmatrix}
 $$
-
 <!--ID: 1719854516548-->
 
 ### Basis vectors

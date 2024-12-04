@@ -1,6 +1,6 @@
 ---
 target-deck: CSMATH1::Extrema graphs::Extrema over a closed interval
-tags: CSMATH1
+tags: [CSMATH1]
 title: Extrema over a closed interval
 ---
 

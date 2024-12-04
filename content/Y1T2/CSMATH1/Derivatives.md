@@ -1,6 +1,6 @@
 ---
 target-deck: CSMATH1
-tags:
+tags: []
 title: Derivatives
 ---
 
@@ -70,7 +70,6 @@ if this limit exists. In other words, if this limit exists, then $f'(x)$ gives *
 $$
 f'(x) = \lim_{x \to x_1} \frac{f(x) - f(x_1)}{x - x_1}
 $$
-
 <!--ID: 1709742068213-->
 
 ### Differentiability

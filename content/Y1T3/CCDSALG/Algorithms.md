@@ -1,6 +1,6 @@
 ---
 target-deck: CCDSALG::Algorithms
-tags: CCDSALG
+tags: [CCDSALG]
 title: Algorithms
 ---
 

@@ -1,6 +1,6 @@
 ---
 target-deck: CCDSTRU::Number theory::Division and modular arithmetic
-tags: CCDSTRU
+tags: [CCDSTRU]
 title: Division and modular arithmetic
 ---
 
@@ -21,7 +21,6 @@ a \mid b &\to \forall c(a \mid bc), c\in \mathbb{Z} \\
 (a \mid b) \land (b \mid c) &\to a \mid c
 \end{align*}
 $$
-
 <!--ID: 1712722536480-->
 
 ## Division algorithm
@@ -49,7 +48,6 @@ a \text{ \bf{mod} } d &= a - d \lfloor\frac{a}{d}\rfloor \\
 a \text{ \bf{div} } d &= \lfloor\frac{a}{d}\rfloor
 \end{align*}
 $$
-
 <!--ID: 1712722536484-->
 
 ### Example: $-11$ divided by $3$
@@ -98,7 +96,6 @@ $$
 \leftrightarrow \text{ } & \exists k \in \mathbb{Z}(a = b + km)
 \end{align*}
 $$
-
 <!--ID: 1712722536490-->
 
 ### Congruence classes
@@ -126,7 +123,6 @@ Addition preserves congruence, i.e.:
 $$
 a + c \equiv b + d(\text{mod } m)
 $$
-
 <!--ID: 1712722536496-->
 
 ### Multiplication and congruence
@@ -136,5 +132,4 @@ Multiplication preserves congruence, i.e.:
 $$
 ac \equiv bd (\text{mod } m)
 $$
-
 <!--ID: 1712722536500-->

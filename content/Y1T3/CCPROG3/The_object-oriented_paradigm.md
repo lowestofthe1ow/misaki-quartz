@@ -1,6 +1,6 @@
 ---
 target-deck: CCPROG3::The object-oriented paradigm
-tags: CCPROG3
+tags: [CCPROG3]
 title: The object-oriented paradigm
 ---
 

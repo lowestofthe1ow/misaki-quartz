@@ -1,6 +1,6 @@
 ---
 target-deck: CSMATH1::Extrema graphs::Rolle's Theorem and Mean Value theorem
-tags: CSMATH1
+tags: [CSMATH1]
 title: "Rolle's Theorem and Mean Value Theorem"
 ---
 

@@ -1,6 +1,6 @@
 ---
 target-deck: CCDSTRU::Set theory::Set operations
-tags: CCDSTRU
+tags: [CCDSTRU]
 title: Set operations
 ---
 

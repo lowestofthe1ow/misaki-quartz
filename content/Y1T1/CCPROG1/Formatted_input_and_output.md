@@ -1,6 +1,6 @@
 ---
 target-deck: CCPROG1::Formatted input and output
-tags: CCPROG1
+tags: [CCPROG1]
 title: Formatted input and output
 ---
 

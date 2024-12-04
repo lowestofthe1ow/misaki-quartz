@@ -1,6 +1,6 @@
 ---
 target-deck: CSMATH1::Extrema graphs::Concavity and the second derivative test
-tags: CSMATH1
+tags: [CSMATH1]
 title: Concavity and the second derivative test
 ---
 

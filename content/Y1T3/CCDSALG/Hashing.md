@@ -1,6 +1,6 @@
 ---
 target-deck: CCDSALG::Hashing
-tags: CCDSALG
+tags: [CCDSALG]
 title: Hashing
 ---
 
@@ -17,7 +17,6 @@ The **load factor** $\alpha$ of a hash table $T$ with $m$ slots storing $n$ elem
 $$
 \alpha = \frac{n}{m}
 $$
-
 <!--ID: 1723125358959-->
 
 ### Direct addressing

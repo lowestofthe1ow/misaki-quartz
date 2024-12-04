@@ -1,6 +1,6 @@
 ---
 target-deck: CSMATH1::Continuity
-tags: CSMATH1
+tags: [CSMATH1]
 title: Continuity
 ---
 

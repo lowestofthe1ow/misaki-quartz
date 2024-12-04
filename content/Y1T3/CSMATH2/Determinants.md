@@ -1,6 +1,6 @@
 ---
 target-deck: CSMATH2::Determinants
-tags: CSMATH2
+tags: [CSMATH2]
 title: Determinants
 ---
 
@@ -50,7 +50,6 @@ The determinant of a matrix and its transpose are equal:
 $$
 |\mathbf{A}| = |\mathbf{A}^T|
 $$
-
 <!--ID: 1717416468104-->
 
 ### Determinants of matrices with two equal rows or a zero row
@@ -68,7 +67,6 @@ If a matrix $\mathbf{A}$ is [[Matrices_(CSMATH2)#Triangular matrix|upper or lowe
 $$
 |\mathbf{A}| = a_{11}a_{22}\dots a_{nn}
 $$
-
 <!--ID: 1717416468114-->
 
 ### Determinant of the product of two matrices
@@ -78,7 +76,6 @@ The determinant of the product of two matrices is the product of their determina
 $$
 |\mathbf{A}\mathbf{B}| = |\mathbf{A}||\mathbf{B}|
 $$
-
 <!--ID: 1717416468120-->
 
 ## Determinants and inverses
@@ -88,5 +85,4 @@ If and only if $\mathbf{A}$ is [[Inverse_of_a_matrix|nonsingular]], then $\mathb
 $$
 |\mathbf{A}^{-1}| = \frac{1}{|\mathbf{A}|}
 $$
-
 <!--ID: 1717416468124-->

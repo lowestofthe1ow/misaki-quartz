@@ -1,6 +1,6 @@
 ---
 target-deck: CSMATH2::Inverse of a matrix
-tags: CSMATH2
+tags: [CSMATH2]
 title: Inverse of a matrix
 ---
 
@@ -12,7 +12,7 @@ $$
 \mathbf{AB} = \mathbf{BA} = I_n
 $$
 
-The inverse of a matrix is **unique** and is written as $\mathbf{A}^{-1}$. It may be calculated by [[Linear_systems_and_Cramer's_rule#Augmented matrix|augmenting]] the identity matrix $I_n$ to $\mathbf{A}$ and reducing it to [[REF_RREF_and_row_equivalence#Reduced row echelon form|RREF]]; if the left-hand side of the augmented matrix becomes $I_n$, then $\mathbf{A}$ is invertible and the new right-hand side  is $\mathbf{A}^{-1}$.
+The inverse of a matrix is **unique** and is written as $\mathbf{A}^{-1}$. It may be calculated by [[Linear_systems_and_Cramer's_rule#Augmented matrix|augmenting]] the identity matrix $I_n$ to $\mathbf{A}$ and reducing it to [[REF_RREF_and_row_equivalence#Reduced row echelon form|RREF]]; if the left-hand side of the augmented matrix becomes $I_n$, then $\mathbf{A}$ is invertible and the new right-hand side is $\mathbf{A}^{-1}$.
 
 <!--ID: 1717416499656-->
 
@@ -39,7 +39,6 @@ If $\mathbf{B} = \mathbf{O}$ (i.e., the system is [[Linear_systems_and_Cramer's_
 $$
 \mathbf{X} = \mathbf{O}
 $$
-
 <!--ID: 1717567794666-->
 
 ### Determinant of an invertible matrix

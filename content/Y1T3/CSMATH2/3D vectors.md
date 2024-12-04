@@ -1,6 +1,6 @@
 ---
 target-deck: CSMATH2::3D vectors
-tags: CSMATH2
+tags: [CSMATH2]
 title: 3D vectors
 ---
 
@@ -34,7 +34,6 @@ $$
 $$
 \vec{A} = a_1\boldsymbol{i} + a_2\boldsymbol{j} + a_3\boldsymbol{k}
 $$
-
 <!--ID: 1719854516484-->
 
 ### Direction angles
@@ -78,5 +77,4 @@ Where $\cos\alpha \ \boldsymbol{i} + \cos\beta \ \boldsymbol{j} + \cos\gamma \ \
 $$
 \vec{u} = \frac{a_1}{||\vec{A}||} \boldsymbol{i} + \frac{a_2}{||\vec{A}||} \boldsymbol{j} + \frac{a_3}{||\vec{A}||} \ \boldsymbol{k}
 $$
-
 <!--ID: 1719854516499-->

@@ -1,6 +1,6 @@
 ---
 target-deck: GEMATMW::Geometric transformations
-tags: GEMATMW
+tags: [GEMATMW]
 draft: true
 title: Geometric transformations
 ---

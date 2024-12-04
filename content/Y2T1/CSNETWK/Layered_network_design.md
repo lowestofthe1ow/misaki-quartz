@@ -1,6 +1,6 @@
 ---
 target-deck: CSNETWK::Layered network design
-tags: CSNETWK
+tags: [CSNETWK]
 title: Layered network design
 ---
 

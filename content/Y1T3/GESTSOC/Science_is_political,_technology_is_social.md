@@ -1,6 +1,6 @@
 ---
 target-deck: GESTSOC::Science is political, technology is social
-tags: GESTSOC
+tags: [GESTSOC]
 draft: true
 title: Science is political, technology is social
 ---

@@ -1,6 +1,6 @@
 ---
 target-deck: CCDSALG::Sorting algorithms
-tags: CCDSALG
+tags: [CCDSALG]
 title: Sorting algorithms
 ---
 

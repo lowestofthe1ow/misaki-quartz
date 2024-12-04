@@ -1,6 +1,6 @@
 ---
 target-deck: CSMATH1::Extrema graphs::Increasing and decreasing functions and the first derivative test
-tags: CSMATH1
+tags: [CSMATH1]
 title: Increasing and decreasing functions and the first derivative test
 ---
 

@@ -1,6 +1,6 @@
 ---
 target-deck: CCPROG3::Class relationships
-tags: CCPROG3
+tags: [CCPROG3]
 title: Class relationships
 ---
 
@@ -67,6 +67,6 @@ Multiplicity defines the **number** of objects expected to participate in a rela
 | `*` | Zero or more |
 | `n...m` | `n` to `m` (`m` can be wildcard `*`) |
 
->[!info] Multiplicity may be written into the attributes, like `Item[*]`. If no multiplicity  is specified, it is safe to assume there's only one instance.
+>[!info] Multiplicity may be written into the attributes, like `Item[*]`. If no multiplicity is specified, it is safe to assume there's only one instance.
 
 <!--ID: 1723000304238-->

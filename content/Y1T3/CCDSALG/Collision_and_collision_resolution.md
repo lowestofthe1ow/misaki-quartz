@@ -1,6 +1,6 @@
 ---
 target-deck: CCDSALG::Collision and collision resolution
-tags: CCDSALG
+tags: [CCDSALG]
 title: Collision and collision resolution
 ---
 
@@ -49,7 +49,6 @@ The **probe sequence** for a hash function is given by:
 $$
 h(k,0), \ h(k,1), \ h(k,2), \ \dots, \ h(k,m-1)
 $$
-
 <!--ID: 1723125358994-->
 
 ##### Linear probing

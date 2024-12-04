@@ -1,6 +1,6 @@
 ---
 target-deck: CSMATH2::Matrix of a linear transformation
-tags: CSMATH2
+tags: [CSMATH2]
 title: Matrix of a linear transformation
 ---
 

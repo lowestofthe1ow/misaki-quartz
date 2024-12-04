@@ -1,6 +1,6 @@
 ---
 target-deck: CCICOMP::Data representation::Floating-point representation
-tags: CCICOMP
+tags: [CCICOMP]
 title: Floating-point representation
 ---
 

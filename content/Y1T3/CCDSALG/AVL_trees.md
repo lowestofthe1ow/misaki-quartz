@@ -1,6 +1,6 @@
 ---
 target-deck: CCDSALG::AVL_trees
-tags: CCDSALG
+tags: [CCDSALG]
 title: AVL trees
 ---
 

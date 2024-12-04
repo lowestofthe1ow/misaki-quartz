@@ -1,6 +1,6 @@
 ---
 target-deck: CCPROG3::UML
-tags: CCPROG3
+tags: [CCPROG3]
 title: UML
 ---
 

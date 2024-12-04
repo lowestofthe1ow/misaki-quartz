@@ -1,6 +1,6 @@
 ---
 target-deck: CSADPRG::Names, bindings, and scopes
-tags: CSADPRG
+tags: [CSADPRG]
 title: Names, bindings, and scopes
 draft: true
 ---

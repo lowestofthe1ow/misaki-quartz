@@ -1,6 +1,6 @@
 ---
 target-deck: CSNETWK::Application layer
-tags: CSNETWK
+tags: [CSNETWK]
 title: Application layer
 ---
 
@@ -126,7 +126,6 @@ Content-Type: text/html
 ## Email application protocols
 
 **Email application protocols** use store-and-forward methods of sending, storing, and retrieving messages, using the Simple Mail Transfer Protocol (**SMTP**) for sending, or either the Post Office Protocol (**POP**) or Internet Message Access Protocol (**IMAP**) for retrieving.
-
 <!--ID: 1729608633636-->
 
 ## Domain name system
@@ -150,13 +149,11 @@ A **domain name system** is a distributed database implemented in a hierarchy of
 ### Top-level domain (TLD) servers
 
 **Top-level domain (TLD) servers** are responsible for all top-level domains, such as `.com`, `.org`, `.net` (network solutions), `.edu` (educause), `.aero`, `.jobs`, `.museums`, and all top-level country domains such as `.cn`, `.uk`, `.fr`, `.ca`, `.jp`, and `.ph`.
-
 <!--ID: 1729608633642-->
 
 ### Authoritative DNS servers
 
 **Authoritative DNS servers** are handled by (and usually owned by) an **organization** providing name mappings for its own hosts.
-
 <!--ID: 1729608633643-->
 
 ### Local DNS name servers
@@ -194,7 +191,6 @@ Once any name server learns a mapping, it performs **DNS caching**, storing it i
 #### DNS resource records
 
 **DNS resource records** are what is cached by a DNS name server. It includes the **name**, **value**, **type**, and **TTL**.
-
 <!--ID: 1729608633653-->
 
 ## Peer-to-peer file distribution

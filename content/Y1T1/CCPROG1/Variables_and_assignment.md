@@ -1,6 +1,6 @@
 ---
 target-deck: CCPROG1::Variables and assignment
-tags: CCPROG1
+tags: [CCPROG1]
 title: Variables and assignment
 ---
 

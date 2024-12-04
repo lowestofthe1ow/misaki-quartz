@@ -1,6 +1,6 @@
 ---
 target-deck: CCPROG1::Operator types, precedence, and associativity
-tags: CCPROG1
+tags: [CCPROG1]
 title: Operator types, precedence, and associativity
 ---
 

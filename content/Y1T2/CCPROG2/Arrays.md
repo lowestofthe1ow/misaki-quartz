@@ -1,6 +1,6 @@
 ---
 target-deck: CCPROG2::Arrays
-tags: CCPROG2
+tags: [CCPROG2]
 title: Arrays
 ---
 
@@ -30,7 +30,7 @@ The most common form of an **array initializer** is a list of constant expressio
 int a[10] = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10};
 ```
 
-If the initializer  is **shorter** than the array, the remaining elements of the array are assigned `0`:
+If the initializer is **shorter** than the array, the remaining elements of the array are assigned `0`:
 
 ```c
 int a[10] = {1, 2, 3, 4, 5, 6};

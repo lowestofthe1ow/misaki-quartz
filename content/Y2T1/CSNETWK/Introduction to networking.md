@@ -1,6 +1,6 @@
 ---
 target-deck: CSNETWK::Introduction to networking
-tags: CSNETWK
+tags: [CSNETWK]
 title: Introduction to networking
 ---
 

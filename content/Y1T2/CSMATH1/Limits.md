@@ -1,6 +1,6 @@
 ---
 target-deck: CSMATH1::Limits
-tags: CSMATH1
+tags: [CSMATH1]
 title: Limits
 ---
 
@@ -33,7 +33,6 @@ $$
 $$
 0 < |x - a| < \delta \to |f(x) - L| < \epsilon
 $$
-
 <!--ID: 1706696346782-->
 
 ### Show that $\lim_{x \to 3} f(x) = 1$ given $f(x)=2x-5$
@@ -63,7 +62,6 @@ $$
 \therefore \lim_{x \to 3} f(x) = 1
 \end{align*}
 $$
-
 <!--ID: 1706696346787-->
 
 ### Show that $\lim_{x \to 2} f(x) = 4$ given $f(x)=x^2$
@@ -79,7 +77,6 @@ Or, equivalently:
 $$
 0 < |x - 2| < \delta \to |x+2||x-2| < \epsilon
 $$
-
 <!--ID: 1706696346790-->
 
 ## Limit theorems
@@ -93,7 +90,6 @@ If $m$ and $b$ are constants, then
 $$
 \lim_{x\to a} mx+b=ma+b
 $$
-
 <!--ID: 1706696346793-->
 
 ### Limit of a constant (2)
@@ -103,7 +99,6 @@ If $c$ is a constant
 $$
 \lim_{x\to a} c=c
 $$
-
 <!--ID: 1706696346796-->
 
 ### Limit of the identity function (3)
@@ -111,7 +106,6 @@ $$
 $$
 \lim_{x\to a} x=a
 $$
-
 <!--ID: 1706696346799-->
 
 ### Limit of the sum and difference of $n$ functions (4, 5)
@@ -122,7 +116,6 @@ $$
 \to \lim_{x\to a} [f_1(x)\pm f_2(x)\pm...\pm f_n(x)]=L_1\pm L_2\pm...\pm L_3
 \end{align*}
 $$
-
 <!--ID: 1706696346804-->
 
 ### Limit of the product of $n$ functions (6, 7)
@@ -133,7 +126,6 @@ $$
 \to \lim_{x\to a} [f_1(x)f_2(x)...f_n(x)]=L_1L_2...L_3
 \end{align*}
 $$
-
 <!--ID: 1706696346808-->
 
 ### Limit of the $n$th power of a function (8)
@@ -144,7 +136,6 @@ $$
 \to \lim_{x\to a} [f(x)]^n=L^n
 \end{align*}
 $$
-
 <!--ID: 1706696346811-->
 
 ### Limit of the quotient of two functions (9)
@@ -155,7 +146,6 @@ $$
 \to \lim_{x\to a} \frac{f(x)}{g(x)}=\frac{L}{M}
 \end{align*}
 $$
-
 <!--ID: 1706696346816-->
 
 ### Limit of the $n$th root of a function (8)
@@ -166,7 +156,6 @@ $$
 \to \lim_{x\to a} \sqrt[n]{f(x)}=\sqrt[n]{L}
 \end{align*}
 $$
-
 <!--ID: 1706696346820-->
 
 ## One-sided limits
@@ -188,7 +177,6 @@ $$
 $$
 0 < x - a < \delta \to |f(x) - L| < \epsilon
 $$
-
 <!--ID: 1706696346824-->
 
 ### Left-hand limit
@@ -206,7 +194,6 @@ $$
 $$
 0 < a - x < \delta \to |f(x) - L| < \epsilon
 $$
-
 <!--ID: 1706696346827-->
 
 ### Two-sided limit
@@ -214,5 +201,4 @@ $$
 $$
 \lim_{x \to a} f(x) \text{ exists and is equal to } L \leftrightarrow \lim_{x \to a^+} f(x) \text{ and } \lim_{x \to a^-} f(x) \text{ both exist and are equal to } L.
 $$
-
 <!--ID: 1706696346830-->

@@ -1,6 +1,6 @@
 ---
 target-deck: CCDSALG::Binary search tree
-tags: CCDSALG
+tags: [CCDSALG]
 title: Binary search tree
 ---
 

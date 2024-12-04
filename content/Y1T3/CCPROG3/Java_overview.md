@@ -1,6 +1,6 @@
 ---
 target-deck: CCPROG3::Java overview
-tags: CCPROG3
+tags: [CCPROG3]
 title: Java overview
 ---
 

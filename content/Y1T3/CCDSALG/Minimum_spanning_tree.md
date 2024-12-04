@@ -1,6 +1,6 @@
 ---
 target-deck: CCDSALG::Minimum spanning tree
-tags: CCDSALG
+tags: [CCDSALG]
 title: Minimum spanning tree
 ---
 

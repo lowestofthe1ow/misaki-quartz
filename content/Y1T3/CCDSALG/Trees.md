@@ -1,6 +1,6 @@
 ---
 target-deck: CCDSALG::Trees
-tags: CCDSALG
+tags: [CCDSALG]
 title: Trees
 draft: true
 ---
@@ -112,7 +112,6 @@ In a complete $k$-ary tree, all leaves have the same depth and all internal node
 $$
 n = k^h
 $$
-
 <!--ID: 1723125334990-->
 
 ###### Height of a complete $k$-ary tree with $n$ leaves
@@ -120,7 +119,6 @@ $$
 $$
 h = log_k n
 $$
-
 <!--ID: 1723125334993-->
 
 ###### Number of nodes in a complete $k$-ary tree with height $h$
@@ -128,5 +126,4 @@ $$
 $$
 \sum_{j=0}^h k^j = \frac{k^{h+1} - 1}{k - 1}
 $$
-
 <!--ID: 1723125334995-->

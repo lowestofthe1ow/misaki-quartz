@@ -1,6 +1,6 @@
 ---
 target-deck: CSMATH2::Basis and dimension
-tags: CSMATH2
+tags: [CSMATH2]
 title: Basis and dimension
 ---
 
@@ -24,7 +24,7 @@ Thus, some [[Set_theory#Subset|subset]] of $S$ is a basis for $W$.
 
 #### Finding a subset of $S$ that is a basis for $W = \text{span } S$
 
-Let $S = \{X_1, X_2, \dots, X_n\}$.  Then, to find a subset of $S$ that is a basis for $W = \text{span } S$:
+Let $S = \{X_1, X_2, \dots, X_n\}$. Then, to find a subset of $S$ that is a basis for $W = \text{span } S$:
 
 1. Form the equation $c_1X_1 + c_2X_2 + \dots + c_nX_n = 0$, where $c_1, c_2, \dots, c_n \in \mathbb{R}$
 2. Write this equation as an augmented matrix.

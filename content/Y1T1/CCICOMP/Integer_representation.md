@@ -1,6 +1,6 @@
 ---
 target-deck: CCICOMP::Data representation::Integer representation
-tags: CCICOMP
+tags: [CCICOMP]
 title: Integer representation
 ---
 

@@ -1,6 +1,6 @@
 ---
 target-deck: CE-MATH::Integration by parts
-tags: CE-MATH
+tags: [CE-MATH]
 title: Integration by parts
 ---
 
@@ -69,5 +69,4 @@ $$
 &= \boxed{\frac{3}{2} e^{2t}(t - \frac{1}{2}) + c}
 \end{align*}
 $$
-
 <!--ID: 1727924325620-->

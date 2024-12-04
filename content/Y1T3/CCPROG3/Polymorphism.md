@@ -1,6 +1,6 @@
 ---
 target-deck: CCPROG3::Polymorphism
-tags: CCPROG3
+tags: [CCPROG3]
 title: Polymorphism
 ---
 
@@ -44,7 +44,7 @@ public class Main {
 }
 ```
 
-**Typecasting** allows is to treat the object stored in the `pet` variable as type  `Dog`, which is a subclass of `Pet`. This allows us to access the subclass-specific method `getRealAge()`.
+**Typecasting** allows is to treat the object stored in the `pet` variable as type `Dog`, which is a subclass of `Pet`. This allows us to access the subclass-specific method `getRealAge()`.
 <!--ID: 1723000361306-->
 
 ### `instanceof` operator

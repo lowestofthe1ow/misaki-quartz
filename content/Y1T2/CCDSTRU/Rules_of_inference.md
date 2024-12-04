@@ -1,6 +1,6 @@
 ---
 target-deck: CCDSTRU::Rules of inference
-tags: CCDSTRU
+tags: [CCDSTRU]
 title: Rules of inference
 ---
 
@@ -35,7 +35,6 @@ $$
 & \therefore p \land q
 \end{align*}
 $$
-
 <!--ID: 1706696346843-->
 
 ### Simplification
@@ -46,7 +45,6 @@ $$
 & \therefore p
 \end{align*}
 $$
-
 <!--ID: 1706696346846-->
 
 ### Addition
@@ -57,7 +55,6 @@ $$
 & \therefore p \lor q
 \end{align*}
 $$
-
 <!--ID: 1706696346849-->
 
 ### Resolution
@@ -69,7 +66,6 @@ $$
 & \therefore q \lor r
 \end{align*}
 $$
-
 <!--ID: 1706696346854-->
 
 ### Hypothetical syllogism
@@ -81,7 +77,6 @@ $$
 & \therefore p \to r
 \end{align*}
 $$
-
 <!--ID: 1706696346857-->
 
 ### Modus ponens
@@ -93,7 +88,6 @@ $$
 & \therefore q
 \end{align*}
 $$
-
 <!--ID: 1706696346860-->
 
 ### Disjunctive syllogism
@@ -105,7 +99,6 @@ $$
 & \therefore q
 \end{align*}
 $$
-
 <!--ID: 1706696346862-->
 
 ### Modus tollens
@@ -117,7 +110,6 @@ $$
 & \therefore \neg p
 \end{align*}
 $$
-
 <!--ID: 1706696346865-->
 
 ## Rules of inference for quantified statements
@@ -132,7 +124,6 @@ $$
 & \therefore P(c) \text{ where } c \in u
 \end{align*}
 $$
-
 <!--ID: 1707552668477-->
 
 ### Existential instantiation

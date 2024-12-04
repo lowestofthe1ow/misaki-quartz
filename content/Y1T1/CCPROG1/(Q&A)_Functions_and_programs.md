@@ -1,6 +1,6 @@
 ---
 target-deck: CCPROG1::Functions and programs::Q&A cards
-tags: CCPROG1
+tags: [CCPROG1]
 title: (Q&A) Functions and programs
 ---
 

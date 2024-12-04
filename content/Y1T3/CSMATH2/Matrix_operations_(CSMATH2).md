@@ -1,6 +1,6 @@
 ---
 target-deck: CSMATH2::Matrix operations
-tags: CSMATH2
+tags: [CSMATH2]
 title: Matrix operations (CSMATH2)
 ---
 
@@ -34,7 +34,6 @@ There also exists a matrix $-\mathbf{A}$ such that $\mathbf{A} + (-\mathbf{A}) =
 $$
 \mathbf{A} = [a_{ij}] \to -\mathbf{A} = [-a_{ij}]
 $$
-
 <!--ID: 1716720911156-->
 
 ## Matrix multiplication
@@ -64,7 +63,6 @@ b_{2} \\
 b_{n}
 \end{bmatrix} = \sum_{i = 1}^{n} a_ib_i
 $$
-
 <!--ID: 1715778362708-->
 
 ### Properties of matrix multiplication
@@ -83,7 +81,6 @@ $$
 (\mathbf{A} + \mathbf{B})\mathbf{C} &= \mathbf{AC} + \mathbf{BC}
 \end{align*}
 $$
-
 <!--ID: 1716720911161-->
 
 ## Scalar multiplication
@@ -108,7 +105,6 @@ $$
 r(\mathbf{A} + \mathbf{B}) &= r\mathbf{A} + r\mathbf{B}
 \end{align*}
 $$
-
 <!--ID: 1716720911164-->
 
 ## Transposition
@@ -123,7 +119,6 @@ $$
 (r\mathbf{A})^T &= r(\mathbf{A}^T)
 \end{align*}
 $$
-
 <!--ID: 1715778362717-->
 
 ### Symmetric matrix

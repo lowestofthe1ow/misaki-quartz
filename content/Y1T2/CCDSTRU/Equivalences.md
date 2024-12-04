@@ -1,6 +1,6 @@
 ---
 target-deck: CCDSTRU::Propositional logic::Equivalences
-tags: CCDSTRU
+tags: [CCDSTRU]
 title: Equivalences
 ---
 

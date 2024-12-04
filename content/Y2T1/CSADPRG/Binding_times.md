@@ -1,6 +1,6 @@
 ---
 target-deck: CSADPRG::Binding times
-tags: CSADPRG
+tags: [CSADPRG]
 title: Binding times
 ---
 

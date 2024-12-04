@@ -1,7 +1,6 @@
 ---
 target-deck: CCPROG3::Encapsulation, classes, and objects
-tags:
-  - CCPROG3
+tags: [CCPROG3]
 title: Encapsulation, classes, and objects
 ---
 

@@ -1,6 +1,6 @@
 ---
 target-deck: CSMATH2::Linear combinations, linear independence, and span
-tags: CSMATH2
+tags: [CSMATH2]
 title: Linear combinations, linear independence, and span
 ---
 
@@ -11,7 +11,6 @@ A vector $X$ in a vector space $V$ is a linear combination of the vectors $X_1, 
 $$
 X = c_1X_1 + c_2X_2 + \dots + c_kX_k, \ c_1, c_2, \dots, c_k \in \mathbb{R}
 $$
-
 <!--ID: 1721102633391-->
 
 ### Spanning set

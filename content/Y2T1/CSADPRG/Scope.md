@@ -1,6 +1,6 @@
 ---
 target-deck: CSADPRG::Scope
-tags: CSADPRG
+tags: [CSADPRG]
 title: Scope
 ---
 
@@ -16,7 +16,7 @@ title: Scope
 
 ### Static scoping
 
-A  variable's **scope** may be determined prior to code execution. The scope of every variable is apparent just by examining the code. For instance, given the following function:
+A variable's **scope** may be determined prior to code execution. The scope of every variable is apparent just by examining the code. For instance, given the following function:
 
 ```js
 function f1() {

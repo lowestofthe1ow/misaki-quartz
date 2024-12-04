@@ -1,6 +1,6 @@
 ---
 target-deck: CCPROG2::C string library functions
-tags: CCPROG2
+tags: [CCPROG2]
 title: C string library functions
 ---
 

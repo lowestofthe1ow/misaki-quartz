@@ -1,6 +1,6 @@
 ---
 target-deck: CCDSTRU::Functions
-tags: CCDSTRU
+tags: [CCDSTRU]
 title: Functions
 ---
 
@@ -15,7 +15,6 @@ $$
 $$
 f: A \to B
 $$
-
 <!--ID: 1710849797680-->
 
 ### Domain
@@ -61,7 +60,6 @@ $$
 $$
 \forall a \forall b (f(a)=f(b) \to a = b)
 $$
-
 <!--ID: 1710849797703-->
 
 ## Surjection
@@ -75,7 +73,6 @@ $$
 $$
 \forall b \exists a (f(a)=b)
 $$
-
 <!--ID: 1710849797706-->
 
 ## Bijection

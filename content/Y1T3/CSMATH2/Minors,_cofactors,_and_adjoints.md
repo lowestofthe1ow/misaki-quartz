@@ -1,6 +1,6 @@
 ---
 target-deck: CSMATH2::Minors, cofactors, and adjoints
-tags: CSMATH2
+tags: [CSMATH2]
 title: Minors, cofactors, and adjoints
 ---
 
@@ -48,7 +48,6 @@ The **cofactor** $A_{ij}$ of $a_{ij}$ is defined as its **minor** multiplied by 
 $$
 A_{ij} = (-1)^{i+j}|M_{ij}|
 $$
-
 <!--ID: 1717416538917-->
 
 ## Cofactor expansion
@@ -85,7 +84,6 @@ $$
 \sum_{i=1}^n a_{ij}A_{ik} &= 0 & j \neq k \\
 \end{align*}
 $$
-
 <!--ID: 1717416538921-->
 
 ## Adjoint of a matrix
@@ -118,5 +116,4 @@ It follows that, if $|\mathbf{A}| \neq 0$, then:
 $$
 \mathbf{A}^{-1} = \frac{1}{|\mathbf{A}|}(\text{adj }\mathbf{A})
 $$
-
 <!--ID: 1717416538927-->

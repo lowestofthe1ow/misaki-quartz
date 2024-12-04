@@ -1,40 +1,41 @@
 ---
 target-deck: CSADPRG::Iterative statements
-tags: CSADPRG
+tags: [CSADPRG]
 title: Iterative statements
 draft: true
 ---
 
 ## Iterative statements
 
-Causes statements to be executed zero ([[Y1T1/CCPROG1/Iterative_statements#The `while` statement|while loops]]), one, or more times ([[Y1T1/CCPROG1/Iterative_statements#The `do` statement|do-while loops]])
+**Iterative statements** cause statements to be executed zero ([[Y1T1/CCPROG1/Iterative_statements#The `while` statement|while loops]]), one, or more times ([[Y1T1/CCPROG1/Iterative_statements#The `do` statement|do-while loops]]) The primary categories are defined by how designers answered two basic design questions:
 
-The primary categories are defined by how designers answered two basicdesign questions:
-
-- How is the iteration controlled?
-- Where should the control mechanism appear in the loop statement?
+- How is the iteration **controlled**?
+- **Where** should the control mechanism appear in the loop statement?
 
 The primary possibilities for iteration control are **logical**, **counting**, or a combination of the two. The main choices for the location of the control mechanism are the top of the loop or the bottom of the loop.
 
 <!--ID: 1728275348069-->
 
-### Logical vs counting
+### Logical
 
-Logical - `while`; counting - `for`
+**Logical iterative statements** are usually denoted by `while`. They are controlled by a Boolean expression (hence "logical"). Although logical iterative statements are more general than counter-controlled loops, they are not necessarily more commonly used.
 
-Although logically controlled loops are more general than counter-controlled loops, they are not necessarily more commonly used. Because counter-controlled loops are more complex, their design is more demanding.
+<!--ID: 1733291718494-->
 
+### Counter-controlled
+
+**Counter-controlled iterative statements** are usually denoted by `for`. Because counter-controlled loops are more complex, their design is usually more demanding.
 <!--ID: 1728275348073-->
 
 ### Location of control mechanism
 
-See [[Y1T1/CCPROG1/Iterative_statements#The `while` statement|while loops]] (**pre-test**) vs [[Y1T1/CCPROG1/Iterative_statements#The `do` statement|do-while loops]] (**post-test**)
+The location of the control mechanism dictates when the loop tests for a condition; see [[Y1T1/CCPROG1/Iterative_statements#The `while` statement|while loops]] (known as **pre-test**) vs [[Y1T1/CCPROG1/Iterative_statements#The `do` statement|do-while loops]] (known as **post-test**)
 
 <!--ID: 1728275348080-->
 
 ### Body
 
-Single statement or collection of statements
+The body of an iterative statement refers to all of the statements contained under it.
 
 <!--ID: 1728275348084-->
 
@@ -51,40 +52,36 @@ for (int i = 0; i < 5; i++) {
 }
 ```
 
-The  **initial value** is `0`, the **terminal value** is `5`, and the **step size** is `1` (increment). These are referred to as the loop parameters.
+The **initial value** is `0`, the **terminal value** is `5`, and the **step size** is `1` (increment). These are referred to as the loop parameters.
 
->[!tip] Counter-controlled loops are sometimes supported by machine instruc- tions designed for that purpose. Unfortunately, machine architecture can out- live the prevailing approaches to programming at the time of the architecture design.
+>[!tip] Counter-controlled loops are sometimes supported by machine instructions designed for that purpose. Unfortunately, machine architecture can outlive the prevailing approaches to programming at the time of the architecture design.
 
-Only the initial value is evaluated exactly once
-
-There is no explicit loop variable and no loop parameters (All of the expressions of C’s for are optional but this can result is code that is syntactically correct yet semantically incorrect). All involved variables can be changed in the loop body. The expressions are evaluated in the order stated previously. Although it can create havoc, it is legal to branch into a C for loop body (comma operator).
+>[!info] Notes
+>- Only the initial value is evaluated exactly once.
+>- There is no explicit loop variable and no loop parameters (All of the expressions of C’s for are optional but this can result is code that is syntactically correct yet semantically incorrect).
+>- All involved variables can be changed in the loop body.
+>- The expressions are evaluated in the order stated previously.
+>- Although it can create havoc, it is legal to branch into a C for loop body (comma operator).
 
 <!--ID: 1728275348088-->
 
-####
-
-
-- What are the type and scope of the loop variable?
-- Should it be legal for the loop variable or loop parameters to be changed in the loop, and if so, does the change affect loop control?
-- Should the loop parameters be evaluated only once, or once for every iteration?
-
-## Python's `for`
+## Python's `for` loop
 
 ```python
 for loop_variable in object:
-<!--ID: 1728275348091-->
-# loop body
+...
 [else:
-# else clause]
+...
+]
 ```
 
-`object` - array slices; uses range function with parameters start, **stop**, and step
+Python's `for` loop iterates over some `object`. Counting loops are usually implemented through array slices and the `range` function (with parameters start, **stop**, and step)
 
 <!--ID: 1728275348095-->
 
 ## Counter-controlled loops in functional languages
 
-[[Recurrences|Recursion]]
+Counter-controlled loops in functional languages may be implemented [[Recurrences|recursively]].
 
 ```f#
 let rec forLoop loopBody reps =

@@ -1,6 +1,6 @@
 ---
 target-deck: CSMATH2::Vector spaces and subspaces
-tags: CSMATH2
+tags: [CSMATH2]
 title: Vector spaces and subspaces
 ---
 
@@ -14,7 +14,7 @@ A **real vector space** is some set of elements $\boldsymbol{V}$ with two operat
 
 ### Closure under $\bigoplus$
 
-A vector space is **closed** under $\bigoplus$, i.e., given $X, Y \in \boldsymbol{V}$, then  $X \bigoplus Y \in \boldsymbol{V}$ with the following properties:
+A vector space is **closed** under $\bigoplus$, i.e., given $X, Y \in \boldsymbol{V}$, then $X \bigoplus Y \in \boldsymbol{V}$ with the following properties:
 
 |Property|Definition|
 |---|---|

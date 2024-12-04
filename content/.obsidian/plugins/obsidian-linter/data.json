@@ -22,7 +22,7 @@
       "enabled": false
     },
     "format-yaml-array": {
-      "enabled": false,
+      "enabled": true,
       "alias-key": true,
       "tag-key": true,
       "default-array-style": "single-line",
@@ -104,7 +104,7 @@
       "enabled": false
     },
     "move-footnotes-to-the-bottom": {
-      "enabled": false
+      "enabled": true
     },
     "re-index-footnotes": {
       "enabled": false
@@ -155,10 +155,10 @@
       "enabled": false
     },
     "remove-hyphenated-line-breaks": {
-      "enabled": false
+      "enabled": true
     },
     "remove-multiple-spaces": {
-      "enabled": false
+      "enabled": true
     },
     "strong-style": {
       "enabled": false,
@@ -190,7 +190,7 @@
       "enabled": true
     },
     "empty-line-around-math-blocks": {
-      "enabled": true
+      "enabled": false
     },
     "empty-line-around-tables": {
       "enabled": true

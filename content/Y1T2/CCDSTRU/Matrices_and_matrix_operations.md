@@ -1,6 +1,6 @@
 ---
 target-deck: CCDSTRU::Matrices and matrix operations
-tags: CCDSTRU
+tags: [CCDSTRU]
 title: Matrices and matrix operations
 ---
 
@@ -36,7 +36,6 @@ $$
 7 & 8 & 9
 \end{bmatrix}
 $$
-
 <!--ID: 1712722536465-->
 
 ### Equal matrices
@@ -49,7 +48,6 @@ $$
 4 & 5 & 6
 \end{bmatrix} = \mathbf{B}
 $$
-
 <!--ID: 1712722536469-->
 
 ## Matrix arithmetic
@@ -75,7 +73,6 @@ $$
 2 & 5 & 2
 \end{bmatrix}
 $$
-
 <!--ID: 1712722536472-->
 
 ### Matrix multiplication

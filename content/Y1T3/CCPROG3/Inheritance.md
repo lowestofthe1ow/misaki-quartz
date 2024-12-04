@@ -1,12 +1,12 @@
 ---
 target-deck: CCPROG3::Inheritance
-tags: CCPROG3
+tags: [CCPROG3]
 title: Inheritance
 ---
 
 ## Inheritance
 
-**Inheritance** is an **is-a** relationship where a **subclass** inherits all attributes and methods from a **superclass**.  Subclasses utilize superclasses as a foundation to build more complex logic.
+**Inheritance** is an **is-a** relationship where a **subclass** inherits all attributes and methods from a **superclass**. Subclasses utilize superclasses as a foundation to build more complex logic.
 
 ```java
 public class Dog extends Pet {

@@ -1,6 +1,6 @@
 ---
 target-deck: CCPROG2::Strings 
-tags: CCPROG2
+tags: [CCPROG2]
 title: Strings
 ---
 

@@ -1,6 +1,6 @@
 ---
 target-deck: CE-MATH::Integration
-tags: CE-MATH
+tags: [CE-MATH]
 title: Integration
 ---
 
@@ -25,7 +25,6 @@ means that:
 $$
 F'(x) = f(x)
 $$
-
 <!--ID: 1726484074440-->
 
 ### Arbitrary constant $c$
@@ -53,7 +52,6 @@ The above holds when $n \in \mathbb{R}, n \neq -1$.
 $$
 \int{3x^4 \ dx} = \frac{3x^{4+1}}{4 + 1} = \frac{3}{5}x^5 + c
 $$
-
 <!--ID: 1726484074447-->
 
 ### Integral of a constant
@@ -63,7 +61,6 @@ The [[#General solution of integrals of the form $ax n$|general solution]] appli
 $$
 \int{8 \ dx} = 8x + c
 $$
-
 <!--ID: 1726484074451-->
 
 ### Integral of a sum of terms
@@ -73,7 +70,6 @@ The integral of a sum of terms can be broken down as the sum of the integrals of
 $$
 \int{(3x + 2x^2 - 5) \ dx} = \int{3x \ dx} + \int{2x^2 \ dx} + \int{5 \ dx}
 $$
-
 <!--ID: 1726484074454-->
 
 ### Trigonometric integrals
@@ -86,7 +82,6 @@ $$
 $$
 \int{\cos{ax} \ dx} = \frac{1}{a}\sin{ax} + c
 $$
-
 <!--ID: 1726484074461-->
 
 #### $\int{\sin{ax} \ dx}$
@@ -94,7 +89,6 @@ $$
 $$
 \int{\sin{ax} \ dx} = -\frac{1}{a}\cos{ax} + c
 $$
-
 <!--ID: 1726484074465-->
 
 #### $\int{\sec^2{ax} \ dx}$
@@ -102,7 +96,6 @@ $$
 $$
 \int{\sec^2{ax} \ dx} = \frac{1}{a}\tan{ax} + c
 $$
-
 <!--ID: 1726484074468-->
 
 #### $\int{\csc^2{ax \ dx}}$
@@ -110,7 +103,6 @@ $$
 $$
 \int{\csc^2{ax \ dx}} = -\frac{1}{a}\cot{ax} + c
 $$
-
 <!--ID: 1726484074472-->
 
 #### $\int{\csc{ax} \cot{ax} \ dx}$
@@ -118,7 +110,6 @@ $$
 $$
 \int{\csc{ax} \cot{ax} \ dx} = -\frac{1}{a} \csc{ax} + c
 $$
-
 <!--ID: 1726484074476-->
 
 #### $\int{\sec{ax} \tan{ax} \ dx}$
@@ -126,7 +117,6 @@ $$
 $$
 \int{\sec{ax} \tan{ax} \ dx} = \frac{1}{a} \sec{ax} + c
 $$
-
 <!--ID: 1726484074479-->
 
 ### $\int{e^{ax} \ dx}$
@@ -134,7 +124,6 @@ $$
 $$
 \int{e^{ax} \ dx} = \frac{1}{a} e^{ax} + c
 $$
-
 <!--ID: 1726484074482-->
 
 ### $\int{\frac{1}{x} \ dx}$
@@ -144,7 +133,6 @@ This is a special case used instead of the [[#General solution of integrals of t
 $$
 \int{\frac{1}{x} \ dx = \ln{x} + c}
 $$
-
 <!--ID: 1726484074485-->
 
 ## Integration by algebraic substitution

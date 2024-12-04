@@ -1,6 +1,6 @@
 ---
 target-deck: CCICOMP::Computer systems::Computer software components::Software development tools
-tags: CCICOMP
+tags: [CCICOMP]
 title: Software development tools and acquisition
 ---
 

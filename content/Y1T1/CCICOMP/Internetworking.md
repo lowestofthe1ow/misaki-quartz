@@ -1,6 +1,6 @@
 ---
 target-deck: CCICOMP::Internetworking
-tags: CCICOMP
+tags: [CCICOMP]
 title: Internetworking
 ---
 

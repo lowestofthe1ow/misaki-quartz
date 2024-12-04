@@ -1,6 +1,6 @@
 ---
 target-deck: GESTSOC::Sapiens - A Brief History of Humankind
-tags: GESTSOC
+tags: [GESTSOC]
 draft: true
 title: Sapiens - A Brief History of Humankind
 ---

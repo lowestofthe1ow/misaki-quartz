@@ -1,6 +1,6 @@
 ---
 target-deck: CCDSALG::Recurrences
-tags: CCDSALG
+tags: [CCDSALG]
 title: Recurrences
 ---
 
@@ -25,5 +25,4 @@ a & n = 0 \\
 T(n-1)+b & n > 0
 \end{cases}
 $$
-
 <!--ID: 1718172259534-->

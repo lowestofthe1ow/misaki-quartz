@@ -1,6 +1,6 @@
 ---
 target-deck: CSADPRG::Programming domains and evaluation criteria
-tags: CSADPRG
+tags: [CSADPRG]
 title: Programming domains and evaluation criteria
 draft: true
 ---

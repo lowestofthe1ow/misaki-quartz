@@ -1,6 +1,6 @@
 ---
 target-deck: CCICOMP::Computer systems::Computer software components::Application software
-tags: CCICOMP
+tags: [CCICOMP]
 title: Application software
 ---
 

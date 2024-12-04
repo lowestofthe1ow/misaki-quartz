@@ -1,6 +1,6 @@
 ---
 target-deck: CCPROG2::Pointer arithmetic and arrays
-tags: CCPROG2
+tags: [CCPROG2]
 title: Pointer arithmetic and arrays
 ---
 

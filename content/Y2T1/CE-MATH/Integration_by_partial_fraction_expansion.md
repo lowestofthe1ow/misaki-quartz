@@ -1,6 +1,6 @@
 ---
 target-deck: CE-MATH::Integration by partial fraction expansion
-tags: CE-MATH
+tags: [CE-MATH]
 title: Integration by partial fraction expansion
 ---
 

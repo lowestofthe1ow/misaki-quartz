@@ -1,6 +1,6 @@
 ---
 target-deck: CCDSALG::Frequency counting
-tags: CCDSALG
+tags: [CCDSALG]
 title: Frequency counting
 ---
 

@@ -1,6 +1,6 @@
 ---
 target-deck: CCICOMP::Data representation
-tags: CCICOMP
+tags: [CCICOMP]
 title: Data representation
 ---
 

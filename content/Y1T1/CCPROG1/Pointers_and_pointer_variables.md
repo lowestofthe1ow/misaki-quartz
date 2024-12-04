@@ -1,6 +1,6 @@
 ---
 target-deck: CCPROG1::Pointers and pointer variables
-tags: CCPROG1
+tags: [CCPROG1]
 title: Pointers and pointer variables
 ---
 

@@ -1,5 +1,5 @@
 ---
 target-deck: 
-tags: 
+tags: []
 title: 
 ---

@@ -1,6 +1,6 @@
 ---
 target-deck: CCICOMP::Data representation::Characters
-tags: CCICOMP
+tags: [CCICOMP]
 title: Character representation
 ---
 

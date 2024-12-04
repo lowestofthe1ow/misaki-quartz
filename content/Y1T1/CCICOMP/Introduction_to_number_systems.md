@@ -1,6 +1,6 @@
 ---
 target-deck: CCICOMP::Introduction to number systems
-tags: CCICOMP
+tags: [CCICOMP]
 title: Introduction to number systems
 ---
 
@@ -93,7 +93,6 @@ Each digit appearing to the left of the binary point represents a value times an
 $$
 101_b = 5_d
 $$
-
 <!--ID: 1694777708904-->
 
 #### Continuous division

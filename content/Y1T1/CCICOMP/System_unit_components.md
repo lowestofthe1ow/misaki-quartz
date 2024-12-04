@@ -1,6 +1,6 @@
 ---
 target-deck: CCICOMP::Computer systems::Computer hardware components::System unit components
-tags: CCICOMP
+tags: [CCICOMP]
 title: System unit components
 ---
 

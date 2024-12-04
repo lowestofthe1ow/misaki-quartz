@@ -1,6 +1,6 @@
 ---
 target-deck: CCDSALG::Graphs
-tags: CCDSALG
+tags: [CCDSALG]
 title: Graphs
 ---
 
@@ -18,7 +18,6 @@ V &= \{1, 2, 3, 4, 5, 6\} \\
 E &= \{(1,2), (1,3), (3,4), (4,6), (5,6)\}
 \end{align*}
 $$
-
 <!--ID: 1723125359010-->
 
 ### Undirected graphs
@@ -52,7 +51,6 @@ A **complete graph** is a graph in which every pair of vertices is adjacent. A c
 $$
 \max|E| = \frac{|V|(|V| - 1)}{2}
 $$
-
 <!--ID: 1723125359023-->
 
 ### Directed graphs
@@ -86,7 +84,7 @@ If $<u,v>$ is an edge, then the vertex $v$ is **adjacent** to $u$ **but not conv
 
 <!--ID: 1728399222445-->
 
-#### Out- and in-degree of a vertex
+#### Outand in-degree of a vertex
 
 The **out-degree** of a vertex is the number of edges **leaving** it. The **in-degree** of a vertex is the number of edges **entering** it. The **degree** of a vertex is the sum of its out-degree and its in-degree.
 
@@ -99,7 +97,6 @@ A **complete graph** is a graph in which every pair of vertices is adjacent. A c
 $$
 \max|E| = |V|(|V| - 1)
 $$
-
 <!--ID: 1728399222451-->
 
 ### Weighted graphs
@@ -109,7 +106,6 @@ A weighted graph is a graph whose edges have associated **weights**:
 $$
 w : E \to \mathbb{R}
 $$
-
 <!--ID: 1723125359038-->
 
 ### Subgraph

@@ -1,6 +1,6 @@
 ---
 target-deck: CCDSTRU::Number theory::Prime numbers, GCD, and LCM
-tags: CCDSTRU
+tags: [CCDSTRU]
 title: Prime numbers, GCD, and LCM
 ---
 
@@ -55,7 +55,6 @@ $\text{lcm}(a,b)$ **exists** because $|\{m|(a \mid m) \land (b \mid m)\}| > 0$ a
 $$
 ab=\text{gcd}(a,b)\times\text{lcm}(a,b)
 $$
-
 <!--ID: 1712722536450-->
 
 ## Identifying $\text{gcd}(a,b)$ and $\text{lcm}(a,b)$ with prime representations
@@ -83,7 +82,6 @@ The least common multiple of $a$ and $b$ can be found in a similar manner, excep
 $$
 \text{lcm}(a,b)=p_1^{\text{max}(a_1,b_1)}, p_1^{\text{max}(a_2,b_2)}, \dots, p_1^{\text{max}(a_n,b_n)}
 $$
-
 <!--ID: 1712722536454-->
 
 ## Euclidean algorithm

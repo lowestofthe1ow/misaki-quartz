@@ -1,6 +1,6 @@
 ---
 target-deck: CCINFOM::SQL Joins
-tags: CCINFOM
+tags: [CCINFOM]
 title: SQL Joins
 ---
 
@@ -56,7 +56,7 @@ The row containing the `id` of `1005` in the `students` table was not included i
 
 ### Outer joins
 
-**Outer joins** behave similarly to inner joins, but a **table** is **preserved** in the final result. In other words, all rows on one table will remain in the final result, even if they are not matched with a row on the other table (instead it will be assigned values of `NULL`). `LEFT JOIN` preserves the **first** table, while `RIGHT JOIN` will preserve the **second**.  For instance, replacing the previous query with a `LEFT JOIN` will yield:
+**Outer joins** behave similarly to inner joins, but a **table** is **preserved** in the final result. In other words, all rows on one table will remain in the final result, even if they are not matched with a row on the other table (instead it will be assigned values of `NULL`). `LEFT JOIN` preserves the **first** table, while `RIGHT JOIN` will preserve the **second**. For instance, replacing the previous query with a `LEFT JOIN` will yield:
 
 ```sql
 SELECT students.id, first_name, last_name, playstyle 

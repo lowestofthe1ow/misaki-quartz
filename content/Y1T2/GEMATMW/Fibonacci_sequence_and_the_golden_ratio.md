@@ -1,6 +1,6 @@
 ---
 target-deck: GEMATMW::Fibonacci sequence and the golden ratio
-tags: GEMATMW
+tags: [GEMATMW]
 draft: true
 title: Fibonacci sequence and the golden ratio
 ---

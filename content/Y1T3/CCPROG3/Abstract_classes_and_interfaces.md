@@ -1,6 +1,6 @@
 ---
 target-deck: CCPROG3::Abstract classes and interfaces
-tags: CCPROG3
+tags: [CCPROG3]
 title: Abstract classes and interfaces
 ---
 

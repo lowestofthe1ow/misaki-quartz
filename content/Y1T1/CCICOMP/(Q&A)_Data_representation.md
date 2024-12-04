@@ -1,6 +1,6 @@
 ---
 target-deck: CCICOMP::Data representation::Q&A cards
-tags: CCICOMP
+tags: [CCICOMP]
 title: (Q&A) Data representation
 ---
 
@@ -75,7 +75,6 @@ $$
 $$
 -511, +511
 $$
-
 <!--ID: 1696773990183-->
 
 ## Compute the range for 10-bit one's complement
@@ -91,7 +90,6 @@ $$
 $$
 -511, +511
 $$
-
 <!--ID: 1696773990187-->
 
 ## Compute the range for 10-bit two's complement
@@ -107,7 +105,6 @@ $$
 $$
 -512, +511
 $$
-
 <!--ID: 1696773990191-->
 
 ## What is the normalized form for IEEE SP?
@@ -115,7 +112,6 @@ $$
 $$
 \pm1.M\times2^{E'-127}
 $$
-
 <!--ID: 1697030404033-->
 
 ## What is the normalized form for IEEE DP?
@@ -123,7 +119,6 @@ $$
 $$
 \pm1.M\times2^{E'-1023}
 $$
-
 <!--ID: 1697030404041-->
 
 ## What is the bit distribution for IEEE SP?

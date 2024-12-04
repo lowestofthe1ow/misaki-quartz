@@ -1,6 +1,6 @@
 ---
 target-deck: CSMATH2::Linear transformations
-tags: CSMATH2
+tags: [CSMATH2]
 title: Linear transformations
 ---
 
@@ -11,7 +11,6 @@ Let $V$ and $W$ be vector spaces. A linear transformation $L$ of $V$ onto $W$ as
 $$
 L: V \to W
 $$
-
 <!--ID: 1722692642114-->
 
 ### Linearity
@@ -21,7 +20,6 @@ Linear transformations are **linear**, meaning:
 $$
 \forall X, Y \in V, L(X+Y) = L(X) + L(Y)
 $$
-
 <!--ID: 1722692642121-->
 
 ### Homogeneity
@@ -43,7 +41,6 @@ Let $S = \{X_1, X_2, \dots, X_n\}$ be a basis for $V$. Then:
 $$
 \forall X \in V, \ L(X) \in \text{span } \{L(X_1), L(X_2), \dots, L(X_n)\}
 $$
-
 <!--ID: 1722692642129-->
 
 ### One-to-one transformations
@@ -53,7 +50,6 @@ A linear transformation is **one-to-one** or [[Functions#Injection|injective]] i
 $$
 \forall X_1, X_2 \in V, \ L(X_1) = L(X_2) \to X_1 \neq X_2
 $$
-
 <!--ID: 1722692642133-->
 
 ## Kernel

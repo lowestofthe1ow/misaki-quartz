@@ -1,6 +1,6 @@
 ---
 target-deck: CCDSTRU::Number theory::Applications of number theory
-tags: CCDSTRU
+tags: [CCDSTRU]
 title: Applications of number theory
 ---
 

@@ -1,6 +1,6 @@
 ---
 target-deck: CCDSTRU::Propositional logic
-tags: CCDSTRU
+tags: [CCDSTRU]
 title: Propositional logic
 ---
 

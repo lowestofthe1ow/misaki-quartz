@@ -1,6 +1,6 @@
 ---
 target-deck: CCPROG1::Functions and programs
-tags: CCPROG1
+tags: [CCPROG1]
 title: Functions and programs
 ---
 

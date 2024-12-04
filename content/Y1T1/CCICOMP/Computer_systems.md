@@ -1,6 +1,6 @@
 ---
 target-deck: CCICOMP::Computer systems
-tags: CCICOMP
+tags: [CCICOMP]
 draft: true
 title: Computer systems
 ---

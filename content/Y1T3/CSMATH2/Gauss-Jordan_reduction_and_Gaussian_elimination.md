@@ -1,6 +1,6 @@
 ---
 target-deck: CSMATH2::Gauss-Jordan reduction and Gaussian elimination
-tags: CSMATH2
+tags: [CSMATH2]
 title: Gauss-Jordan reduction and Gaussian elimination
 ---
 
@@ -25,7 +25,6 @@ $$
 0 & 0 & 0 & 0 & | & 0
 \end{bmatrix}
 $$
-
 <!--ID: 1717416476389-->
 
 ## Gaussian elimination
@@ -73,5 +72,4 @@ $$
 &\equiv \boxed{x = -2w - 5}
 \end{align*}
 $$
-
 <!--ID: 1717416476397-->

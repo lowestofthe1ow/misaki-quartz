@@ -1,6 +1,6 @@
 ---
 target-deck: CCDSTRU::Relations
-tags: CCDSTRU
+tags: [CCDSTRU]
 title: Relations
 ---
 
@@ -29,7 +29,6 @@ $$
 $$
 \forall x ((x,x) \in R)
 $$
-
 <!--ID: 1710859393546-->
 
 ### Symmetry
@@ -43,7 +42,6 @@ $$
 $$
 \forall x \forall y ((x,y) \in R \to (y,x) \in R)
 $$
-
 <!--ID: 1710859393550-->
 
 ### Antisymmetry
@@ -57,7 +55,6 @@ $$
 $$
 \forall x \forall y (((x,y) \in R \land (y,x) \in R) \to x=y)
 $$
-
 <!--ID: 1710859393554-->
 
 ### Transitivity
@@ -71,5 +68,4 @@ $$
 $$
 \forall x \forall y \forall z (((x,y) \in R \land (y,z) \in R) \to (x,z) \in R)
 $$
-
 <!--ID: 1710859393558-->

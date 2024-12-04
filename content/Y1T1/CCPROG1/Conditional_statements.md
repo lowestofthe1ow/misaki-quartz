@@ -1,6 +1,6 @@
 ---
 target-deck: CCPROG1::Conditional statements
-tags: CCPROG1
+tags: [CCPROG1]
 title: Conditional statements
 ---
 
