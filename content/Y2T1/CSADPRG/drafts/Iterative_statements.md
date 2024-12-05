@@ -19,7 +19,6 @@ The primary possibilities for iteration control are **logical**, **counting**, o
 ### Logical
 
 **Logical iterative statements** are usually denoted by `while`. They are controlled by a Boolean expression (hence "logical"). Although logical iterative statements are more general than counter-controlled loops, they are not necessarily more commonly used.
-
 <!--ID: 1733291718494-->
 
 ### Counter-controlled

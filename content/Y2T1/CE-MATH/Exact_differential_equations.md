@@ -107,7 +107,6 @@ then there exists an **integrating factor** we can multiply to both $M$ and $N$ 
 1. $u$ is a function of $x$ (that is, $u = u(x)$). In other words, $u$ has no variable other than $x$.
 2. $u$ is a function of $y$.
 3. $u$ is a function of both $x$ and $y$. Specifically, $u = x^m y^n$, where $m$ and $n$ are constants.
-
 <!--ID: 1733233618258-->
 
 #### The case when $u = u(x)$
@@ -131,15 +130,19 @@ $$
 
 This is the integrating factor used to construct an exact differential equation **if and only if $u$ is strictly a function of only $x$.** From there we proceed as with other exact differential equations.
 
+<!--ID: 1733395776200-->
+
 #### The case when $u = u(y)$
 
 When $u$ is a function of $y$:
 
 $$
-u = e^{\int{\frac{- \left ( \frac{\partial M}{\partial y} - \frac{\partial N}{\partial x} \right )}{N}} \ dy}
+u = e^{\int{\frac{- \left ( \frac{\partial M}{\partial y} - \frac{\partial N}{\partial x} \right )}{M}} \ dy}
 $$
 
 The proof logic is similar to that of the $u(x)$ case.
+
+<!--ID: 1733395776203-->
 
 #### The case when $u = x^m y^n$
 
@@ -148,3 +151,4 @@ When $u = x^m y^n$, we identify the constants $m$ and $n$ as follows:
 $$
 \frac{\partial M}{\partial y} - \frac{\partial N}{\partial x} = \frac{mN}{x} - \frac{nM}{y}
 $$
+<!--ID: 1733395776205-->

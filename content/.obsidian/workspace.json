@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Y2T1/CE-MATH/Exact_differential_equations.md",
-                "mode": "source",
+                "file": "Y2T1/CE-MATH/Differential_equations.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Exact_differential_equations"
+              "title": "Differential_equations"
             }
           },
           {
@@ -43,13 +43,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Y2T1/CE-MATH/Exact_differential_equations.md",
+                "file": "Y2T1/CE-MATH/Integration_by_partial_fraction_expansion.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Exact_differential_equations"
+              "title": "Integration_by_partial_fraction_expansion"
             }
           },
           {
@@ -58,16 +58,17 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Y2T1/CE-MATH/Fourier_series.md",
+                "file": "CE-MATH Todo.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Fourier_series"
+              "title": "CE-MATH Todo"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -210,53 +211,53 @@
       "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
     }
   },
-  "active": "08628575f5496ed6",
+  "active": "9a06c8f713db5bbb",
   "lastOpenFiles": [
-    "Y2T1/CE-MATH/Fourier_series.md",
+    "Y2T1/CE-MATH/Integration_by_partial_fraction_expansion.md",
     "Y2T1/CE-MATH/Integration.md",
-    "Y2T1/CE-MATH/Integration_by_parts.md",
-    "Y2T1/CE-MATH/Laplace_transform.md",
-    "Y2T1/CE-MATH/Applications_of_differential_equations.md",
     "Y2T1/CE-MATH/Exact_differential_equations.md",
+    "Y2T1/CE-MATH/Fourier_series.md",
+    "Y2T1/CE-MATH/Applications_of_differential_equations.md",
+    "Y2T1/CE-MATH/Ordinary_differential_equations.md",
+    "Y2T1/CE-MATH/Differential_equations.md",
+    "Y2T1/CSNETWK/Data_delivery.md",
+    "CE-MATH Todo.md",
+    "Y2T1/CE-MATH/Integration_by_parts.md",
+    "Y2T1/CE-MATH/Numerical_methods_for_differential_equations.md",
+    "Y2T1/CE-MATH/Numerical_integration.md",
+    "Y2T1/CE-MATH/Laplace_transform.md",
+    "Y2T1/CE-MATH/Definite_and_indefinite_integrals.md",
+    "MGS/SQL_Exercises.md",
+    "MGS/Pasted image 20241011132224.png",
+    "MGS/SQL_Exercises_Solutions.md",
+    "MGS/MTH101A - Points, lines, and functions.md",
+    "MGS/CSADPRG - Scope and type-checking 1.md",
+    "MGS/CSADPRG - Scope and type-checking.md",
+    "MGS/image.png",
+    "MGS",
+    "FGS/MTH101A.md",
+    "FGS/MTH101A_Key.md",
+    "FGS",
+    "Y2T1/CSNETWK/Introduction to networking.md",
+    "Y2T1/CSNETWK/Application_layer.md",
+    "Y2T1/CSNETWK/Layered_network_design.md",
     "Y2T1/CE-MATH/src/kvl.png",
     "dccircuits-dcp6.webp",
     "Pasted image 20241205092911.png",
     "Y2T1/CE-MATH/src/kcl.png",
-    "Y2T1/CE-MATH/Ordinary_differential_equations.md",
     "Y2T1 - Copy/CSNETWK/src/three_way_handshake.png",
     "Y2T1 - Copy/CSNETWK/src/udp_segment.png",
     "Y2T1 - Copy/CSNETWK/src/tdm.png",
     "Y2T1 - Copy/CSNETWK/src/tcp_stream.png",
-    "Y2T1 - Copy/CSNETWK/src/tcp_segment.png",
-    "Y2T1 - Copy/CSNETWK/src/recursive.png",
     "Y2T1 - Copy/CSADPRG/drafts/Unconditional_branching_and_guarded_commands.md",
     "Y2T1 - Copy/CSADPRG/drafts/Overview_of_programming.md",
-    "Y2T1 - Copy/CSADPRG/drafts/Iterative_statements.md",
-    "Y2T1 - Copy/CSNETWK/Layered_network_design.md",
     "Y2T1 - Copy/CSNETWK/src",
-    "Y2T1 - Copy/CSNETWK/Introduction to networking.md",
-    "Y2T1 - Copy/CSNETWK/Data_delivery.md",
-    "Y2T1 - Copy/CSNETWK/Application_layer.md",
-    "Y2T1 - Copy/CSADPRG/Subprograms.md",
     "Y2T1 - Copy/CSADPRG/src",
-    "Y2T1 - Copy/CSADPRG/Names,_bindings,_and scopes.md",
-    "Y2T1 - Copy/CSADPRG/Scope.md",
-    "Y2T1 - Copy/CSADPRG/Programming_domains_and_evaluation_criteria.md",
-    "Y2T1 - Copy/CSADPRG/History_of_programming_languages.md",
-    "Y2T1 - Copy/CSADPRG/Expressions_and_assigment.md",
-    "Y2T1 - Copy/CSADPRG/Data_types.md",
     "Y2T1 - Copy/CSADPRG/drafts",
-    "Y2T1 - Copy/CSADPRG/Binding_times.md",
-    "Y2T1 - Copy/CSADPRG/Control_statements.md",
-    "Y2T1 - Copy/CSADPRG/Abstract_data_types.md",
     "Y2T1 - Copy/CE-MATH/src",
-    "Y2T1 - Copy/CE-MATH/Ordinary_differential_equations.md",
-    "Y2T1 - Copy/CE-MATH/Numerical_methods_for_differential_equations.md",
     "Y2T1 - Copy/CCINFOM/src",
     "Y2T1 - Copy/CCINFOM/drafts",
     "Y2T1 - Copy/CSNETWK",
-    "Y2T1 - Copy/CSADPRG",
-    "Y2T1 - Copy/CE-MATH",
-    "Y2T1 - Copy/CCINFOM"
+    "Y2T1 - Copy/CSADPRG"
   ]
 }

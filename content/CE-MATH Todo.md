@@ -1,0 +1,39 @@
+- [ ] Integration
+	- [ ] Standard integrals
+	- [ ] Definite integrals
+	- [ ] Area under a curve
+	- [ ] Integration with substitution
+	- [ ] Integration with partial fractions
+	- [ ] Integration by parts
+	- [ ] Numerical integration
+		- [ ] Trapezoidal
+		- [ ] Simpson's
+- [ ] Differential equations
+	- [ ] Variable-separable equations
+	- [ ] Homogeneous first-order differential equations
+	- [ ] Linear (non-homogeneous) first-order differential equations
+	- [ ] Exact differential equations
+		- [ ] Integrating factors
+	- [ ] Linear second-order differential equation (constant coefficients)
+	- [ ] Numerical methods for differential equations
+		- [ ] Initial-value problems
+		- [ ] Euler's method for ODE
+		- [ ] Runge-Kutta methods
+- [ ] Applications of differential equations
+	- [ ] Growth and decay problems
+	- [ ] Cooling and heating problems
+	- [ ] Flow problems
+	- [ ] Electric circuit problems
+		- [ ] Kirchhoff's current law
+		- [ ] Kirchhoff's voltage law
+	- [ ] Newtonian mechanics
+		- [ ] Falling body problems (with and without air resistance)
+- [ ] Fourier series
+	- [ ] Periodic functions
+	- [ ] Odd and even functions
+	- [ ] Complex and exponential Fourier series
+- [ ] Laplace transform
+	- [ ] Laplace transforms of elementary functions
+	- [ ] Forward and inverse Laplace transforms
+		- [ ] Inverse Laplace transform with partial fractions
+	- [ ] Differential equations with Laplace transforms

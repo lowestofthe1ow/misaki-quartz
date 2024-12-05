@@ -119,7 +119,11 @@ Pass by value is an implementation model for **in-mode** parameters.
 
 >[!info] Programming language implementations
 >- C and Java strictly implement pass by value, but pass by reference is **simulated** with pointers (in C's case) or reference types (in Java's case).
->- C# implements pass by value by default, but implements pass by reference with `ref`.
+>- C
+
+<!--ID: 1733395823485-->
+
+# implements pass by value by default, but implements pass by reference with `ref`.
 
 <!--ID: 1733291718432-->
 <!--ID: 1733291718435-->
@@ -134,10 +138,13 @@ Pass by result is an implementation model for **out-mode** parameters.
 >This usually occurs when the same actual parameter is passed more than once to the function.
 
 >[!info] Programming language implementations
->- C# allows for out-mode parameters.
+>- C
+
+<!--ID: 1733395823488-->
+
+# allows for out-mode parameters.
 
 <!--ID: 1733291718438-->
-
 <!--ID: 1733291718440-->
 
 ### Value-result
@@ -201,7 +208,6 @@ Subprograms passed as parameters must resolve the referencing environment for th
 ### Ad-hoc binding
 
 **Ad-hoc binding** means that the referencing environment for a nested subprogram is within the scope of the subprogram that **passed** it (that is, the subprogram that called the subprogram that accepts it as a parameter).
-
 <!--ID: 1733291718463-->
 
 ## Indirect subprogram calls
@@ -219,7 +225,6 @@ Parameter type restrictions may restrict the programmer and cause repetitive cod
 ### Ad-hoc polymorphism
 
 **Ad-hoc polymorphism** is the use of the same name for different behaviors (as in overloaded subprograms).
-
 <!--ID: 1733291718472-->
 
 ### Subtype polymorphism
@@ -231,7 +236,6 @@ Usually present in object-oriented languages as it is related to the concept of 
 ### Parametric polymorphism
 
 **Parametric polymorphism** refers to generic parameters used in type expressions and are a compile-time substitute for dynamic binding (e.g. a `Box<Integer>` in Java).
-
 <!--ID: 1733291718478-->
 
 ## Template functions
@@ -256,7 +260,6 @@ int max(int first, int second) {
 ## Generic methods
 
 **Generic methods** in Java are methods that introduce their own type parameters. The name of a generic class is specified by a name followed by one or more type variables. It is possible to add **bounds** to such methods, or restrictions on the classes that can be passed as generic parameters
-
 <!--ID: 1733291718483-->
 
 ## Coroutine

@@ -25,6 +25,8 @@ This means that the Laplace transform provides a way to solve differential equat
 >\end{align*}
 >$$
 
+<!--ID: 1733395776165-->
+
 ### Linearity of a Laplace transform
 
 A Laplace transform is **linear**, that is, given a constant $k$:
@@ -38,8 +40,11 @@ Likewise, given constants $a$ and $b$:
 $$
 \mathcal{L}\{af(t) + bg(t)\} = a\mathcal{L}\{f(t)\} + b\mathcal{L}\{g(t)\}
 $$
+<!--ID: 1733395776169-->
 
 ### Laplace transforms of elementary functions
+
+<!--ID: 1733395776171-->
 
 #### $f(t) = 1$
 
@@ -52,6 +57,7 @@ $$
 &= \boxed{\frac{1}{s}}
 \end{align*}
 $$
+<!--ID: 1733395776173-->
 
 #### $f(t) = k$
 
@@ -62,6 +68,7 @@ $$
 = k \left ( \frac{1}{s} \right )
 = \boxed{\frac{k}{s}}
 $$
+<!--ID: 1733395776175-->
 
 #### $f(t) = e^{at}$
 
@@ -76,6 +83,7 @@ $$
 &= \boxed{\frac{1}{s-a}}
 \end{align*}
 $$
+<!--ID: 1733395776177-->
 
 #### $f(t) = \cos{at}$
 
@@ -87,6 +95,7 @@ $$
 &= \boxed{\frac{s}{s^2 + a^2}}
 \end{align*}
 $$
+<!--ID: 1733395776178-->
 
 #### $f(t) = t$
 
@@ -98,8 +107,11 @@ $$
 &= \boxed{\frac{1}{s^2}}
 \end{align*}
 $$
+<!--ID: 1733395776180-->
 
 ### Laplace transforms of derivatives
+
+<!--ID: 1733395776182-->
 
 ### First derivative
 
@@ -114,6 +126,7 @@ We can integrate by parts with $u = e^{-st}$ and $v = f(t)$ to arrive at:
 $$
 \boxed{\mathcal{L}\{f'(t)\} = s \mathcal{L}\{f(t)\} - f(0)}
 $$
+<!--ID: 1733395776183-->
 
 ### Second derivative
 
@@ -125,6 +138,8 @@ $$
 
 Note how this is a quadratic expression in terms of $s$ rather than a linear one as was the case with the transform of the first derivative.
 
+<!--ID: 1733395776185-->
+
 ## Inverse Laplace transform
 
 The inverse function of the Laplace transform, known as an **inverse Laplace transform**, will revert the transform (that is, given a transformed function $\mathcal{L}\{f(t)\}$, the inverse transform will yield the original function $f(t)$).
@@ -135,6 +150,8 @@ This may be useful when solving differential equations:
 2. Substitute the given initial conditions.
 3. Solve for $\mathcal{L}\{y\}$
 4. Determine $y$.
+
+<!--ID: 1733395776187-->
 
 [^1]: In this way, the Laplace transform can be seen as a continuous analog to a [power series](https://en.wikipedia.org/wiki/Power_series). An explanation for this intuition can be found [here](https://www.youtube.com/watch?v=zvbdoSeGAgI) and [here](https://www.youtube.com/watch?v=hqOboV2jgVo).
 [^2]: A complete proof for $\mathcal{L}\{\cos{at}\}$ can be found [here](https://proofwiki.org/wiki/Laplace_Transform_of_Cosine).

@@ -32,8 +32,7 @@ $$
 e^0 C = y_0 \iff C = y_0
 $$
 
->[!warning] On merging constants
->Here we denoted the arbitrary constants with subscripts ($C_1$, $C_2$, etc.), but this is not strictly required. We are allowed to "merge" these constants as the operations will carry over to when we identify their values through the substitution of the initial or boundary conditions. In later problems we will denote them only with a single name, $C$.
+<!--ID: 1733395776207-->
 
 ## Cooling and heating problems
 
@@ -87,6 +86,7 @@ This gives the particular solution:
 $$
 \boxed{T - T_\text{air} = 100e^{\frac{1}{20} \ln{\frac{1}{2}}}}
 $$
+<!--ID: 1733395776209-->
 
 ### Flow problems
 
@@ -128,8 +128,11 @@ Therefore the particular solution is given by:
 $$
 \boxed{s = 100 - 99e^{-\frac{3t}{100}}}
 $$
+<!--ID: 1733395776211-->
 
 ## Electric circuit problems
+
+<!--ID: 1733395776212-->
 
 ### Kirchhoff's current law (KCL)
 
@@ -142,6 +145,8 @@ I_1 + I_2 + I_3 + (-I_4 + -I_5) = 0
 $$
 
 ![[kcl.png|500]]
+
+<!--ID: 1733395776214-->
 
 ### Kirchhoff's voltage law (KVL)
 
@@ -156,6 +161,8 @@ $$
 Consider the following example:
 
 ![[kvl.png|500]]
+
+<!--ID: 1733395776216-->
 
 ### RL circuits
 
@@ -214,3 +221,4 @@ I &= -\frac{5e^{-50t} - 5}{50} \\
 &= \boxed{-\frac{e^{-50t} - 1}{10}}
 \end{align*}
 $$
+<!--ID: 1733395776217-->

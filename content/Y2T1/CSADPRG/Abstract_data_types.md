@@ -32,37 +32,31 @@ A **user-defined abstract data type** must have the same characteristics as buil
 #### Accessor methods
 
 **Accessor methods**, such as getters and setters, allow the programmer to modify an object's data within the constraints specified in the type's definition.
-
 <!--ID: 1733291718410-->
 
 #### Access modifiers
 
 **Access modifiers**, such as `public` and `private`, also provide levels of access to data (some languages even disallow public access, such as Ruby). These are crucial in hiding information about the type's implementation.
-
 <!--ID: 1733291718412-->
 
 ##### Friend functions
 
 **Friend functions** in C++ provide access to private members between unrelated classes.
-
 <!--ID: 1733291718415-->
 
 #### Constructors
 
 **Constructors** initialize the data members of instances, even allocating space in the case of heap-dynamic parts of the object. They are implicitly called when an instance of an object is created (but may also be called explicitly in languages such as C++).
-
 <!--ID: 1733291718419-->
 
 #### Destructors
 
 **Destructors** clean up after an object instance is destroyed, usually to reclaim storage on the heap.
-
 <!--ID: 1733291718422-->
 
 ## Encapsulation
 
 **Encapsulation** is the grouping of subprograms that are logically related into a single unit that can be individually compiled. Examples include C's header files, C++'s implementation files, and C#'s assembly files.
-
 <!--ID: 1733291718426-->
 
 ### Named encapsulation

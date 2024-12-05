@@ -17,6 +17,7 @@ for **all** values of $x$ within the domain of $f$. Here $T$ is known as the **p
 $$
 \sin{x} = \sin{(x + 2\pi)} = \sin{(x + 4\pi)} = \dots
 $$
+<!--ID: 1733395776190-->
 
 ## Fourier series
 
@@ -37,6 +38,8 @@ where $a_0$, $a_n$, and $b_n$ are a set of constants known as the **Fourier seri
 >
 > Note that $\cos{0} = 1$ and $\sin{0} = 0$. The expression then simplifies to just $a_0$, which is why we extract it from the summation and begin at $n=1$ instead.
 
+<!--ID: 1733395776191-->
+
 ### Fourier series coefficients
 
 The **Fourier series coefficients** may be obtained as follows:
@@ -52,6 +55,8 @@ $$
 for the range $-\pi$ to $\pi$[^1].
 
 >[!info] Note that $a_0$ is the **mean value** of the waveform.
+
+<!--ID: 1733395776193-->
 
 ### The phase-amplitude form
 
@@ -80,6 +85,7 @@ Recall that $\tan{\alpha} = \frac{b}{a}$ from the definition of the tangent. The
 $$
 \alpha_n = \arctan{\frac{b_n}{a_n}}
 $$
+<!--ID: 1733395776195-->
 
 ### The Fourier sum at a point of discontinuity
 
@@ -94,6 +100,7 @@ In this case, the limiting value of $f(x)$ as it approaches $x=\frac{\pi}{2}$ is
 $$
 \frac{8 + (-3)}{2} = \frac{5}{2}
 $$
+<!--ID: 1733395776196-->
 
 ### Fourier series of odd and even functions
 
@@ -108,6 +115,8 @@ $f(x)$ is instead **odd** if $f(-x) = -f(x)$ for all values of $x$ in its domain
 The Fourier series of an **even** periodic function with period $2\pi$ will contain only **cosine terms** (and potentially a constant term). This is because the total area under a curve for the sine terms is zeroed out.
 
 Likewise, the Fourier series of an **odd** periodic function with period $2\pi$ will only contain **sine terms** (and potentially a constant term).
+
+<!--ID: 1733395776198-->
 
 [^1]: The proof for each is outside the scope of the course (they rely on the sine and cosine functions being [orthogonal](https://en.wikipedia.org/wiki/Orthogonal_functions)), but an intuitive explanation is available [here](https://www.youtube.com/watch?v=vA9dfINW4Rg).
 [^2]: A proof is available [here](https://en.wikibooks.org/wiki/Trigonometry/Simplifying_a_sin(x)_%2B_b_cos(x)).
