@@ -125,7 +125,7 @@ u(\frac{\partial M}{\partial y} - \frac{\partial N}{\partial x}) &= N \frac{du}{
 &= \int{\frac{\frac{du}{dx}}{u}} \ dx
 && \text {integrate both sides} \\
 &= \ln{|u|} \\
-\therefore \Aboxed{u &= e^{\int{\frac{\frac{\partial M}{\partial y} - \frac{\partial N}{\partial x}}{N}} \ dx}}
+\Aboxed{u &= e^{\int{\frac{\frac{\partial M}{\partial y} - \frac{\partial N}{\partial x}}{N}} \ dx}}
 \end{align*}
 $$
 

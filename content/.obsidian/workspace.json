@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Y2T1/CE-MATH/Laplace_transform.md",
+                "file": "Y2T1/CE-MATH/Exact_differential_equations.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Laplace_transform"
+              "title": "Exact_differential_equations"
             }
           },
           {
@@ -53,21 +53,6 @@
             }
           },
           {
-            "id": "eb730117c509acab",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Y2T1/CE-MATH/Ordinary_differential_equations.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Ordinary_differential_equations"
-            }
-          },
-          {
             "id": "be87e38bb86cb045",
             "type": "leaf",
             "state": {
@@ -82,8 +67,7 @@
               "title": "Fourier_series"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -201,10 +185,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Y2T1/CE-MATH/Ordinary_differential_equations.md"
+                "file": "Y2T1/CE-MATH/Exact_differential_equations.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Ordinary_differential_equations"
+              "title": "Outline of Exact_differential_equations"
             }
           }
         ],
@@ -226,19 +210,25 @@
       "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
     }
   },
-  "active": "eb730117c509acab",
+  "active": "08628575f5496ed6",
   "lastOpenFiles": [
+    "Y2T1/CE-MATH/Fourier_series.md",
+    "Y2T1/CE-MATH/Integration.md",
+    "Y2T1/CE-MATH/Integration_by_parts.md",
     "Y2T1/CE-MATH/Laplace_transform.md",
+    "Y2T1/CE-MATH/Applications_of_differential_equations.md",
+    "Y2T1/CE-MATH/Exact_differential_equations.md",
+    "Y2T1/CE-MATH/src/kvl.png",
+    "dccircuits-dcp6.webp",
+    "Pasted image 20241205092911.png",
+    "Y2T1/CE-MATH/src/kcl.png",
+    "Y2T1/CE-MATH/Ordinary_differential_equations.md",
     "Y2T1 - Copy/CSNETWK/src/three_way_handshake.png",
     "Y2T1 - Copy/CSNETWK/src/udp_segment.png",
     "Y2T1 - Copy/CSNETWK/src/tdm.png",
     "Y2T1 - Copy/CSNETWK/src/tcp_stream.png",
     "Y2T1 - Copy/CSNETWK/src/tcp_segment.png",
     "Y2T1 - Copy/CSNETWK/src/recursive.png",
-    "Y2T1 - Copy/CSNETWK/src/iterated.png",
-    "Y2T1 - Copy/CSNETWK/src/internet.png",
-    "Y2T1 - Copy/CSNETWK/src/dns.png",
-    "Y2T1 - Copy/CSNETWK/src/fdm.png",
     "Y2T1 - Copy/CSADPRG/drafts/Unconditional_branching_and_guarded_commands.md",
     "Y2T1 - Copy/CSADPRG/drafts/Overview_of_programming.md",
     "Y2T1 - Copy/CSADPRG/drafts/Iterative_statements.md",
@@ -262,12 +252,6 @@
     "Y2T1 - Copy/CE-MATH/src",
     "Y2T1 - Copy/CE-MATH/Ordinary_differential_equations.md",
     "Y2T1 - Copy/CE-MATH/Numerical_methods_for_differential_equations.md",
-    "Y2T1 - Copy/CE-MATH/Numerical_integration.md",
-    "Y2T1 - Copy/CE-MATH/Laplace_transform.md",
-    "Y2T1 - Copy/CE-MATH/Integration_by_parts.md",
-    "Y2T1 - Copy/CE-MATH/Integration_by_partial_fraction_expansion.md",
-    "Y2T1 - Copy/CE-MATH/Integration.md",
-    "Y2T1 - Copy/CE-MATH/Fourier_series.md",
     "Y2T1 - Copy/CCINFOM/src",
     "Y2T1 - Copy/CCINFOM/drafts",
     "Y2T1 - Copy/CSNETWK",
