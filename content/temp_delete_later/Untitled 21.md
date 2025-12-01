@@ -1,0 +1,1 @@
+PUSH DWORD [RAX + RBX * 8]

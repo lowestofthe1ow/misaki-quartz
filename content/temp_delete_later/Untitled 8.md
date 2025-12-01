@@ -1,0 +1,50 @@
+- [x] Diodes ✅ 2025-07-07
+	- [x] Biasing / operating regions ✅ 2025-07-07
+	- [x] Diode characteristic curve ✅ 2025-07-07
+	- [x] Shockley's equation ✅ 2025-07-07
+	- [x] Diode equivalent resistance ✅ 2025-07-07
+		- [x] DC / static ✅ 2025-07-07
+		- [x] AC / dynamic ✅ 2025-07-07
+		- [x] Average AC ✅ 2025-07-07
+	- [x] Diode equivalent circuits ✅ 2025-07-07
+		- [x] Ideal diodes ✅ 2025-07-07
+		- [x] Constant voltage-drop ✅ 2025-07-07
+		- [x] Piecewise linear approximation ✅ 2025-07-07
+	- [x] Load line analysis ✅ 2025-07-07
+		- [x] Q-point ✅ 2025-07-07
+	- [x] Series and parallel diode configurations ✅ 2025-07-07
+	- [x] Wave-shaping circuits ✅ 2025-07-08
+		- [x] Rectifiers ✅ 2025-07-08
+		- [x] Clipper ✅ 2025-07-08
+		- [x] Clamper ✅ 2025-07-08
+		- [ ] Voltage doubler / tripler / quadrupler
+	- [x] Other types of diodes ✅ 2025-07-08
+		- [ ] LED
+		- [ ] Varactor
+		- [ ] Schottky
+		- [ ] Current regulator
+		- [ ] Tunnel
+		- [ ] PIN
+		- [ ] Step-recovery
+	- [ ] Troubleshooting diode circuits
+- [ ] Bipolar junction transistors
+	- [ ] History of the transistor
+	- [ ] BJT construction
+		- [ ] pnp
+		- [ ] npn
+	- [ ] BJT operation and configurations
+		- [ ] Common base
+		- [ ] Common emitter
+		- [ ] Common collector
+	- [ ] BJT characteristic curve
+	- [ ] Load line analysis
+		- [ ] Q-points
+		- [ ] Saturation and cutoff
+	- [ ] BJT biasing (DC)
+		- [ ] Limits of operation
+		- [ ] Fixed-bias configuration
+		- [ ] Emitter-stabilized bias configuration
+		- [ ] Voltage-divider bias configuration
+			- [ ] Exact analysis
+			- [ ] Approximate analysis
+			- [ ] DC bias with voltage feedback

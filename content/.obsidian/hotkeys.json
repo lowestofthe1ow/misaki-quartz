@@ -14,5 +14,13 @@
       ],
       "key": "0"
     }
+  ],
+  "file-explorer:open": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "ArrowLeft"
+    }
   ]
 }

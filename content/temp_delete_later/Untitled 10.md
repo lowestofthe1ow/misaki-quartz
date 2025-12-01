@@ -1,0 +1,6 @@
+![[Pasted image 20251006184604.png]]
+
+![[Pasted image 20251006184853.png]]
+
+27. D. The retreat gave me a simple yet powerful perspective on these values. Each one was summarized as the highest forms of three virtues: faith is the highest form of trust, service is the highest form of giving, and communion is the highest form of connection. At the core of these values is my relationship with myself and those around me—the trust, giving, and connections that I share in my everyday life. This gave me a new resolve to strengthen my bonds with my loved ones as a way of acting out the values of St. La Salle.
+28. D. I managed to articulate my personal Lasallian commitment as a simple "heroic vow"—to be kind to those around me to the best of my ability, and to do so with a stronger resolve every day. Moving forward, this likely means continuing my current activities as a tutor, among other acts of "kindness" that are within my strength. The retreat helped strengthen my resolve to become a force of good perhaps not on a grand scale, but at least among the people I meet with every day.

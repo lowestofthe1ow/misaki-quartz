@@ -1,0 +1,42 @@
+- Diodes
+	- Biasing / operating regions
+	- Diode characteristic curve
+	- Shockley's equation
+	- Diode equivalent resistance
+		- DC / static
+		- AC / dynamic
+		- Average AC
+	- Diode equivalent circuits
+		- Ideal diodes
+		- Constant voltage-drop
+		- Piecewise linear approximation
+	- Load line analysis
+		- Q-point
+	- Series and parallel diode configurations
+	- Wave-shaping circuits
+		- Clipper
+		- Clamper
+		- Voltage doubler / tripler / quadrupler
+	- Other types of diodes
+	- Troubleshooting diode circuits
+
+- Bipolar junction transistors
+	- BJT construction
+		- pnp
+		- npn
+	- BJT operation and configurations
+		- Common base
+		- Common emitter
+		- Common collector
+	- BJT characteristic curve
+	- Load line analysis
+		- Q-points
+		- Saturation and cutoff
+	- BJT biasing (DC)
+		- Limits of operation
+		- Fixed-bias configuration
+		- Emitter-stabilized bias configuration
+		- Voltage-divider bias configuration
+			- Exact analysis
+			- Approximate analysis
+		- DC bias with voltage feedback

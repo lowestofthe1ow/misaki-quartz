@@ -1,8 +1,12 @@
 {
   "cssTheme": "AnuPpuccin",
-  "accentColor": "#99bce1",
+  "accentColor": "#ffe66b",
   "interfaceFontFamily": "IBM Plex Sans",
-  "textFontFamily": "NewComputerModern10,IBM Plex Sans",
+  "textFontFamily": "NewComputerModernSans10,Fira Code,NewComputerModern10,IBM Plex Sans",
   "theme": "obsidian",
-  "showViewHeader": true
+  "showViewHeader": true,
+  "enabledCssSnippets": [
+    "heading"
+  ],
+  "baseFontSize": 16
 }

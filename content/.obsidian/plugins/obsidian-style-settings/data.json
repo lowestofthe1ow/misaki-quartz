@@ -14,7 +14,7 @@
   "sanctum@@h2-line": true,
   "sanctum@@h3-line": true,
   "anuppuccin-theme-settings@@anuppuccin-theme-dark": "ctp-mocha",
-  "anuppuccin-theme-settings@@anuppuccin-theme-accents": "ctp-accent-yellow",
+  "anuppuccin-theme-settings@@anuppuccin-theme-accents": "ctp-accent-lavender",
   "anuppuccin-theme-settings@@anp-autohide-titlebar": false,
   "anuppuccin-theme-settings@@anp-hide-status-bar": false,
   "anuppuccin-theme-settings@@anp-header-divider-color-toggle": true,
@@ -33,5 +33,6 @@
   "anuppuccin-theme-settings@@anp-collapse-folders": true,
   "anuppuccin-theme-settings@@anp-file-label-align": "0",
   "anuppuccin-theme-settings@@anp-colorful-frame": false,
-  "anuppuccin-theme-settings@@anp-codeblock-numbers": true
+  "anuppuccin-theme-settings@@anp-codeblock-numbers": true,
+  "anuppuccin-theme-settings@@anuppuccin-accent-toggle": false
 }

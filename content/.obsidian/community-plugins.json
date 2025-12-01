@@ -1,9 +1,13 @@
 [
-  "obsidian-to-anki-plugin",
   "obsidian-front-matter-title-plugin",
   "background-image",
-  "obsidian-linter",
+  "homepage",
   "obsidian-style-settings",
-  "obsidian-footnotes",
-  "status-bar-quote"
+  "obsidian-to-anki-plugin",
+  "obsidian-linter",
+  "obsidian-excalidraw-plugin",
+  "file-explorer-plus",
+  "widgets",
+  "obsidian-tasks-plugin",
+  "better-export-pdf"
 ]
