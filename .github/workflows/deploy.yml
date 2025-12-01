@@ -36,7 +36,7 @@ jobs:
         run: npm ci
 
       - name: chmod permissions
-        run: chmod +x ./node_modules/.bin/quartz
+        run: find node_modules/.bin -type f -exec chmod +x {} \;
 
       - name: Build Quartz
         run: npx quartz build
