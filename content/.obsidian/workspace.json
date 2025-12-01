@@ -4,17 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "df0dfd5c1b5725c9",
+        "id": "743c3ffae7cf72ee",
         "type": "tabs",
         "children": [
           {
-            "id": "a75ae95d591c4eb3",
+            "id": "79f35ec5518e79ca",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Todo.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Todo"
             }
           }
         ]
@@ -168,7 +173,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a75ae95d591c4eb3",
+  "active": "79f35ec5518e79ca",
   "lastOpenFiles": [
     "CSADPRG/src/language_evaluation_criteria.png",
     "CSADPRG/src/language_categories.png",
