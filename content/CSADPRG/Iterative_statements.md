@@ -1,8 +1,9 @@
 ---
 target-deck: CSADPRG::Iterative statements
-tags: [CSADPRG]
+tags:
+  - CSADPRG
 title: Iterative statements
-draft: true
+draft: false
 ---
 
 ## Iterative statements

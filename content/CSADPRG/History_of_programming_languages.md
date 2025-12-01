@@ -1,8 +1,9 @@
 ---
 target-deck: CSADPRG::History of programming languages
-tags: [CSADPRG]
+tags:
+  - CSADPRG
 title: History of programming languages
-draft: true
+draft: false
 ---
 
 ### Plankalkul

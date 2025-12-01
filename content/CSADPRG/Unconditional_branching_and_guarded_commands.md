@@ -1,8 +1,9 @@
 ---
 target-deck: CSADPRG::Unconditional branching and guarded commands
-tags: [CSADPRG]
+tags:
+  - CSADPRG
 title: Unconditional branching and guarded commands
-draft: true
+draft: false
 ---
 
 ## Unconditional branching
